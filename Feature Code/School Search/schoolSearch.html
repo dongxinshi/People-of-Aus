@@ -959,11 +959,11 @@ html {
                 document.getElementById('searchResults').innerHTML = ""
                 for (i = 0; i < schoolData.length; i++) {
                     document.getElementById('searchResults').innerHTML += "<div class='well' id='result'><p style = 'font-size:18px' >" + " <b> " + schoolData[i].school_name + " </b>" + 
-                        "<br></p> <b>School Type: </b>" + schoolData[i].school_type + "<br><b>School Sector: </b>" + schoolData[i].school_sector + "<br><b>Year Level Range: </b>" + schoolData[i].school_range 
+                        "<br></p> <b>Location: </b>" + schoolData[i].suburb + ", " + schoolData[i].state + ", " + schoolData[i].postcode + "<br><b>School Type: </b>" + schoolData[i].school_type + "<br><b>School Sector: </b>" + schoolData[i].school_sector + "<br><b>Year Level Range: </b>" + schoolData[i].school_range 
                         + "<br><b>Education Ranking: </b>" + schoolData[i].education_percentile
                         
                         + "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div><br>" + "<b> School URL: </b> <a href = " + schoolData[i].school_url + " target ='_blank'>" + schoolData[i].school_url
-                        + "</a><br><b>Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "</p></details></div>"
+                        + "</a><br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "</p></details></div>"
 
                         
 
