@@ -1039,6 +1039,12 @@ html {
             });
 
 
+        svg.append("text")
+            .attr("x", 0)             
+            .attr("y", -115)
+            .attr("text-anchor", "middle")  
+            .style("font-size", "16px") 
+            .text("Gender Distribution");
 
 
     }
@@ -1158,12 +1164,12 @@ html {
         legend.append('circle')
             .style('fill', color)
             .style('stroke', color)
-            .attr('cx', 0)
+            .attr('cx', 8)
             .attr('cy', 15)
             .attr('r', '.3rem');
 
         legend.append('text')
-            .attr('x', 10)
+            .attr('x', 18)
             .attr('y', 20)
             .style("font-size", "12px")
             .text(function (d) {
@@ -1172,6 +1178,12 @@ html {
 
 
 
+        svg.append("text")
+            .attr("x", 0)             
+            .attr("y", -115)
+            .attr("text-anchor", "middle")  
+            .style("font-size", "16px") 
+            .text("Background Of Students");
 
     }
 
@@ -1224,7 +1236,7 @@ html {
         .attr("transform", "translate(0," + height + ")")
         .call(d3.axisBottom(x))
         .selectAll("text")
-            .attr("transform", "translate(-10,0)rotate(-45)")
+            .attr("transform", "translate(-10,0)rotate(-30)")
             .style("text-anchor", "end");
 
         // Add Y axis
@@ -1309,7 +1321,12 @@ html {
             .style("stroke", "#855F12")
             .style("stroke-width", "2px");
         
-
+		svg.append("text")
+			.attr("x", (width / 2))             
+			.attr("y", 0 - (margin.top / 2))
+			.attr("text-anchor", "middle")  
+			.style("font-size", "16px") 
+			.text("Socio-Educational Distribution");
     
     }
     function showPlots(i){
