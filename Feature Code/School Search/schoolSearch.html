@@ -24,6 +24,10 @@
 
 
 <style>
+	.form-override {
+		appearance: auto !important;
+	}
+	
 	.navbar {
     position: relative;
     z-index: 200;
@@ -517,6 +521,14 @@ html {
     border: 1px solid #ced4da;
     border-radius: 0.25rem;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;margin-top: 5px;}
+
+    .collapse {
+        background-color: white;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.2s ease-out;
+    }
+	select::-ms-expand { display: block; }
 </style>
 
 
@@ -530,8 +542,8 @@ html {
                         <h5>Find The Perfect School For You</h5>
                         <div class="row g-3 mt-2">
                             <div class="col-md-4">
-                                <label for="country" class="control-label">Country Of Birth</label>
-                                <select class="country form-control mh"  data-live-search="true"  data-width="100%">
+                                <label for="country" class="control-label" aria-expanded="false">Country Of Birth</label>
+                                <select class="country form-control mh selectpicker form-override"  data-live-search="true"  data-width="100%" aria-expanded="false">
                                     <option value="all">All</option>
                                     <option value="afghanistan">Afghanistan</option>
                                     <option value="australia">Australia</option>
@@ -609,7 +621,7 @@ html {
                                     
                                         <div class="col-md-3">
                                             <label for="sector" class="control-label">School Sector</label>
-                                            <select class="sector form-control" data-live-search="true"  data-width="100%">
+                                            <select class="sector form-control  form-override" data-live-search="true"  data-width="100%">
                                                 <option value="all">All</option>
                                                 <option value="Government">Government</option>
                                                 <option value="Independent">Private</option>
@@ -619,7 +631,7 @@ html {
 
                                         <div class="col-md-3">
                                             <label for="type" class="control-label">School Type</label>
-                                                <select class="type form-control"  name="eventTypes" aria-label="Default select example">
+                                                <select class="type form-control  form-override"  name="eventTypes" aria-label="Default select example">
                                                     <option value="all">All</option>
                                                     <option value="Primary">Primary</option>
                                                     <option value="Secondary">Secondary</option>
@@ -630,7 +642,7 @@ html {
                                         
                                         <div class="col-md-3">
                                             <label for="education" class="control-label">School Education Quality</label>
-                                            <select class="education form-control" name="eventTypes" aria-label="Default select example">
+                                            <select class="education form-control  form-override" name="eventTypes" aria-label="Default select example">
                                                 <option value="all">All</option>
                                                 <option value="75">Top 25%</option>
                                                 <option value="50">Top 50%</option>
@@ -640,7 +652,7 @@ html {
 
                                         <div class="col-md-3">
                                             <label for="radius" class="control-label">School Distance</label>
-                                            <select class="radius form-control" name="eventTypes" aria-label="Default select example">
+                                            <select class="radius form-control form-override" name="eventTypes" aria-label="Default select example">
                                                 <option value="10">10km</option>
                                                 <option value="20">20km</option>
                                                 <option value="50">50km</option>
@@ -661,6 +673,21 @@ html {
 </body>
 
 <script>
+
+    var acc = document.getElementsByClassName("advanced");
+    var i;
+
+    for (i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var collapse = this.nextElementSibling;
+        if (collapse.style.maxHeight) {
+            collapse.style.maxHeight = null;
+        } else {
+            collapse.style.maxHeight = collapse.scrollHeight + "px";
+        } 
+    });
+    }
 
     var postcodeData;
 
@@ -955,19 +982,47 @@ html {
 
             schoolData.then(function (result) {
                 schoolData = result
-
-                document.getElementById('searchResults').innerHTML = ""
-                for (i = 0; i < schoolData.length; i++) {
-                    document.getElementById('searchResults').innerHTML += "<div class='well' id='result'><p style = 'font-size:18px' >" + " <b> " + schoolData[i].school_name + " </b>" + 
-                        "<br></p> <b>Location: </b>" + schoolData[i].suburb + ", " + schoolData[i].state + ", " + schoolData[i].postcode + "<br><b>School Type: </b>" + schoolData[i].school_type + "<br><b>School Sector: </b>" + schoolData[i].school_sector + "<br><b>Year Level Range: </b>" + schoolData[i].school_range 
-                        + "<br><b>Education Ranking: </b>" + schoolData[i].education_percentile
-                        
-                        + "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div><br>" + "<b> School URL: </b> <a href = " + schoolData[i].school_url + " target ='_blank'>" + schoolData[i].school_url
-                        + "</a><br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "</p></details></div>"
-
+				
+				if (schoolData.length == 0){
+					document.getElementById("searchResults").innerHTML = "<div class='well'>" + "<br>" + "<b>No Results Found... </b>" + "</div>"
+				}
+				else{
+				
+				
+				if(schoolData[0].country != "None"){
+					
+					function titleCase(string){
+						return string[0].toUpperCase() + string.slice(1).toLowerCase();
+					}
+					
+					country = titleCase(selectedCountry)
+					
+					document.getElementById('searchResults').innerHTML = ""
+					for (i = 0; i < schoolData.length; i++) {
+						document.getElementById('searchResults').innerHTML += "<div class='well' id='result'><p style = 'font-size:18px' >" + " <b> " + schoolData[i].school_name + " </b>" + 
+							"<br></p> <b>Location: </b>" + schoolData[i].suburb + ", " + schoolData[i].state + ", " + schoolData[i].postcode + "<br><b>School Type: </b>" + schoolData[i].school_type + "<br><b>School Sector: </b>" 
+							+ schoolData[i].school_sector + "<br><b>Year Level Range: </b>" + schoolData[i].school_range 
+							
+							+ "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div>" + "<br><b>Education Ranking: </b>" + schoolData[i].education_percentile + "<br><b>Local Area From " + country + ": </b>" + schoolData[i].country.toFixed(2) + "%"
+							+ "</a><br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "<br><b> School URL: </b> <a href = " + schoolData[i].school_url 
+							+ " target ='_blank'>" + schoolData[i].school_url + "</p></details></div>"
+					}
+				}
+					else{
+						document.getElementById('searchResults').innerHTML = ""
+						for (i = 0; i < schoolData.length; i++) {
+							document.getElementById('searchResults').innerHTML += "<div class='well' id='result'><p style = 'font-size:18px' >" + " <b> " + schoolData[i].school_name + " </b>" + 
+								"<br></p> <b>Location: </b>" + schoolData[i].suburb + ", " + schoolData[i].state + ", " + schoolData[i].postcode + "<br><b>School Type: </b>" + schoolData[i].school_type + "<br><b>School Sector: </b>" 
+								+ schoolData[i].school_sector + "<br><b>Year Level Range: </b>" + schoolData[i].school_range 
+								+ "<br><b>Education Ranking: </b>" + schoolData[i].education_percentile
+								+ "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div><br>" + "<b> School URL: </b> <a href = " 
+								+ schoolData[i].school_url + " target ='_blank'>" + schoolData[i].school_url
+								+ "</a><br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "</p></details></div>"
+					}
                         
 
                 }
+				}
             })
 
         })
@@ -1247,7 +1302,7 @@ html {
     function buildBarChart(i){
         
         allData = schoolData[i].bottom_percentile + schoolData[i].lower_middle_percentile + schoolData[i].upper_middle_percentile + schoolData[i].top_percentile
-
+		console.log(schoolData[i])
         var data = [
             {
                 title:'Bottom Quartile', 
