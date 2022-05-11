@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css">
 <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet-src.js"></script>
 
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
@@ -15,15 +15,27 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 <script src="https://d3js.org/d3.v4.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.6.0/d3.min.js"></script>
 
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
 
 
 <style>
+
+.form-check-input:checked {
+    background-color: #F7BF50;
+    border-color: #F7BF50;
+}
 	.form-override {
 		appearance: auto !important;
 	}
@@ -63,7 +75,9 @@
 		margin-bottom: 0;
 		list-style: none;
 }
-	
+	.entry-content h5{
+		margin-bottom:0px !important
+	}
 @-webkit-keyframes spinner-border {
   to {
     -webkit-transform: rotate(360deg);
@@ -248,6 +262,12 @@ element.style {
 
 .dropdown, .dropleft, .dropright, .dropup {
     position: relative;
+}
+	
+	b, strong {
+    font-weight: 800;
+	font-size:16px;
+	margin-left: 15px;
 }
 	
 	.dropdown-menu > li > a:hover {
@@ -522,13 +542,269 @@ html {
     border-radius: 0.25rem;
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;margin-top: 5px;}
 
-    .collapse {
+    .collapse-list {
         background-color: white;
         max-height: 0;
         overflow: hidden;
         transition: max-height 0.2s ease-out;
     }
 	select::-ms-expand { display: block; }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .selector {
+    position: relative;
+    padding: 20px;
+    width: 200px;
+    color: #7e7e7e;
+}
+
+.selector ul {
+    position: relative;
+    display: block;
+    overflow: auto;
+    min-width: 138px;
+    max-height: 200px;
+    background: #fff;
+    list-style: none;
+    white-space: inherit;
+    padding-right: 17px;
+    width: calc(100% + 17px)
+}
+
+.selector li {
+    position: relative;
+    padding: 3px 20px 3px 25px;
+    cursor: pointer
+}
+
+.selector li:before {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    top: 4px;
+    display: inline-block;
+    margin-right: 9px;
+    width: 17px;
+    height: 17px;
+    background-color: #f4f4f4;
+    border: 1px solid #d5d5d5;
+    content: ""
+}
+
+.selector li[data-selected="1"]:before {
+    border: 1px solid #d7d7d7;
+    background-color: #fff
+}
+
+.selector li[data-selected="1"]:after {
+    position: absolute;
+    top: 50%;
+    left: 3px;
+    top: 11px;
+    display: inline-block;
+    width: 4px;
+    height: 10px;
+    border-right: 2px solid;
+    border-bottom: 2px solid;
+    background: none;
+    color: #39c9a9;
+    content: "";
+    -webkit-transform: rotate(40deg) translateY(-50%);
+    transform: rotate(40deg) translateY(-50%)
+}
+
+.selector li:hover {
+    color: #aaa
+}
+
+.selector li .total {
+    position: absolute;
+    right: 0;
+    color: #d7d7d7
+}
+
+.selector .price-slider {
+    text-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    position: relative;
+    padding-top: 17px
+}
+
+@media (min-width: 768px) {
+    .selector .price-slider {
+        padding-top:8px
+    }
+}
+
+.selector .price-slider:before {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    margin-top: 0;
+    color: #39c9a9;
+    content: attr(data-currency);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%)
+}
+
+.selector #distance-slider {
+    width: 90%;
+    margin-bottom: 20px;
+    border: none;
+    background: #f1f1f1;
+    height: 3px;
+    margin-left: -10px;
+    margin-right: 0px
+}
+
+.selector #education-slider {
+    width: 90%;
+    margin-bottom: 20px;
+    border: none;
+    background: #f1f1f1;
+    height: 3px;
+    margin-left: -10px;
+    margin-right: 0px
+}
+
+@media (min-width: 768px) {
+     .selector #distance-slider {
+        width:100%
+    }
+}
+
+@media (min-width: 768px) {
+     .selector #education-slider {
+        width:100%
+    }
+}
+
+.selector .ui-slider-handle {
+    border-radius: 50%;
+    background-color: #F7BF50;
+    border: none;
+    top: -14px;
+    width: 28px;
+    height: 28px;
+    outline: none
+}
+
+@media (min-width: 768px) {
+    .selector .ui-slider-handle {
+        top:-7px;
+        width: 16px;
+        height: 16px
+    }
+}
+
+.selector .ui-education-slider {
+    background-color: #000
+}
+
+.selector .ui-distance-slider {
+    background-color: #d7d7d7
+}
+
+.selector .slider-price {
+    position: relative;
+    display: inline-block;
+    padding: 0px 0px;
+    font-size:12px;
+
+    text-align: center
+}
+
+.selector .slider-price:before {
+    position: absolute;
+    top: 50%;
+    left: 13px;
+    margin-top: 0;
+    color: #39c9a9;
+    content: attr(data-currency);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%)
+}
+
+.selector .show-all {
+    position: relative;
+    padding-left: 25px;
+    color: #39c9a9;
+    cursor: pointer;
+    line-height: 28px
+}
+
+.selector .show-all:after, .selector .show-all:before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 4px;
+    margin-top: -1px;
+    color: #39c9a9;
+    width: 10px;
+    border-bottom: 1px solid
+}
+
+.selector .show-all:after {
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg)
+}
+
+.selector.open ul {
+    max-height: none
+}
+
+.selector.open .show-all:after {
+    display: none
+}
+
+
+* {
+    -webkit-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.ui-widget-header {
+    border: 1px solid #dddddd;
+    background: #F7BF50;
+    color: #333333;
+    /* font-weight: bold; */
+}
+
+.hidden{
+    display:none
+}
 </style>
 
 
@@ -541,7 +817,7 @@ html {
                     <div class="card p-3 py-4">
                         <h5>Find The Perfect School For You</h5>
                         <div class="row g-3 mt-2">
-                            <div class="col-md-4">
+                            <div class="col-md-3">
                                 <label for="country" class="control-label" aria-expanded="false">Country Of Birth</label>
                                 <select class="country form-control mh selectpicker form-override"  data-live-search="true"  data-width="100%" aria-expanded="false">
                                     <option value="all">All</option>
@@ -597,7 +873,7 @@ html {
                                     <option value="zimbabwe">Zimbabwe</option>
                                 </select>
                             </div>
-                            <div class="col-md-5">
+                            <div class="col-md-6">
                                 <br>
                                 <input type="text" id="myInput" class="form-control-search" autocomplete="off" placeholder="Enter suburb..."> 
                             </div>
@@ -611,52 +887,92 @@ html {
 
                         <div class="mt-3">
                         
-                            <a data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" class="advanced">
-                            More Search Options<i class="fa fa-angle-down"></i>
+                            <a data-toggle="collapse-list" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" class="advanced"><b>
+								More Search Options</b><i class="fa fa-angle-down"></i>
                             </a>
                             
-                            <div class="collapse" id="collapseExample">
+                            <div class="collapse-list" id="collapseExample">
                                 <div class="card card-body">
                                     <div class="row">
-                                    
                                         <div class="col-md-3">
-                                            <label for="sector" class="control-label">School Sector</label>
-                                            <select class="sector form-control  form-override" data-live-search="true"  data-width="100%">
-                                                <option value="all">All</option>
-                                                <option value="Government">Government</option>
-                                                <option value="Independent">Private</option>
-                                                <option value="Catholic">Catholic</option>
-                                            </select>
+                                            <label class="control-label">School Sector</label>
+                                            <div id = "sector">
+                                                <div class="form-check">
+                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckGovernment" checked onclick="updateSectorChecks()">
+                                                    <label class="form-check-label" for="flexCheckChecked">
+                                                        Government
+                                                    </label>
+                                                </div>
+                                                <div class="form-check">
+                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckPrivate" checked onclick="updateSectorChecks()">
+                                                    <label class="form-check-label" for="flexCheckChecked">
+                                                        Private
+                                                    </label>
+                                                </div>
+                                                <div class="form-check">
+                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckCatholic" checked onclick="updateSectorChecks()">
+                                                    <label class="form-check-label" for="flexCheckChecked">
+                                                        Catholic
+                                                    </label>
+                                                </div>
+                                            </div>
                                         </div>
-
                                         <div class="col-md-3">
-                                            <label for="type" class="control-label">School Type</label>
-                                                <select class="type form-control  form-override"  name="eventTypes" aria-label="Default select example">
-                                                    <option value="all">All</option>
-                                                    <option value="Primary">Primary</option>
-                                                    <option value="Secondary">Secondary</option>
-                                                    <option value="Combined">Combined</option>
-                                                    <option value="Special">Special</option>
-                                                </select>
+                                            <div id="type">
+                                                <label id= "ting" class="control-label">School Type</label>
+                                                <div class="form-check">
+                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckPrimary" checked onclick="updateTypeChecks()">
+                                                    <label class="form-check-label" for="flexCheckChecked">
+                                                        Primary
+                                                    </label>
+                                                </div>
+                                                <div class="form-check">
+                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckSecondary" checked onclick="updateTypeChecks()">
+                                                    <label class="form-check-label" for="flexCheckChecked">
+                                                        Secondary
+                                                    </label>
+                                                </div>
+                                                <div class="form-check">
+                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckCombined" checked onclick="updateTypeChecks()">
+                                                    <label class="form-check-label" for="flexCheckChecked">
+                                                        Combined
+                                                    </label>
+                                                </div>
+                                                <div class="form-check">
+                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckSpecial" checked onclick="updateTypeChecks()">
+                                                    <label class="form-check-label" for="flexCheckChecked">
+                                                        Special
+                                                    </label>
+                                                </div>
+                                            </div>
                                         </div>
                                         
                                         <div class="col-md-3">
                                             <label for="education" class="control-label">School Education Quality</label>
-                                            <select class="education form-control  form-override" name="eventTypes" aria-label="Default select example">
-                                                <option value="all">All</option>
-                                                <option value="75">Top 25%</option>
-                                                <option value="50">Top 50%</option>
-                                                <option value="25">Top 75%</option>
-                                            </select>
+                                            <div class="selector">
+                                                <div class="price-slider">
+                                                    <div id="education-slider" class="ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content">
+                                                        <div class="ui-education-slider ui-corner-all"></div>
+                                                        <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default" style = "left:100%"></span><span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default" ></span>
+                                                    </div>
+                                                    <span id="education-value" data-max="50"  class="slider-price">Top 100% of schools</span>
+                                                </div> 
+                                            </div>
                                         </div>
 
                                         <div class="col-md-3">
                                             <label for="radius" class="control-label">School Distance</label>
-                                            <select class="radius form-control form-override" name="eventTypes" aria-label="Default select example">
-                                                <option value="10">10km</option>
-                                                <option value="20">20km</option>
-                                                <option value="50">50km</option>
-                                            </select>
+                                            <div class="selector">
+                                                <div class="price-slider">
+                                                    <div id="distance-slider" class="ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content">
+                                                        <div class="ui-distance-slider ui-corner-all"></div>
+                                                        <div class="inputWrap hidden"><input class="inputNumber" type="text" value="5"></div>
+                                                        <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span><span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span>
+                                                    </div>
+                                                    <span id="distance-value" data-max="50" class="slider-price">Up to 15km away</span>
+                                                </div> 
+                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -673,6 +989,61 @@ html {
 </body>
 
 <script>
+
+    var educationVal = 0
+    var distanceVal = 15;
+
+    jQuery(document).ready(function($){
+        $("#education-slider").slider({
+            range: "max", 
+            min: 0,
+            max: 90,
+            step: 10,
+            slide: function( event, ui ) {
+                
+                $( "#education-value").html('Top ' + (100-ui.value) + '% of schools')
+                educationVal = ui.value
+            }
+        })
+
+        $("#distance-slider").slider({
+            range: "min", 
+            value:15,
+            min: 5,
+            max: 50,
+            step: 5,
+            slide: function( event, ui ) {
+                $( "#distance-value").html('Up to ' + ui.value + 'km away')
+                distanceVal = ui.value
+            }
+        })
+        
+    })
+
+    var sectorList = ["Government","Independent","Catholic"];
+    var typeList = ["Primary","Secondary","Combined","Special"];
+
+    function updateSectorChecks(){    
+        sectorList = []
+        sectorCheck = document.getElementById('sector').children
+        for (i = 0; i < sectorCheck.length; i++) {
+            if (document.getElementById("flexCheck" + sectorCheck[i].innerText).checked) {
+                typeList.push(sectorCheck[i].innerText)
+            }
+        }
+
+    }
+
+    function updateTypeChecks(){    
+        typeList = []
+        typeCheck = document.getElementById('type').children
+        for (i = 1; i < typeCheck.length; i++) {
+            if (document.getElementById("flexCheck" + typeCheck[i].innerText).checked) {
+                typeList.push(typeCheck[i].innerText)
+            }
+        }
+
+    }
 
     var acc = document.getElementsByClassName("advanced");
     var i;
@@ -696,6 +1067,7 @@ html {
     var selectedSector = 'all';
     var selectedEducation = 'all';
     var selectedRadius = '10';
+
     jQuery(document).ready(function($){
         $('.country').change(function () {
             selectedCountry = $('.country').val();
@@ -733,8 +1105,40 @@ html {
 
     const loadingOverlay = document.getElementsByClassName('loading-overlay')?.[0];
 
+    url = `https://46987lgfvh.execute-api.ap-southeast-2.amazonaws.com/default/schoolQuery?north=${north}&south=${south}&east=${east}&west=${west}&country=${country}&education=${education}`
+    
+
+    types = {
+        type0:"none",
+        type1:"none",
+        type2:"none",
+        type3:"none"
+    }
+
+    sectors = {
+        sector0:"none",
+        sector1:"none",
+        sector2:"none"
+    }
+
+    for (i = 0; i < type.length; i++){
+        types["type" + i] = type[i]
+    }
+
+    for (i = 0; i < sector.length; i++){
+        sectors["sector" + i] = sector[i]
+    }
+
+    for (const [key, value] of Object.entries(types)) {
+        url += "&" + key + "=" + value
+    }
+    
+    for (const [key, value] of Object.entries(sectors)) {
+        url += "&" + key + "=" + value
+    }
+
     const res = await fetch(
-        `https://46987lgfvh.execute-api.ap-southeast-2.amazonaws.com/default/schoolQuery?north=${north}&south=${south}&east=${east}&west=${west}&country=${country}&type=${type}&sector=${sector}&education=${education}`
+        url
         );
     const json = await res.json();
 
@@ -965,7 +1369,7 @@ html {
             suburb_lat = postcodeDict[0].lat
             suburb_lon = postcodeDict[0].lon
 
-            radius = selectedRadius/111
+            radius = distanceVal/111
 
             north_bound = suburb_lat+radius
             south_bound = suburb_lat-radius
@@ -973,16 +1377,15 @@ html {
             west_bound = suburb_lon-radius
 
             country = selectedCountry
-            type = selectedType
-            sector = selectedSector
-            education = selectedEducation
+            type = typeList
+            sector = sectorList
+            education = educationVal
             
             
             schoolData = getSchoolData(north_bound,south_bound,east_bound,west_bound,country,type,sector,education)
 
             schoolData.then(function (result) {
                 schoolData = result
-				
 				if (schoolData.length == 0){
 					document.getElementById("searchResults").innerHTML = "<div class='well'>" + "<br>" + "<b>No Results Found... </b>" + "</div>"
 				}
@@ -991,6 +1394,7 @@ html {
 				
 				if(schoolData[0].country != "None"){
 					
+                    
 					function titleCase(string){
 						return string[0].toUpperCase() + string.slice(1).toLowerCase();
 					}
@@ -1029,7 +1433,6 @@ html {
     }
   
     function buildSexDonut(i){
-
         // define data
         var totals = [
             {
@@ -1302,7 +1705,7 @@ html {
     function buildBarChart(i){
         
         allData = schoolData[i].bottom_percentile + schoolData[i].lower_middle_percentile + schoolData[i].upper_middle_percentile + schoolData[i].top_percentile
-		console.log(schoolData[i])
+		
         var data = [
             {
                 title:'Bottom Quartile', 
@@ -1459,7 +1862,7 @@ html {
                 suburb_lat = postcodeDict[0].lat
                 suburb_lon = postcodeDict[0].lon
 
-                radius = selectedRadius/111
+                radius = distanceVal/111
 
                 north_bound = suburb_lat+radius
                 south_bound = suburb_lat-radius
@@ -1467,12 +1870,12 @@ html {
                 west_bound = suburb_lon-radius
 
                 country = selectedCountry
-                type = selectedType
-                sector = selectedSector
-                education = selectedEducation
-                
-                
-                schoolData = getSchoolData(north_bound,south_bound,east_bound,west_bound,country,type,sector,education)
+                type = typeList
+                sector = sectorList
+                education = educationVal
+            
+            
+            schoolData = getSchoolData(north_bound,south_bound,east_bound,west_bound,country,type,sector,education)
 
                 schoolData.then(function (result) {
 
