@@ -1409,7 +1409,7 @@ html {
 						document.getElementById('searchResults').innerHTML += "<div class='well' id='result'><p style = 'font-size:18px' >" + " <b> " + schoolData[i].school_name + " </b>" + 
 							"<br></p> <b>Location: </b>" + schoolData[i].suburb + ", " + schoolData[i].state + ", " + schoolData[i].postcode + "<br><b>School Type: </b>" + schoolData[i].school_type + "<br><b>School Sector: </b>" 
 							+ schoolData[i].school_sector + "<br><b>Year Level Range: </b>" + schoolData[i].school_range 
-							+ "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div>" + "<br>This school ranks in the top " + (100-schoolData[i].education_percentile) + "% of schools in Australia" + "<br><b>Local Area From " + country + ": </b>" + schoolData[i].country.toFixed(2) + "%"
+							+ "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div>" + "<br><b>This school ranks in the top " + (100-schoolData[i].education_percentile) + "% of schools in Australia</b>" + "<br><b>Local Area From " + country + ": </b>" + schoolData[i].country.toFixed(2) + "%"
 							+ "<br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "<br><b> School URL: </b> <a href = " + schoolData[i].school_url 
 							+ " target ='_blank'>" + schoolData[i].school_url + "</p></details></div>"
 					}
