@@ -904,9 +904,9 @@ html {
                                                     </label>
                                                 </div>
                                                 <div class="form-check">
-                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckPrivate" checked onclick="updateSectorChecks()">
+                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckIndependent" checked onclick="updateSectorChecks()">
                                                     <label class="form-check-label" for="flexCheckChecked">
-                                                        Private
+                                                        Independent
                                                     </label>
                                                 </div>
                                                 <div class="form-check">
@@ -969,7 +969,7 @@ html {
                                                         <div class="inputWrap hidden"><input class="inputNumber" type="text" value="5"></div>
                                                         <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span><span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span>
                                                     </div>
-                                                    <span id="distance-value" data-max="50" class="slider-price">Up to 15km away</span>
+                                                    <span id="distance-value" data-max="50" class="slider-price">Up to 10km away</span>
                                                 </div> 
                                             </div>
                                             
@@ -991,7 +991,7 @@ html {
 <script>
 
     var educationVal = 0
-    var distanceVal = 15;
+    var distanceVal = 10;
 
     jQuery(document).ready(function($){
         $("#education-slider").slider({
@@ -1008,7 +1008,7 @@ html {
 
         $("#distance-slider").slider({
             range: "min", 
-            value:15,
+            value:10,
             min: 5,
             max: 50,
             step: 5,
@@ -1261,24 +1261,27 @@ html {
 
             /*execute a function presses a key on the keyboard:*/
             input.addEventListener("keydown", function (e) {
-                
-                val = document.getElementById("myInput").value
+                if (e.key === "Enter") {  
+                    val = document.getElementById("myInput").value
 
-                if (val.length >= 3) {
-                    postcodeDict = getPostcodeData(val)
-                } else {
-                    postcodeDict = getPostcodeData('madting')
+                    if (val.length >= 3) {
+                        postcodeDict = getPostcodeData(val)
+                    } else {
+                        postcodeDict = getPostcodeData('madting')
+                    }
+
+
+                    postcodeDict.then(function (result) {
+
+                        postcodeDict = result
+
+                        onSearchResultsClick()
+    
+
+
+                    })
                 }
-
-
-                postcodeDict.then(function (result) {
-
-                    postcodeDict = result
-
-                    
-
-
-                })
+                
             });
 
             input.addEventListener("keydown", function (e) {
@@ -1406,22 +1409,20 @@ html {
 						document.getElementById('searchResults').innerHTML += "<div class='well' id='result'><p style = 'font-size:18px' >" + " <b> " + schoolData[i].school_name + " </b>" + 
 							"<br></p> <b>Location: </b>" + schoolData[i].suburb + ", " + schoolData[i].state + ", " + schoolData[i].postcode + "<br><b>School Type: </b>" + schoolData[i].school_type + "<br><b>School Sector: </b>" 
 							+ schoolData[i].school_sector + "<br><b>Year Level Range: </b>" + schoolData[i].school_range 
-							
-							+ "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div>" + "<br><b>Education Ranking: </b>" + schoolData[i].education_percentile + "<br><b>Local Area From " + country + ": </b>" + schoolData[i].country.toFixed(2) + "%"
-							+ "</a><br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "<br><b> School URL: </b> <a href = " + schoolData[i].school_url 
+							+ "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div>" + "<br>This school ranks in the top " + (100-schoolData[i].education_percentile) + "% of schools in Australia" + "<br><b>Local Area From " + country + ": </b>" + schoolData[i].country.toFixed(2) + "%"
+							+ "<br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "<br><b> School URL: </b> <a href = " + schoolData[i].school_url 
 							+ " target ='_blank'>" + schoolData[i].school_url + "</p></details></div>"
 					}
 				}
-					else{
-						document.getElementById('searchResults').innerHTML = ""
-						for (i = 0; i < schoolData.length; i++) {
-							document.getElementById('searchResults').innerHTML += "<div class='well' id='result'><p style = 'font-size:18px' >" + " <b> " + schoolData[i].school_name + " </b>" + 
-								"<br></p> <b>Location: </b>" + schoolData[i].suburb + ", " + schoolData[i].state + ", " + schoolData[i].postcode + "<br><b>School Type: </b>" + schoolData[i].school_type + "<br><b>School Sector: </b>" 
-								+ schoolData[i].school_sector + "<br><b>Year Level Range: </b>" + schoolData[i].school_range 
-								+ "<br><b>Education Ranking: </b>" + schoolData[i].education_percentile
-								+ "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div><br>" + "<b> School URL: </b> <a href = " 
-								+ schoolData[i].school_url + " target ='_blank'>" + schoolData[i].school_url
-								+ "</a><br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "</p></details></div>"
+				else{
+					document.getElementById('searchResults').innerHTML = ""
+                    for (i = 0; i < schoolData.length; i++) {
+                        document.getElementById('searchResults').innerHTML += "<div class='well' id='result'><p style = 'font-size:18px' >" + " <b> " + schoolData[i].school_name + " </b>" + 
+							"<br></p> <b>Location: </b>" + schoolData[i].suburb + ", " + schoolData[i].state + ", " + schoolData[i].postcode + "<br><b>School Type: </b>" + schoolData[i].school_type + "<br><b>School Sector: </b>" 
+							+ schoolData[i].school_sector + "<br><b>Year Level Range: </b>" + schoolData[i].school_range 
+							+ "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div>" + "<br><b>This school ranks in the top " + (100-schoolData[i].education_percentile) + "% of schools in Australia</b>"
+							+ "<br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "<br><b> School URL: </b> <a href = " + schoolData[i].school_url 
+							+ " target ='_blank'>" + schoolData[i].school_url + "</p></details></div>"
 					}
                         
 

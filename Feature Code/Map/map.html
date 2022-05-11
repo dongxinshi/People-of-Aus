@@ -552,7 +552,7 @@ html {
                                 </div>
                             </div>
                             <form autocomplete="off" action="/action_page.php"></form>
-                            <div class="col-md-5"> <input type="text" id="myInput" class="form-control"
+                            <div class="col-md-5"> <input type="text" id="myInput" class="form-control" autocomplete="off"
                                     placeholder="Enter suburb..."> </div>
                             <div class="col-md-3"> <button class="btn btn-secondary btn-block" id="searchButton"
                                     onclick="onSearchResultsClick()">Search Results</button>
@@ -687,7 +687,7 @@ html {
                             })
                         }
 
-                        map.flyTo([value[1], value[0]], 14)
+                        map.setView([value[1], value[0]], 14)
 
                         marker = L.marker([value[1], value[0]], {
                                 icon: locationMarker
@@ -1089,7 +1089,7 @@ html {
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-        minZoom: 4
+        minZoom: 13
     }).addTo(map);
 
 
