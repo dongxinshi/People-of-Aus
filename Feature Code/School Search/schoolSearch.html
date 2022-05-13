@@ -805,6 +805,80 @@ html {
 .hidden{
     display:none
 }
+
+label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-family ), Sans-serif;
+	font-weight: bold;font-size: 18px;margin-bottom: 10px;}
+	.well {
+	border-radius: 0.25rem;
+	font-family: var( --e-global-typography-text-font-family ), Sans-serif;
+	font-weight: var( --e-global-typography-text-font-weight );
+	min-height: 20px;
+	padding: 19px;
+	margin-bottom: 20px;
+	background-color: #f1f1f1;
+	border: 1px solid #ced4da;
+	border-radius: 4px
+	px
+	;
+	-webkit-box-shadow: inset 0 1px 1px rgb(0 0 0 / 5%);
+	box-shadow: inset 0 1px 1px rgb(0 0 0 / 5%);
+	}
+	.hidden {
+	display: none;
+	}
+
+	.pagination>li>a, .pagination>li>span {position: relative;
+	float: left;
+	padding: 6px 12px;
+	line-height: 1.5;
+	color: #000;
+	text-transform: uppercase;text-align: center;text-decoration: none;
+	background-color: #F7BF50;
+	border: 1px solid #ddd;font-weight: 600;font-size: 1rem;font-family: Montserrat,sans-serif;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;}
+
+	.pagination>li:last-child>a, .pagination>li:last-child>span {border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;}
+
+	li.page-item {}
+
+	.pagination>li {display: inline;}
+
+	li.page-item {}
+
+	.pagination>li:first-child>a, .pagination>li:first-child>span {border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;}
+
+	.pagination>li>a:hover {color: #fff;}
+	.btn {
+	font-weight: 600;
+	font-size: 16px;
+	display: inline-block;
+	color: #212529;
+	background-color: #F7BF50;
+	text-align: center;
+	vertical-align: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	background-color: transparent;
+	border: 1px solid transparent;
+	padding: 0.375rem 0.75rem;
+	font-size: 1rem;
+	line-height: 1.5;
+	border-radius: 0.25rem;
+	transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s
+	ease-in-out;
+	}
+
+    a.page-link:hover {
+    background-color: #f7bf50;
+}
+
 </style>
 
 
@@ -979,8 +1053,14 @@ html {
                             </div>
                         </div>
                         <br>
-                        <div id="searchResults">
-                        </div>
+                        <div id="searchResults"></div>
+                        <nav aria-label="Page navigation example">
+                            <ul class="pagination">
+                                <br>
+                                <li class="page-item hidden"><a class="page-link hidden" onclick="previousPage()">Previous</a></li>
+                                <li class="page-item hidden"><a class="page-link hidden" onclick="nextPage()">Next</a></li>
+                            </ul>
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -1142,10 +1222,60 @@ html {
         );
     const json = await res.json();
 
+    var element = document.getElementsByClassName("page-item hidden");
+    for (i = 0; i < element.length; i++) {
+        element[i].classList.remove("hidden");
+    }
+    var element = document.getElementsByClassName("page-item hidden");
+    for (i = 0; i < element.length; i++) {
+        element[i].classList.remove("hidden");
+    }
+    var element = document.getElementsByClassName("page-link hidden");
+    for (i = 0; i < element.length; i++) {
+        element[i].classList.remove("hidden");
+    }
+    var
+        element = document.getElementsByClassName("page-link hidden");
+    for (i = 0; i < element.length; i++) {
+        element[i].classList.remove("hidden");
+    }
+    console.log(json)
     return json;
     }
 
+    async function getSchoolTimeSeriesData(schoolId) {
 
+    const loadingOverlay = document.getElementsByClassName('loading-overlay')?.[0];
+
+    url = `https://ev1bb9k557.execute-api.ap-southeast-2.amazonaws.com/default/schoolTimeSeries?acara_sml_id=${schoolId}`
+
+
+    const res = await fetch(
+        url
+        );
+
+    const json = await res.json();
+
+    var element = document.getElementsByClassName("page-item hidden");
+    for (i = 0; i < element.length; i++) {
+        element[i].classList.remove("hidden");
+    }
+    var element = document.getElementsByClassName("page-item hidden");
+    for (i = 0; i < element.length; i++) {
+        element[i].classList.remove("hidden");
+    }
+    var element = document.getElementsByClassName("page-link hidden");
+    for (i = 0; i < element.length; i++) {
+        element[i].classList.remove("hidden");
+    }
+    var
+        element = document.getElementsByClassName("page-link hidden");
+    for (i = 0; i < element.length; i++) {
+        element[i].classList.remove("hidden");
+    }
+
+    return json;
+    }
 
     // search functionality based on 
     function searchFunction() {
@@ -1354,6 +1484,32 @@ html {
 
     searchFunction()
 
+    var pageNo = 0;
+
+    var maxPageNo;
+
+    function nextPage(){
+
+        if (pageNo == maxPageNo) {
+            pageNo == maxPageNo;
+        }
+        else {
+            pageNo += 1;
+        }
+
+        onSearchResultsClick()
+        document.body.scrollTop = document.documentElement.scrollTop = 0;
+    }
+
+    function previousPage(){
+
+        if (pageNo >0){
+            pageNo -= 1;
+        }
+        onSearchResultsClick()
+        document.body.scrollTop = document.documentElement.scrollTop = 0;
+    }
+
     function onSearchResultsClick() {
         arr = {};
 
@@ -1394,6 +1550,8 @@ html {
 				}
 				else{
 				
+                
+                var elementCounter = 0;
 				
 				if(schoolData[0].country != "None"){
 					
@@ -1405,25 +1563,44 @@ html {
 					country = titleCase(selectedCountry)
 					
 					document.getElementById('searchResults').innerHTML = ""
-					for (i = 0; i < schoolData.length; i++) {
+
+                    maxPageNo = Math.ceil(schoolData.length)
+
+					for (i = pageNo*10; i < schoolData.length; i++) {
+                        elementCounter += 1
+
 						document.getElementById('searchResults').innerHTML += "<div class='well' id='result'><p style = 'font-size:18px' >" + " <b> " + schoolData[i].school_name + " </b>" + 
 							"<br></p> <b>Location: </b>" + schoolData[i].suburb + ", " + schoolData[i].state + ", " + schoolData[i].postcode + "<br><b>School Type: </b>" + schoolData[i].school_type + "<br><b>School Sector: </b>" 
 							+ schoolData[i].school_sector + "<br><b>Year Level Range: </b>" + schoolData[i].school_range 
-							+ "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div>" + "<br><b>This school ranks in the top " + (100-schoolData[i].education_percentile) + "% of schools in Australia</b>" + "<br><b>Local Area From " + country + ": </b>" + schoolData[i].country.toFixed(2) + "%"
+							+ "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div>" + "<br><b>This school ranks in the top " + (100-schoolData[i].education_percentile) + "% of schools in Australia<" + "<br><b>Local Area From " + country + ": </b>" + schoolData[i].country.toFixed(2) + "%"
 							+ "<br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "<br><b> School URL: </b> <a href = " + schoolData[i].school_url 
 							+ " target ='_blank'>" + schoolData[i].school_url + "</p></details></div>"
+
+                        if (elementCounter == 10){
+                            break;
+                        }
 					}
 				}
 				else{
 					document.getElementById('searchResults').innerHTML = ""
-                    for (i = 0; i < schoolData.length; i++) {
+
+                    maxPageNo = Math.ceil(schoolData.length)
+
+                    for (i = pageNo*10; i < schoolData.length; i++) {
+                        elementCounter += 1
+
                         document.getElementById('searchResults').innerHTML += "<div class='well' id='result'><p style = 'font-size:18px' >" + " <b> " + schoolData[i].school_name + " </b>" + 
 							"<br></p> <b>Location: </b>" + schoolData[i].suburb + ", " + schoolData[i].state + ", " + schoolData[i].postcode + "<br><b>School Type: </b>" + schoolData[i].school_type + "<br><b>School Sector: </b>" 
 							+ schoolData[i].school_sector + "<br><b>Year Level Range: </b>" + schoolData[i].school_range 
 							+ "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div>" + "<br><b>This school ranks in the top " + (100-schoolData[i].education_percentile) + "% of schools in Australia</b>"
 							+ "<br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "<br><b> School URL: </b> <a href = " + schoolData[i].school_url 
 							+ " target ='_blank'>" + schoolData[i].school_url + "</p></details></div>"
-					}
+                        
+                        if (elementCounter == 10){
+                            break;
+                        }
+                    
+                    }
                         
 
                 }
@@ -1461,9 +1638,12 @@ html {
             .attr('transform', 'translate(' + (width / 2) +
                 ',140)');
 
+                
         var arc = d3.arc()
             .innerRadius(radius - donutWidth)
             .outerRadius(radius);
+
+            
 
         var pie = d3.pie()
             .padAngle(.01)
@@ -1844,6 +2024,23 @@ html {
 			.text("Socio-Educational Distribution");
     
     }
+
+    function buildTimeSeries(i){
+        schoolId = schoolData[i].acara_sml_id
+        timeSeriesData = getSchoolTimeSeriesData(schoolId)
+
+        timeSeriesData.then(function (result) {
+
+            timeSeriesData = result
+            console.log(result)
+        })
+
+        
+        
+       
+    
+    }
+
     function showPlots(i){
 
         arr = {};
@@ -1885,7 +2082,7 @@ html {
                     buildSexDonut(i)
                     buildBarChart(i)
                     buildEthnicDonut(i)
-                    
+                    buildTimeSeries(i)
                 })
                 
             })

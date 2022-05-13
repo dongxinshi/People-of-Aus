@@ -7,6 +7,10 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
 <style>
+	.form-group.callbackFamily {
+		padding-bottom: 30.39px;
+	}
+	
 	label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-family ), Sans-serif;
 	font-weight: bold;font-size: 18px;margin-bottom: 10px;}
 	.well {
@@ -35,7 +39,14 @@
 	color: #000;
 	text-transform: uppercase;text-align: center;text-decoration: none;
 	background-color: #F7BF50;
-	border: 1px solid #ddd;font-weight: 600;font-size: 1rem;font-family: Montserrat,sans-serif;}
+	border: 1px solid #ddd;font-weight: 600;font-size: 1rem;font-family: Montserrat,sans-serif;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;}
+
+	.pagination>li:last-child>a, .pagination>li:last-child>span {border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;}
 
 	.pagination>li:last-child>a, .pagination>li:last-child>span {border-top-right-radius: 4px;
 	border-bottom-right-radius: 4px;}
@@ -108,10 +119,10 @@
 
 	.rowClear {
 	display: flex;
-	flex-wrap: wrap;
-	margin-right: 0px;
-	margin-left: 814px;
-	margin-top: 15px;
+	flex-wrap: none;
+	margin-right: -15px;
+	margin-left: 0px;
+	margin-top: -38px;
 	}
 
 	.btn-secondary:hover {color: #fff;}
@@ -122,11 +133,12 @@
 
 	.btn-default:hover {border-color: #F7BF50;color: #000;background: #F7BF50;}
 
-	.row {display: flex;
-	flex-wrap: none;
-	margin-right: -15px;
-	margin-left: 0px;
-	margin-top: -68px;}
+	.row {
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: 0px;
+	margin-left: 713px;
+	margin-top: 0px;}
 
 	#wrapper {
 	min-height: 100%;
@@ -137,7 +149,6 @@
 	left: 0;
 	display: inline-block;
 	}
-
 	#main-wrapper {
 	height: 100%;
 	overflow-y: auto;
@@ -238,6 +249,8 @@
 	summary {
 	display: list-item
 	}
+	
+	
 </style>
 
 <form class="form-horizontal">
@@ -262,16 +275,42 @@
 	<div class="form-group">
 		<label for="eventTypes" class="col-sm-2 control-label">Event Type</label>
 		<div class="col-sm-4">
-			<select class="selectType form-control" name="eventTypes">
-				<option value="All">All</option>
-				<option value="Music">Music</option>
-				<option value="Sport">Sport</option>
-				<option value="Art">Arts, Theatre & Comedy</option>
-				<option value="Family">Family & Attractions</option>
-			</select>
+            <div id="eventTypes">
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" value="All" name="flexRadioDefault" id="flexRadioAll" checked onclick="changeType()">
+                    <label class="form-check-label" for="flexRadioAll">
+                        All
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" value="Music" name="flexRadioDefault" id="flexRadioMusic" onclick="changeType()">
+                    <label class="form-check-label" for="flexRadioMusic">
+                        Music
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" value="Sport" name="flexRadioDefault" id="flexRadioSport" onclick="changeType()">
+                    <label class="form-check-label" for="flexRadioSport">
+                        Sport
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" value="Art" name="flexRadioDefault" id="flexRadioArts" onclick="changeType()">
+                    <label class="form-check-label" for="flexRadioArts">
+                        Arts, Theatre & Comedy
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" value="Family" name="flexRadioDefault" id="flexRadioFamily" onclick="changeType()">
+                    <label class="form-check-label" for="flexRadioFamily">
+                        Family & Attractions
+                    </label>
+                </div>
+            </div>
 		</div>
 		<br>
 	</div>
+   
 
 	<div class="form-group callback">
 		<label for="crops" class="col-sm-2 control-label">Event Subtype</label>
@@ -371,19 +410,14 @@
 			</select>
 		</div>
 	</div>
-
-	<div class="rowClear">
-		<div class="col-sm-offset-1 col-sm-10" id="clear">
-			<button type="button" name="clear" class="btn btn-default" onclick="wipeResults()">Clear</button>
-		</div>
-		<br>
-	</div>
-
-	<div class="row">
-		<div class="col-sm-offset-2 col-sm-10">
+<div class="row">
+		<div class="col-sm-offset-1 col-sm-10">
 			<button type="button" class="btn btn-secondary" onclick="onSearchResultsClick()">Search Results</button>
 		</div>
 	</div>
+	
+
+	
 	<div id="searchResults">
 	</div>
 	<nav aria-label="Page navigation example">
@@ -397,7 +431,7 @@
 <script>
 	var currentQuery;
 
-	$('select[name="eventTypes"]').on('change', function () {
+	$('input[type=radio]').on('change', function () {
 		if ($(this).val() == "Music") {
 			$('.upload').hide();
 			$('.callback').hide();
@@ -448,37 +482,6 @@
 		"Northern Territory": "NT",
 		"Australian Capital Territory": "ACT"
 	}
-
-    function wipeResults(){
-        console.log(document.getElementById("searchResults"))
-        for(i=0;i<10;i++){
-            let d = document.getElementById("searchResults");
-            let d_nested = document.getElementById("result");
-            try{let throwawayNode = d.removeChild(d_nested)}
-            catch{console.log('yeet')}
-            
-        }
-        var element = document.getElementsByClassName("page-item");
-		for (i = 0; i < element.length; i++) {
-			element[i].classList.add("hidden");
-		}
-		var
-			element = document.getElementsByClassName("page-item");
-		for (i = 0; i < element.length; i++) {
-			element[i].classList.add("hidden");
-		}
-		var element = document.getElementsByClassName("page-link");
-		for (i = 0; i < element.length; i++) {
-			element[i].classList.add("hidden");
-		}
-		var
-			element = document.getElementsByClassName("page-link");
-		for (i = 0; i < element.length; i++) {
-			element[i].classList.add("hidden");
-		}
-        selectedItemState = selectedItemType = selectedItemSubtypeAll = selectedItemSubtypeMusic = selectedItemSubtypeSport = selectedItemSubtypeArt = selectedItemSubtypeFamily = "All";
-
-    }
 
 	async function getEventData(state, keyword) {
 
@@ -537,9 +540,14 @@
 	$('.selectpicker').change(function () {
 		selectedItemState = $('.selectpicker').val();
 	});
-	$('.selecttype').change(function () {
-		selectedItemType = $('.selecttype').val();
-	});
+	
+    function changeType(){
+        selectedItemType = document.querySelector('input[type=radio]:checked').value;
+        console.log(selectedItemType)
+    }
+
+
+
 	$('.subselectpickerall').change(function () {
 		selectedItemSubtypeAll = $('.subselectpickerall').val();
 		subtypeActive = 0;
@@ -625,7 +633,7 @@
 		}
 		eventData = getEventData(stateDict[state], keyword)
 		eventData.then(function (result) {
-			
+			pageNo = result.page.number
             if (result.page.totalElements == 0) {
 				document.getElementById("searchResults").innerHTML += "<div class='well'>" + "<br>" + "<b>No Results Found...</b>" +
 					"</div>"
@@ -862,7 +870,7 @@
 			}
 		}
 
-
+		console.log(pageNo)
 		if (pageNo != 0) {
 			if (state == "All") {
 				previousQuery =
@@ -896,7 +904,7 @@
 			eventData = result._embedded.events
 
 			if (result.page.totalElements == 0) {
-				document.getElementById("searchResults").innerHTML += "<div class='well'>" + "<br>" + "<b>No Results Found... < /b>" + "</div>"
+				document.getElementById("searchResults").innerHTML = "<div class='well'>" + "<br>" + "<b>No Results Found... < /b>" + "</div>"
 			}
 
 			for (i = 0; i < eventData.length; i++) {

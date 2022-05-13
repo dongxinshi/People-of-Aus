@@ -1,78 +1,115 @@
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-alpha1/dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://unpkg.com/ng-table/bundles/ng-table.min.css">
+<!DOCTYPE html>
+<meta charset="utf-8">
 
-<div ng-app="myApp" class="container-fluid" ng-controller="demoController as demo">
-    <div class="row">
-      <div class="col-xs-12">
-        <h2 class="page-header">Pagination - basic example</h2>
-        <div class="row">
-          <div class="col-md-6">
-            <div class="bs-callout bs-callout-info">
-              <h4>Overview</h4>
-              <p><code>ngTable</code> supplies a pager to browse one "chunk" of data at a time. </p>
-              <p>Supply an initial paging configuration to the <code>NgTableParams</code> constructor call. As required, you can then change this configuration "on the fly".</p>
-            </div>
-          </div>
-          <div class="col-md-6">
-            <div class="bs-callout bs-callout-warning">
-              <h4>Got a <code>getData</code> function?</h4>
-              <p>Got your own <code>getData</code> function? Then you need to tell <code>NgTableParams</code> the total number of records that match its <code>filter</code>.</p>
-              <p>You do this by calling <code>NgTableParams.total()</code>. See <a href="https://codepen.io/christianacca/pen/mJoGPE" target="_">this codepen</a> for an example.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-6">
-        <h3>Default configuration</h3>
-        <table ng-table="demo.defaultConfigTableParams" class="table table-condensed table-bordered table-striped">
-          <tr ng-repeat="row in $data">
-            <td data-title="'Name'">{{row.name}}</td>
-            <td data-title="'Age'">{{row.age}}</td>
-          </tr>
-        </table>
-      </div>
-      <div class="col-md-6">
-        <h3>Customized configuration</h3>
-        <table ng-table="demo.customConfigParams" class="table table-condensed table-bordered table-striped">
-          <tr ng-repeat="row in $data">
-            <td data-title="'Name'">{{row.name}}</td>
-            <td data-title="'Money'">{{row.money}}</td>
-          </tr>
-        </table>
-      </div>
-    </div>
-  </div>
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
 
-  <script>
-      (function() {
-  "use strict";
+<!-- Create a div where the graph will take place -->
+<div id="my_dataviz"></div>
 
-  var app = angular.module("myApp", ["ngTable", "ngTableDemos"]);
 
-  app.controller("demoController", demoController);
-  demoController.$inject = ["NgTableParams", "ngTableSimpleMediumList"];
+<script>
 
-  function demoController(NgTableParams, simpleList) {
-    this.defaultConfigTableParams = new NgTableParams({}, { dataset: simpleList});
-    this.customConfigParams = createUsingFullOptions();
-
-    function createUsingFullOptions() {
-      var initialParams = {
-        count: 5 // initial page size
-      };
-      var initialSettings = {
-        // page size buttons (right set of buttons in demo)
-        counts: [],
-        // determines the pager buttons (left set of buttons in demo)
-        paginationMaxBlocks: 13,
-        paginationMinBlocks: 2,
-        dataset: simpleList
-      };
-      return new NgTableParams(initialParams, initialSettings);
-    }
-  }
-})();
-  </script>
+    // set the dimensions and margins of the graph
+    var margin = {top: 10, right: 30, bottom: 30, left: 60},
+        width = 460 - margin.left - margin.right,
+        height = 400 - margin.top - margin.bottom;
+    
+    // append the svg object to the body of the page
+    var svg = d3.select("#my_dataviz")
+      .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+      .append("g")
+        .attr("transform",
+              "translate(" + margin.left + "," + margin.top + ")");
+    
+    //Read the data
+    d3.csv("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/data_IC.csv",function(data) {
+    
+      // Add X axis --> it is a date format
+      var x = d3.scaleLinear()
+        .domain([1,100])
+        .range([ 0, width ]);
+      svg.append("g")
+        .attr("transform", "translate(0," + height + ")")
+        .call(d3.axisBottom(x));
+    
+      // Add Y axis
+      var y = d3.scaleLinear()
+        .domain([0, 13])
+        .range([ height, 0 ]);
+      svg.append("g")
+        .call(d3.axisLeft(y));
+    
+      // This allows to find the closest X index of the mouse:
+      var bisect = d3.bisector(function(d) { return d.x; }).left;
+    
+      // Create the circle that travels along the curve of chart
+      var focus = svg
+        .append('g')
+        .append('circle')
+          .style("fill", "none")
+          .attr("stroke", "black")
+          .attr('r', 8.5)
+          .style("opacity", 0)
+    
+      // Create the text that travels along the curve of chart
+      var focusText = svg
+        .append('g')
+        .append('text')
+          .style("opacity", 0)
+          .attr("text-anchor", "left")
+          .attr("alignment-baseline", "middle")
+    
+      // Add the line
+      svg
+        .append("path")
+        .datum(data)
+        .attr("fill", "none")
+        .attr("stroke", "steelblue")
+        .attr("stroke-width", 1.5)
+        .attr("d", d3.line()
+          .x(function(d) { return x(d.x) })
+          .y(function(d) { return y(d.y) })
+          )
+    
+      // Create a rect on top of the svg area: this rectangle recovers mouse position
+      svg
+        .append('rect')
+        .style("fill", "none")
+        .style("pointer-events", "all")
+        .attr('width', width)
+        .attr('height', height)
+        .on('mouseover', mouseover)
+        .on('mousemove', mousemove)
+        .on('mouseout', mouseout);
+    
+    
+      // What happens when the mouse move -> show the annotations at the right positions.
+      function mouseover() {
+        focus.style("opacity", 1)
+        focusText.style("opacity",1)
+      }
+    
+      function mousemove() {
+        // recover coordinate we need
+        var x0 = x.invert(d3.mouse(this)[0]);
+        var i = bisect(data, x0, 1);
+        selectedData = data[i]
+        focus
+          .attr("cx", x(selectedData.x))
+          .attr("cy", y(selectedData.y))
+        focusText
+          .html("x:" + selectedData.x + "  -  " + "y:" + selectedData.y)
+          .attr("x", x(selectedData.x)+15)
+          .attr("y", y(selectedData.y))
+        }
+      function mouseout() {
+        focus.style("opacity", 0)
+        focusText.style("opacity", 0)
+      }
+    
+    })
+    
+    </script>
