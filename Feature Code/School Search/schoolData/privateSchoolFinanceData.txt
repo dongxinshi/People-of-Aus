@@ -1,0 +1,2253 @@
+Geelong Grammar School	CORIO	$35,140	$42,500	$42,500
+Mount Scopus Memorial College	BURWOOD	$36,780	$37,980	$38,330
+Melbourne Grammar School	MELBOURNE	$33,940	$39,180	$36,180
+Lauriston Girls' School	ARMADALE	$34,880	$36,840	$36,840
+The King David School	ARMADALE	$35,564	$36,584	$37,304
+Melbourne Girls Grammar	SOUTH YARRA	$34,372	$35,944	$36,784
+Scotch College	HAWTHORN	$34,476	$35,925	$35,925
+Bialik College	HAWTHORN	$34,000	$36,450	$36,450
+St Catherine's School	TOORAK	$34,080	$35,100	$36,040
+Camberwell Grammar School	CANTERBURY	$32,890	$33,568	$34,408
+Haileybury College	KEYSBOROUGH	$33,215	$33,560	$33,560
+St Michael's Grammar School	ST KILDA	$31,821	$33,956	$33,803
+Wesley College	MELBOURNE	$30,870	$34,610	$34,610
+Trinity Grammar School Kew	KEW	$32,012	$32,916	$33,376
+Ruyton Girls' School	KEW	$32,208	$33,112	$34,243
+Brighton Grammar School	BRIGHTON	$32,670	$32,670	$32,670
+Camberwell Girls Grammar School	CANTERBURY	$31,415	$32,553	$34,071
+Carey Baptist Grammar School	KEW	$31,976	$31,976	$33,052
+St Leonard's College	BRIGHTON EAST	$30,658	$31,990	$33,351
+Caulfield Grammar School	ELSTERNWICK	$29,877	$32,475	$33,084
+Methodist Ladies' College	KEW	$30,750	$32,190	$33,180
+Firbank Grammar School	BRIGHTON	$30,996	$32,442	$32,727
+Korowa Anglican Girls' School	GLEN IRIS	$30,256	$32,460	$32,688
+Strathcona Baptist Girls' Grammar	CANTERBURY	$30,834	$31,932	$32,252
+Presbyterian Ladies' College	BURWOOD	$29,536	$32,664	$32,664
+Xavier College	KEW	$29,360	$31,210	$31,210
+St Margaret's School	BERWICK	$28,000	$29,405	$29,405
+Toorak College	MOUNT ELIZA	$27,021	$30,114	$30,114
+The Geelong College	NEWTOWN	$27,404	$30,384	$30,384
+Genazzano FCJ College	KEW	$26,360	$29,685	$29,685
+Loreto Mandeville Hall	TOORAK	$26,050	$28,490	$28,490
+Lowther Hall Anglican Grammar School	ESSENDON	$26,600	$27,600	$28,900
+Peninsula Grammar	MOUNT ELIZA	$26,553	$28,203	$28,203
+Shelford Girls' Grammar	CAULFIELD	$25,939	$28,110	$28,934
+Tintern Grammar	RINGWOOD EAST	$22,556	$29,052	$29,052
+Yarra Valley Grammar	RINGWOOD	$24,996	$27,060	$28,593
+Penleigh & Essendon Grammar School	KEILOR EAST	$26,208	$26,655	$27,438
+Mentone Grammar School	MENTONE	$24,980	$26,915	$26,915
+Mentone Girls' Grammar School	MENTONE	$24,980	$26,915	$26,915
+Sacre Coeur	GLEN IRIS	$23,828	$26,131	$27,379
+Woodleigh School	LANGWARRIN SOUTH	$24,375	$26,138	$27,346
+Kilvington Grammar School	ORMOND	$24,236	$26,236	$26,236
+Ivanhoe Grammar School	IVANHOE	$23,108	$24,820	$25,560
+Ivanhoe Girls' Grammar School	IVANHOE	$23,108	$24,820	$25,560
+Preshil, The Margaret Lyttle Memorial School	KEW	$22,000	$23,100	$26,000
+Kingswood College	BOX HILL	$21,627	$22,997	$24,523
+Huntingtower School	MOUNT WAVERLEY	$21,220	$22,520	$24,030
+Billanook College	MOOROOLBARK	$19,700	$24,925	$24,925
+The Knox School	WANTIRNA SOUTH	$20,000	$22,598	$23,978
+Westbourne Grammar School	TRUGANINA	$21,044	$22,056	$22,056
+St Kevin's College	TOORAK	$20,050	$20,050	$20,050
+The Hamilton and Alexandra College	HAMILTON	$19,012	$20,364	$20,364
+Cornish College	BANGHOLME	$17,952	$19,448	$20,724
+Ballarat Grammar	WENDOUREE	$17,440	$20,760	$21,180
+Sophia Mundi Steiner School	ABBOTSFORD	$17,652	$18,472	$18,628
+Ballarat Clarendon College	BALLARAT	$17,000	$19,660	$19,980
+Gippsland Grammar	SALE	$15,360	$15,840	$17,000
+Siena College Ltd	CAMBERWELL	$15,620	$16,060	$16,890
+Luther College	CROYDON	$15,400	$16,300	$16,550
+Overnewton Anglican Community College	KEILOR	$13,192	$16,192	$17,076
+Girton Grammar School	BENDIGO	$14,656	$14,656	$14,656
+Christian College Highton	HIGHTON	$13,882	$14,709	$16,086
+Alice Miller School	MACEDON	$13,552	$13,552	$14,410
+Whitefriars College Inc	DONVALE	$12,430	$12,960	$13,480
+Kardinia International College	BELL POST HILL	$11,039	$13,040	$14,158
+The Kilmore International School	KILMORE	$10,270	$12,480	$15,780
+Braemar College	WOODEND	$11,536	$12,772	$13,580
+De La Salle College	MALVERN	$12,589	$12,589	$12,689
+Marcellin College	BULLEEN	$11,790	$13,170	$13,170
+Goulburn Valley Grammar School	SHEPPARTON	$11,346	$12,363	$13,329
+Alphington Grammar School	ALPHINGTON	$11,593	$12,162	$12,858
+Southern Cross Grammar	CAROLINE SPRINGS	$11,170	$12,530	$12,530
+Donvale Christian College	DONVALE	$11,350	$11,350	$12,555
+St Paul's Anglican Grammar School	WARRAGUL	$10,764	$11,932	$12,964
+Beaconhills College	PAKENHAM	$9,930	$11,960	$11,960
+Star of the Sea College	BRIGHTON	$10,350	$11,550	$11,950
+Oxley Christian College	CHIRNSIDE PARK	$9,342	$11,038	$12,210
+Nunawading Christian College - Secondary	NUNAWADING	$9,620	$10,640	$11,440
+Nunawading Christian College - Primary	NUNAWADING	$9,620	$10,640	$11,440
+Melbourne Rudolf Steiner School	WARRANWOOD	$10,120	$10,487	$11,418
+Catholic Ladies' College Ltd	ELTHAM	$10,132	$10,381	$10,381
+Oakleigh Grammar	OAKLEIGH	$10,074	$10,306	$10,631
+Balcombe Grammar School	MOUNT MARTHA	$10,076	$10,076	$10,656
+Bacchus Marsh Grammar	BACCHUS MARSH	$9,550	$10,444	$10,785
+St Columba's College	ESSENDON	$9,800	$10,400	$10,400
+Waverley Christian College	WANTIRNA SOUTH	$9,115	$9,115	$11,130
+Our Lady of Mercy College	HEIDELBERG	$9,776	$9,776	$9,776
+Plenty Valley Christian College	DOREEN	$8,872	$9,676	$10,668
+Edinburgh College	LILYDALE	$8,839	$9,767	$10,172
+Heathdale Christian College	WERRIBEE	$9,190	$9,600	$9,600
+Padua College	MORNINGTON	$9,080	$9,810	$9,560
+Mount Evelyn Christian School	MOUNT EVELYN	$8,540	$9,540	$9,540
+Mater Christi College	BELGRAVE	$8,985	$8,985	$8,985
+Maranatha Christian School	ENDEAVOUR HILLS	$8,255	$9,101	$10,034
+Flinders Christian Community College	TYABB	$8,250	$8,850	$9,395
+St Bernard's College	ESSENDON	$8,422	$8,977	$8,977
+Newhaven College	NEWHAVEN	$8,036	$8,512	$9,184
+Our Lady of the Sacred Heart College	BENTLEIGH	$8,329	$8,384	$8,726
+Sacred Heart Girls' College	OAKLEIGH	$8,475	$8,790	$8,475
+Gilson College	TAYLORS HILL	$8,300	$8,300	$8,920
+Our Lady of Sion College	BOX HILL	$8,325	$8,675	$8,675
+Hillcrest Christian College	CLYDE NORTH	$7,968	$8,594	$9,022
+Little Yarra Steiner School	YARRA JUNCTION	$8,200	$8,400	$8,600
+Ave Maria College	ABERFELDIE	$7,720	$9,028	$9,028
+Academy of Mary Immaculate	FITZROY	$8,310	$8,310	$8,450
+Assumption College	KILMORE	$7,772	$8,060	$8,240
+Mountain District Christian School	MONBULK	$7,500	$7,500	$8,750
+Avila College	MOUNT WAVERLEY	$7,860	$7,860	$7,995
+Good News Lutheran College	TARNEIT	$7,040	$8,290	$8,580
+Lakeside College	PAKENHAM	$7,380	$7,740	$7,990
+Casey Grammar School	CRANBOURNE EAST	$7,520	$7,520	$7,772
+Mazenod College	MULGRAVE	$7,600	$7,600	$7,600
+Santa Maria College	NORTHCOTE	$7,495	$7,495	$7,495
+Aitken College	GREENVALE	$6,950	$7,860	$7,860
+Loyola College	WATSONIA	$7,162	$7,162	$7,780
+Chairo Christian School	DROUIN	$6,894	$7,278	$7,896
+Aquinas College	RINGWOOD	$7,330	$7,330	$7,330
+St Bede's College	MENTONE	$7,400	$7,610	$7,030
+Hume Anglican Grammar	CRAIGIEBURN	$6,700	$7,390	$8,150
+Salesian College	CHADSTONE	$6,920	$6,920	$7,840
+Loreto College	BALLARAT	$6,895	$7,130	$7,580
+Emmaus College	VERMONT SOUTH	$7,200	$7,200	$7,200
+Heatherton Christian College	CLARINDA	$6,739	$7,019	$7,581
+Mount Lilydale Mercy College	LILYDALE	$6,860	$6,860	$6,860
+Covenant College	BELL POST HILL	$6,690	$7,285	$6,760
+Parade College	BUNDOORA	$6,500	$6,800	$6,950
+Geelong Baptist College	LOVELY BANKS	$6,530	$6,900	$6,900
+St Patrick's College Ballarat	BALLARAT	$6,300	$6,700	$7,100
+Ozford College	MELBOURNE			$20,000
+Bayview College	PORTLAND	$6,000	$6,900	$7,450
+Salesian College	SUNBURY	$6,600	$6,600	$6,600
+Belgrave Heights Christian School	BELGRAVE HEIGHTS	$6,270	$6,270	$7,090
+Victory Lutheran College	WEST WODONGA	$6,032	$6,828	$6,759
+Lighthouse Christian College	KEYSBOROUGH	$5,761	$6,528	$7,185
+Northside Christian College	BUNDOORA	$5,880	$6,480	$6,700
+St Aloysius College	NORTH MELBOURNE	$6,350	$6,350	$6,350
+St Joseph's College	FERNTREE GULLY	$6,300	$6,300	$6,300
+Kilbreda College	MENTONE	$6,300	$6,300	$6,300
+Marymede Catholic College	SOUTH MORANG	$5,926	$6,248	$6,560
+Heritage College	NARRE WARREN SOUTH	$5,577	$6,255	$6,592
+Damascus College	MOUNT CLEAR	$5,700	$6,280	$6,580
+St Joseph's College Geelong	NEWTOWN	$6,033	$6,033	$6,033
+Catholic College Bendigo	BENDIGO	$5,998	$5,998	$5,998
+Ballarat Christian College	SEBASTOPOL	$5,840	$6,040	$6,160
+Australian International Academy of Education	COBURG	$4,913	$6,459	$6,902
+MacKillop Catholic Regional College	WERRIBEE	$5,460	$5,860	$6,300
+John Paul College	FRANKSTON	$5,850	$6,100	$6,100
+King's College	WARRNAMBOOL	$5,200	$6,200	$6,200
+Monivae College	HAMILTON	$5,250	$5,850	$6,450
+Marist-Sion College	WARRAGUL	$5,790	$5,790	$5,790
+Catholic College Sale	SALE	$5,748	$5,748	$5,748
+Nazareth College	NOBLE PARK NORTH	$5,510	$5,715	$5,943
+Catholic College Wodonga	WODONGA	$5,360	$5,810	$5,880
+Lavalla Catholic College	TRARALGON	$5,510	$5,786	$5,786
+St Peter's College	CRANBOURNE	$5,624	$5,624	$5,624
+Marist College Bendigo	MAIDEN GULLY	$5,406	$5,601	$5,601
+Emmanuel College	ALTONA NORTH	$5,455	$5,505	$5,870
+Saint Ignatius College Geelong	DRYSDALE	$5,480	$5,480	$5,480
+Mary MacKillop Catholic Regional College	LEONGATHA	$5,394	$5,394	$5,394
+Sirius College	BROADMEADOWS	$4,685	$4,960	$5,870
+St Joseph's College Mildura	MILDURA	$5,276	$5,276	$5,276
+Mount St Joseph Girls' College	ALTONA	$5,080	$5,160	$5,240
+Thomas Carr College	TARNEIT	$4,850	$5,150	$5,290
+Good Shepherd College	HAMILTON	$5,000	$5,650	$6,400
+St Francis Xavier College	BEACONSFIELD	$4,835	$4,835	$4,835
+Shepparton Christian College Ltd	SHEPPARTON	$4,510	$4,510	$5,175
+Holy Trinity Lutheran School	HORSHAM	$4,328	$5,010	$5,010
+St James' College	BENTLEIGH EAST	$6,750	$6,950	
+Galen Catholic College	WANGARATTA	$4,190	$4,640	$4,870
+Grace Christian College Wodonga	LENEVA	$4,104	$4,532	$4,796
+Catholic Regional College Melton	MELTON WEST	$4,392	$4,192	$4,460
+Cathedral College Wangaratta	WANGARATTA	$3,950	$4,365	$4,675
+Simonds Catholic College	WEST MELBOURNE	$4,000	$4,110	$4,450
+Ilim College	DALLAS	$3,840	$3,840	$4,844
+Notre Dame College	SHEPPARTON	$4,160	$4,160	$4,160
+Mansfield Rudolf Steiner School	MANSFIELD	$6,200	$6,200	
+Sacred Heart College	YARRAWONGA	$4,067	$4,067	$4,187
+Caroline Chisholm Catholic College	BRAYBROOK	$3,891	$4,430	$4,430
+Emmanuel College Inc.	WARRNAMBOOL		$4,765	$4,786
+Antonine College	PASCOE VALE SOUTH	$3,900	$3,900	$4,000
+Japanese School of Melbourne	CAULFIELD SOUTH	$7,872		
+St John's Regional College	DANDENONG	$3,690	$3,900	$4,120
+Nagle College	BAIRNSDALE	$4,576	$4,576	
+Clonard College	HERNE HILL	$3,800	$3,800	$3,800
+Kolbe Catholic College	GREENVALE	$3,400	$3,700	$3,980
+Sacred Heart College	KYNETON	$3,721	$3,721	$3,721
+Penola Catholic College	BROADMEADOWS	$3,190	$3,620	$4,140
+St Mary of the Angels College	NATHALIA	$3,562	$3,668	$3,668
+Al-Taqwa College	HOPPERS CROSSING	$3,360	$3,375	$3,955
+Victory Christian College	STRATHDALE	$3,500	$3,500	$3,610
+St Joseph's College	ECHUCA	$3,470	$3,470	$3,470
+Trinity College Colac Inc	COLAC	$3,475	$3,475	$3,570
+Bayside Christian College	LANGWARRIN SOUTH	$3,200	$3,200	$3,700
+Mercy Regional College	CAMPERDOWN	$3,365	$3,045	$3,380
+Marian College	MYRTLEFORD	$3,085	$3,085	$3,085
+Islamic College Of Melbourne	TARNEIT	$2,900	$2,900	$3,450
+St Thomas Aquinas College	TYNONG	$3,000	$3,000	$3,000
+Al Siraat College	EPPING	$2,985	$2,985	$2,985
+Sacred Heart College	NEWTOWN	$4,300	$4,600	
+Darul Ulum College of Victoria	FAWKNER	$2,800	$2,800	$3,280
+Catholic Regional College North Keilor	KEILOR LODGE	$4,185	$4,185	
+Minaret College	SPRINGVALE	$2,625	$2,940	$2,940
+Catholic Regional College Caroline Springs	CAROLINE SPRINGS	$4,140	$4,140	
+Killester College	SPRINGVALE	$2,750	$2,750	$2,750
+Trinity Lutheran College	MILDURA	$3,695	$4,395	
+Cobram Anglican Grammar School	COBRAM	$2,550	$2,550	$2,550
+Creek Street Christian College	BENDIGO	$3,475	$3,625	
+Mt Hira College	KEYSBOROUGH	$2,300	$2,300	$2,300
+Marian College	SUNSHINE WEST	$2,260	$2,360	$2,360
+East Preston Islamic College	PRESTON	$2,000	$2,000	$2,000
+Marian College	ARARAT	$1,890	$1,890	$1,890
+Olivet Christian College	CAMPBELLS CREEK	$2,780	$2,780	
+SEDA College (Victoria)	HAWTHORN EAST			$5,095
+Red Rock Christian College	SUNBURY	$4,878		
+Catholic Regional College St Albans	ST ALBANS	$1,977	$1,977	
+St Augustine's College	KYABRAM	$1,076	$1,076	$1,076
+St Mary's College	SEYMOUR	$1,550	$1,550	
+Mildura Christian College	IRYMPLE	$980	$980	
+Mount Scopus Memorial College	BURWOOD	$23,340	$24,960	$27,360	$31,630
+St Michael's Grammar School	ST KILDA	$19,719	$26,030	$28,408	$31,514
+Geelong Grammar School	CORIO				$31,440
+Geelong Grammar School	TOORAK	$25,420	$29,960	$31,240	$31,240
+Melbourne Girls Grammar	SOUTH YARRA	$23,960	$25,336	$27,384	$31,208
+The King David School	ARMADALE	$21,648	$23,576	$26,720	$31,048
+Scotch College	HAWTHORN	$28,728	$28,728	$30,777	$30,777
+Bialik College	HAWTHORN	$21,750	$22,700	$26,350	$30,650
+Lauriston Girls' School	ARMADALE	$24,280	$24,280	$30,600	$30,600
+St Catherine's School	TOORAK	$23,620	$26,360	$29,160	$30,520
+Camberwell Grammar School	CANTERBURY	$24,420	$24,705	$26,345	$30,310
+Christ Church Grammar School	SOUTH YARRA	$24,608	$28,596	$29,420	$30,156
+Brighton Grammar School	BRIGHTON	$23,283	$24,040	$26,635	$29,439
+Trinity Grammar School Kew	KEW	$22,604	$25,956	$29,404	$29,404
+Methodist Ladies' College	KEW	$19,800	$21,960	$25,800	$29,340
+Melbourne Grammar School	MELBOURNE	$29,000	$29,000	$29,000	$29,000
+Haileybury College	KEYSBOROUGH	$19,425	$23,495	$25,635	$28,800
+Wesley College	MELBOURNE	$23,110	$23,110	$24,950	$28,480
+Xavier College	KEW	$21,110	$21,110	$21,110	$28,250
+Carey Baptist Grammar School	KEW	$21,352	$25,236	$28,156	$28,156
+Caulfield Grammar School	ELSTERNWICK	$19,752	$24,168	$25,152	$27,840
+Camberwell Girls Grammar School	CANTERBURY	$21,602	$22,094	$25,179	$27,769
+Ruyton Girls' School	KEW	$20,746	$24,813	$26,620	$27,510
+Korowa Anglican Girls' School	GLEN IRIS	$16,508	$16,508	$20,772	$27,508
+Geelong Grammar School	NEWTOWN	$17,780	$22,380	$27,460	
+St Leonard's College	BRIGHTON EAST	$19,577	$22,249	$24,943	$26,995
+Presbyterian Ladies' College	BURWOOD	$18,248	$20,340	$24,736	$26,960
+Strathcona Baptist Girls' Grammar	CANTERBURY	$1,884	$21,160	$24,480	$26,404
+Firbank Grammar School	BRIGHTON	$18,165	$21,285	$24,081	$25,974
+Toorak College	MOUNT ELIZA	$15,948	$15,948	$23,016	$25,638
+The Geelong College	NEWTOWN	$14,916	$19,080	$22,248	$24,708
+St Margaret's School	BERWICK	$18,885	$21,130	$21,650	$24,305
+Peninsula Grammar	MOUNT ELIZA	$13,572	$16,203	$21,147	$23,505
+Shelford Girls' Grammar	CAULFIELD	$14,974	$17,627	$20,286	$23,473
+Tintern Grammar	RINGWOOD EAST	$17,116	$20,312	$22,916	$22,916
+Yarra Valley Grammar	RINGWOOD	$15,952	$19,408	$21,120	$22,884
+Lowther Hall Anglican Grammar School	ESSENDON	$15,600	$17,700	$19,300	$22,300
+Mentone Grammar School	MENTONE	$13,130	$15,900	$19,305	$21,675
+Mentone Girls' Grammar School	MENTONE	$13,130	$15,900	$19,305	$21,675
+Woodleigh School	LANGWARRIN SOUTH	$13,558	$16,529	$20,888	$21,560
+Loreto Mandeville Hall	TOORAK	$19,750	$19,750	$21,400	$21,400
+Kilvington Grammar School	ORMOND	$12,572	$15,088	$18,108	$21,164
+Genazzano FCJ College	KEW	$17,870	$17,870	$20,740	$20,740
+Ivanhoe Grammar School	IVANHOE	$17,260	$18,560	$18,560	$20,528
+Ivanhoe Girls' Grammar School	IVANHOE	$17,260	$18,560	$18,560	$20,528
+Sacre Coeur	GLEN IRIS	$4,783	$10,228	$14,674	$20,136
+St Kevin's College	TOORAK	$17,470	$17,470	$17,470	$20,050
+Preshil, The Margaret Lyttle Memorial School	KEW	$16,500	$17,660	$18,260	$18,860
+Kingswood College	BOX HILL	$11,203	$14,459	$15,946	$18,376
+Penleigh & Essendon Grammar School	KEILOR EAST	$12,696	$15,108	$17,752	$18,368
+Westbourne Grammar School	TRUGANINA	$15,720	$16,336	$18,280	$18,280
+The Knox School	WANTIRNA SOUTH	$11,200	$13,400	$16,300	$18,194
+Huntingtower School	MOUNT WAVERLEY	$11,820	$11,820	$14,940	$17,720
+Sophia Mundi Steiner School	ABBOTSFORD	$13,144	$13,144	$16,576	$16,780
+Cornish College	BANGHOLME	$11,788	$12,456	$13,828	$15,292
+Sholem Aleichem College	ELSTERNWICK	$11,990	$12,650	$13,400	$14,050
+The Hamilton and Alexandra College	HAMILTON	$5,324	$10,076	$12,100	$13,904
+Billanook College	MOOROOLBARK	$9,990	$9,990	$9,990	$13,500
+Deutsche Schule Melbourne	FITZROY NORTH	$13,480	$13,480	$13,480	$13,480
+De La Salle College	MALVERN				$12,589
+Ballarat Grammar	WENDOUREE	$7,160	$8,180	$10,940	$12,100
+Ballarat Clarendon College	BALLARAT	$8,300	$9,340	$10,820	$12,000
+Christian College Highton	HIGHTON	$4,904	$7,230	$9,547	$11,897
+Girton Grammar School	BENDIGO	$11,872	$11,872	$11,872	$11,872
+Overnewton Anglican Community College	KEILOR	$8,340	$8,340	$8,880	$10,696
+Gippsland Grammar	SALE	$7,200	$8,160	$9,040	$10,280
+Our Lady Help of Christians School	BRUNSWICK EAST	$10,000	$10,000	$10,000	$10,000
+Beaconhills College	PAKENHAM	$7,685	$7,685	$8,365	$9,790
+Southern Cross Grammar	CAROLINE SPRINGS	$8,970	$8,970	$9,420	$9,790
+Oakleigh Grammar	OAKLEIGH	$7,973	$8,767	$9,490	$9,769
+The Kilmore International School	KILMORE			$9,280	$9,355
+Melbourne Rudolf Steiner School	WARRANWOOD	$7,272	$8,156	$9,330	$9,330
+Alphington Grammar School	ALPHINGTON	$8,868	$8,868	$9,129	$9,309
+Braemar College	WOODEND				$9,146
+St Paul's Anglican Grammar School	WARRAGUL	$7,460	$7,992	$8,632	$8,970
+Village School	CROYDON NORTH	$8,955	$8,955	$8,955	$8,955
+Donvale Christian College	DONVALE	$7,740	$7,740	$8,775	$8,775
+Heathdale Christian College	WERRIBEE	$5,920	$6,870	$7,700	$8,350
+Oxley Christian College	CHIRNSIDE PARK	$5,530	$6,840	$8,270	$8,270
+Waverley Christian College	WANTIRNA SOUTH	$8,195	$8,195	$8,195	$8,195
+Goulburn Valley Grammar School	SHEPPARTON				$8,061
+Plenty Valley Christian College	DOREEN	$6,672	$7,168	$7,572	$7,940
+Bacchus Marsh Grammar	BACCHUS MARSH	$5,465	$5,465	$6,890	$7,923
+Edinburgh College	LILYDALE	$4,420	$5,937	$6,577	$7,780
+Freshwater Creek Steiner School	FRESHWATER CREEK	$6,789	$6,886	$7,666	$7,774
+Little Yarra Steiner School	YARRA JUNCTION	$4,800	$5,800	$7,200	$7,600
+Maranatha Christian School	ENDEAVOUR HILLS	$6,107	$6,653	$7,058	$7,488
+Ballarat Steiner School	MOUNT HELEN	$4,800	$5,000	$6,350	$7,350
+Nunawading Christian College - Primary	NUNAWADING	$7,100	$7,100	$7,100	$7,340
+Nunawading Christian College - Secondary	NUNAWADING	$7,100	$7,100	$7,100	$7,340
+Balcombe Grammar School	MOUNT MARTHA	$7,200	$7,200	$7,200	$7,200
+Good Shepherd Lutheran Primary School	CROYDON HILLS	$7,190	$7,190	$7,190	$7,190
+Hillcrest Christian College	CLYDE NORTH	$5,932	$6,216	$6,464	$7,170
+Flinders Christian Community College	TYABB	$7,055	$7,055	$7,055	$7,055
+Japanese School of Melbourne	CAULFIELD SOUTH	$6,480	$6,780	$6,780	$6,780
+St John's College Preston	PRESTON	$5,336	$5,336	$6,596	$6,596
+Lakeside College	PAKENHAM	$4,570	$4,650	$5,570	$6,470
+Mount Evelyn Christian School	MOUNT EVELYN	$3,870	$6,450	$6,450	$6,450
+Kardinia International College	BELL POST HILL	$5,081	$5,081	$6,156	$6,156
+Good News Lutheran College	TARNEIT	$4,790	$4,790	$5,400	$6,040
+Covenant College	BELL POST HILL	$3,995	$4,645	$5,320	$5,955
+Chairo Christian School	DROUIN	$4,124	$4,793	$5,297	$5,892
+Lighthouse Christian College	KEYSBOROUGH	$5,241	$5,241	$5,241	$5,761
+Heatherton Christian College	CLARINDA	$5,535	$5,535	$5,535	$5,535
+Aitken College	GREENVALE	$5,000	$5,000	$5,488	$5,488
+Northside Christian College	BUNDOORA	$4,750	$4,950	$5,350	$5,470
+Beechworth Montessori School	BEECHWORTH	$5,280	$5,280	$5,280	$5,280
+King's College	WARRNAMBOOL	$3,500	$4,400	$4,400	$5,200
+Belgrave Heights Christian School	BELGRAVE HEIGHTS	$4,960	$4,960	$4,960	$4,960
+Mountain District Christian School	MONBULK	$1,750	$2,370	$3,800	$4,850
+Casey Grammar School	CRANBOURNE EAST	$4,836	$4,836	$4,836	$4,836
+Ghilgai School	KILSYTH	$4,188	$4,768	$4,768	$4,768
+St John's Lutheran School Geelong	GEELONG	$4,400	$4,400	$4,590	$4,590
+Victory Lutheran College	WEST WODONGA	$3,560	$3,616	$4,136	$4,560
+Heritage College	NARRE WARREN SOUTH	$3,135	$4,295	$4,295	$4,504
+Ballarat Christian College	SEBASTOPOL	$2,380	$3,320	$3,520	$4,260
+Red Rock Christian College	SUNBURY	$3,871	$3,871	$4,221	$4,221
+Mansfield Rudolf Steiner School	MANSFIELD	$3,900	$4,200	$4,200	$4,200
+Geelong Baptist College	LOVELY BANKS	$3,500	$3,610	$3,940	$4,100
+Holy Trinity Primary School	ELTHAM NORTH	$4,096	$4,096	$4,096	$4,096
+Shepparton Christian College Ltd	SHEPPARTON	$3,755	$3,755	$4,055	$4,055
+Koonwarra Village School	KOONWARRA	$4,008	$4,008	$4,008	$4,008
+Sirius College	BROADMEADOWS	$3,700	$3,800	$3,800	$3,935
+Phillip Island Village School	VENTNOR	$3,758	$3,758	$3,758	$3,758
+Grace Christian College Wodonga	LENEVA	$2,872	$3,264	$3,424	$3,676
+Daylesford Dharma School	DAYLESFORD	$3,646	$3,646	$3,646	$3,646
+St Roch's School	GLEN IRIS	$3,645	$3,645	$3,645	$3,645
+Marymede Catholic College	SOUTH MORANG	$3,643	$3,643	$3,643	$3,643
+St John's School	MITCHAM	$3,620	$3,620	$3,620	$3,620
+Cathedral College Wangaratta	WANGARATTA	$2,675	$2,915	$3,370	$3,495
+Marist College Bendigo	MAIDEN GULLY	$2,816	$2,816	$2,816	$3,487
+Victory Christian College	STRATHDALE	$3,280	$3,280	$3,280	$3,280
+Sacred Heart College	NEWTOWN	$2,860	$2,860	$3,030	$3,230
+Wild Cherry School	BAIRNSDALE	$3,200	$3,200	$3,200	$3,200
+Creek Street Christian College	BENDIGO	$2,900	$3,100	$3,100	$3,100
+St Mary's School	WILLIAMSTOWN	$3,087	$3,087	$3,087	$3,087
+Holy Trinity Lutheran School	HORSHAM	$3,072	$3,072	$3,072	$3,072
+St James' School	BRIGHTON	$3,000	$3,000	$3,000	$3,000
+St Joan of Arc School	BRIGHTON	$2,970	$2,970	$2,970	$2,970
+St Patrick's School	MURRUMBEENA	$2,810	$2,810	$2,810	$2,810
+Bairnsdale Christian Community School	BAIRNSDALE	$2,800	$2,800	$2,800	$2,800
+Bayside Christian College	LANGWARRIN SOUTH	$2,150	$2,780	$2,780	$2,780
+St Vincent de Paul's School	STRATHMORE	$2,760	$2,760	$2,760	$2,760
+Darul Ulum College of Victoria	FAWKNER	$2,700	$2,700	$2,700	$2,700
+Siena Catholic Primary School	LUCAS	$2,693	$2,693	$2,693	$2,693
+Australian Christian College Hume	BENALLA	$2,685	$2,685	$2,685	$2,685
+Al Siraat College	EPPING	$2,643	$2,643	$2,643	$2,643
+Islamic College Of Melbourne	TARNEIT	$2,600	$2,600	$2,600	$2,600
+St Joseph's School	HAWTHORN	$2,580	$2,580	$2,580	$2,580
+St Brigid's School	MORDIALLOC	$2,532	$2,532	$2,532	$2,532
+St Michael's School	ASHBURTON	$2,500	$2,500	$2,500	$2,500
+Ss Peter & Paul's School	DONCASTER EAST	$2,500	$2,500	$2,500	$2,500
+Antonine College	PASCOE VALE SOUTH	$2,280	$2,280	$2,280	$2,480
+St Louis de Montfort's School	ASPENDALE	$2,445	$2,445	$2,445	$2,445
+St Thomas the Apostle School	GREENSBOROUGH	$1,900	$2,440	$2,440	$2,440
+Holy Family School	MOUNT WAVERLEY	$2,420	$2,420	$2,420	$2,420
+St Mary's School	THORNBURY	$2,400	$2,400	$2,400	$2,400
+St John's School	CLIFTON HILL	$2,400	$2,400	$2,400	$2,400
+Our Lady of Good Counsel School	DEEPDENE	$2,385	$2,385	$2,385	$2,385
+St Finbar's School	BRIGHTON EAST	$2,376	$2,376	$2,376	$2,376
+Trinity Lutheran College	MILDURA	$1,995	$1,995	$2,375	$2,375
+St Patrick's School	MENTONE	$2,360	$2,360	$2,360	$2,360
+St Cecilia's School	GLEN IRIS	$2,340	$2,340	$2,340	$2,340
+Sacred Heart School	KEW	$2,313	$2,313	$2,313	$2,313
+Minaret College	SPRINGVALE	$2,310	$2,310	$2,310	$2,310
+St Francis Xavier's School	MONTMORENCY	$2,300	$2,300	$2,300	$2,300
+Holy Spirit School	THORNBURY	$2,295	$2,295	$2,295	$2,295
+St Therese School	TORQUAY	$2,281	$2,281	$2,281	$2,281
+St Dominic's School	CAMBERWELL	$2,280	$2,280	$2,280	$2,280
+Olivet Christian College	CAMPBELLS CREEK	$2,020	$2,020	$2,020	$2,280
+St Thomas' School	SALE	$2,260	$2,260	$2,260	$2,260
+St Anne's School	KEW EAST	$2,255	$2,255	$2,255	$2,255
+St George Preca School	CAROLINE SPRINGS	$2,250	$2,250	$2,250	$2,250
+Our Lady Star of the Sea School	OCEAN GROVE	$2,240	$2,240	$2,240	$2,240
+Galilee Regional Catholic Primary School	SOUTH MELBOURNE	$2,205	$2,205	$2,205	$2,205
+St Paul Apostle North School	ENDEAVOUR HILLS	$2,202	$2,202	$2,202	$2,202
+St Bernadette's School	IVANHOE	$2,200	$2,200	$2,200	$2,200
+Holy Saviour Parish School	VERMONT SOUTH	$2,160	$2,182	$2,182	$2,182
+St Peter's Lutheran School	DIMBOOLA	$2,156	$2,156	$2,156	$2,156
+Christ the Priest Catholic Primary School	CAROLINE SPRINGS	$2,130	$2,130	$2,130	$2,130
+St Peter Apostle School	HOPPERS CROSSING	$2,112	$2,112	$2,112	$2,112
+St Thomas Aquinas College	TYNONG	$2,100	$2,100	$2,100	$2,100
+St Leonard's School	GLEN WAVERLEY	$2,100	$2,100	$2,100	$2,100
+St Patrick's School	GEELONG WEST	$2,075	$2,075	$2,075	$2,075
+St Margaret Mary's School	SPOTSWOOD	$2,068	$2,068	$2,068	$2,068
+Clairvaux Catholic School	BELMONT	$2,050	$2,050	$2,050	$2,050
+St Anne's School	PARK ORCHARDS	$2,050	$2,050	$2,050	$2,050
+Good Shepherd College	HAMILTON	$2,050	$2,050	$2,050	$2,050
+St Margaret's Primary School	MARIBYRNONG	$2,000	$2,000	$2,000	$2,000
+St Macartan's School	MORNINGTON	$1,995	$1,995	$1,995	$1,995
+St James' School	VERMONT	$1,995	$1,995	$1,995	$1,995
+St Thomas More's School	HADFIELD	$1,950	$1,950	$1,950	$1,950
+St Ambrose's School	WOODEND	$1,930	$1,930	$1,930	$1,930
+St Paul's School	MONBULK	$1,920	$1,920	$1,920	$1,920
+St Martin of Tours School	ROSANNA	$1,915	$1,915	$1,915	$1,915
+Holy Family School	BELL PARK	$1,910	$1,910	$1,910	$1,910
+St Mary of the Cross Catholic Primary School	POINT COOK	$1,910	$1,910	$1,910	$1,910
+St Philip's School	BLACKBURN NORTH	$1,875	$1,875	$1,875	$1,875
+St Carlo Borromeo School	GREENVALE	$1,860	$1,860	$1,860	$1,860
+St John Vianney's School	MULGRAVE	$1,850	$1,850	$1,850	$1,850
+St Augustine's School	WODONGA	$1,836	$1,836	$1,836	$1,836
+St Augustine's Primary School	KEILOR	$1,836	$1,836	$1,836	$1,836
+St Francis of Assisi Primary School, Wodonga	BARANDUDA	$1,836	$1,836	$1,836	$1,836
+St Augustine's School	YARRAVILLE	$1,830	$1,830	$1,830	$1,830
+Holy Spirit School	RINGWOOD NORTH	$1,822	$1,822	$1,822	$1,822
+St Michael's School	BERWICK	$1,820	$1,820	$1,820	$1,820
+St Mary's School	RUSHWORTH	$1,580	$1,580	$1,750	$1,820
+St Mary's School	GREENSBOROUGH	$1,800	$1,800	$1,800	$1,800
+Cobram Anglican Grammar School	COBRAM	$1,300	$1,300	$1,300	$1,800
+Holy Rosary School	KENSINGTON	$1,800	$1,800	$1,800	$1,800
+St Martin de Porres School	AVONDALE HEIGHTS	$1,783	$1,783	$1,783	$1,783
+Emmaus Catholic Primary School	SYDENHAM	$1,775	$1,775	$1,775	$1,775
+St Francis de Sales School	OAK PARK	$1,770	$1,770	$1,770	$1,770
+Holy Name School	RESERVOIR	$1,760	$1,760	$1,760	$1,760
+St Patrick's School	PAKENHAM	$1,750	$1,750	$1,750	$1,750
+Mt Hira College	KEYSBOROUGH	$1,720	$1,720	$1,720	$1,720
+St Peter Julian Eymard	MOOROOLBARK	$1,700	$1,700	$1,700	$1,700
+Holy Spirit Parish School	MANIFOLD HEIGHTS	$1,700	$1,700	$1,700	$1,700
+St James the Apostle School	HOPPERS CROSSING	$1,690	$1,690	$1,690	$1,690
+Christ Our Holy Redeemer School	OAKLEIGH EAST	$1,680	$1,680	$1,680	$1,680
+St Clare's Catholic Primary School	TRUGANINA	$1,680	$1,680	$1,680	$1,680
+Corpus Christi School	WERRIBEE	$1,670	$1,670	$1,670	$1,670
+Holy Trinity School	WANTIRNA SOUTH	$1,650	$1,650	$1,650	$1,650
+St Mary Magdalen's School	CHADSTONE	$1,650	$1,650	$1,650	$1,650
+Our Lady of the Way School	KINGSBURY	$1,650	$1,650	$1,650	$1,650
+Trinity Catholic Primary School	NARRE WARREN	$1,640	$1,640	$1,640	$1,640
+St Augustine's School	FRANKSTON	$1,640	$1,640	$1,640	$1,640
+St Mary's School	WHITTLESEA	$1,640	$1,640	$1,640	$1,640
+St Paul the Apostle Catholic Primary School	DOREEN	$1,640	$1,640	$1,640	$1,640
+St Joachim's School	CARRUM DOWNS	$1,607	$1,607	$1,607	$1,607
+St Christopher's School	GLEN WAVERLEY	$1,604	$1,604	$1,604	$1,604
+St Margaret Mary's School	BRUNSWICK NORTH	$1,602	$1,602	$1,602	$1,602
+St Andrew's School	WERRIBEE	$1,600	$1,600	$1,600	$1,600
+St Patrick's School	GORDON	$1,590	$1,590	$1,590	$1,590
+St Michael & St John's School	HORSHAM	$1,585	$1,585	$1,585	$1,585
+Sacred Heart School	ST ALBANS	$1,555	$1,555	$1,555	$1,555
+St Joseph the Worker School	RESERVOIR	$1,550	$1,550	$1,550	$1,550
+Don Bosco School	NARRE WARREN	$1,544	$1,544	$1,544	$1,544
+St Andrew's School	CLAYTON SOUTH	$1,540	$1,540	$1,540	$1,540
+St Bernadette's Catholic Primary School	THE BASIN	$1,510	$1,510	$1,510	$1,510
+St Gabriel's School	TRARALGON	$1,500	$1,500	$1,500	$1,500
+Mother Teresa School	CRAIGIEBURN	$1,500	$1,500	$1,500	$1,500
+St Bede's School	BALWYN NORTH	$1,500	$1,500	$1,500	$1,500
+St Kilian's School	BENDIGO	$1,500	$1,500	$1,500	$1,500
+St Bernard's School	COBURG	$1,500	$1,500	$1,500	$1,500
+Our Lady Help of Christians School	WENDOUREE	$1,500	$1,500	$1,500	$1,500
+St Monica's School	KANGAROO FLAT	$1,473	$1,473	$1,473	$1,473
+St Agatha's School	CRANBOURNE	$1,472	$1,472	$1,472	$1,472
+St Michael's School	TRARALGON	$1,470	$1,470	$1,470	$1,470
+Good Samaritan Catholic Primary School	ROXBURGH PARK	$1,450	$1,450	$1,450	$1,450
+St Joseph's School	QUARRY HILL	$1,449	$1,449	$1,449	$1,449
+Columba Catholic School	BUNYIP	$1,445	$1,445	$1,445	$1,445
+St Therese's School	KENNINGTON	$1,439	$1,439	$1,439	$1,439
+St Francis of the Fields School	STRATHFIELDSAYE	$1,430	$1,430	$1,430	$1,430
+Corpus Christi School	KINGSVILLE	$1,430	$1,430	$1,430	$1,430
+St Monica's School	FOOTSCRAY	$1,430	$1,430	$1,430	$1,430
+St Catherine's Primary School	BERWICK	$1,400	$1,400	$1,400	$1,400
+School of the Good Shepherd	GLADSTONE PARK	$1,400	$1,400	$1,400	$1,400
+St Brigid's School	OFFICER	$1,400	$1,400	$1,400	$1,400
+St Mary's Primary School	SALE	$1,395	$1,395	$1,395	$1,395
+St Clare's School	THOMASTOWN	$1,390	$1,390	$1,390	$1,390
+St Scholastica's School	BENNETTSWOOD	$1,350	$1,350	$1,350	$1,350
+St Mary's School	MAFFRA	$1,345	$1,345	$1,345	$1,345
+St Malachy's School	EDENHOPE	$1,344	$1,344	$1,344	$1,344
+Nhill Lutheran School	NHILL	$1,338	$1,338	$1,338	$1,338
+St Columba's School	BALLARAT NORTH	$1,335	$1,335	$1,335	$1,335
+Stella Maris Catholic Primary School	POINT COOK	$1,300	$1,300	$1,300	$1,300
+Emmaus Catholic Primary School	MOUNT CLEAR	$1,300	$1,300	$1,300	$1,300
+Sacred Heart School	YEA	$1,290	$1,290	$1,290	$1,290
+St Mary's School	CASTLEMAINE	$1,275	$1,275	$1,275	$1,275
+St Mary's School	CLARKES HILL	$1,263	$1,263	$1,263	$1,263
+St Francis Xavier School	BALLARAT EAST	$1,260	$1,260	$1,260	$1,260
+St Joseph's Primary School	BORONIA	$1,260	$1,260	$1,260	$1,260
+St Bernard's School	WANGARATTA	$1,250	$1,250	$1,250	$1,250
+St Laurence O'Toole School	LEONGATHA	$1,250	$1,250	$1,250	$1,250
+St James School	NAR NAR GOON	$1,250	$1,250	$1,250	$1,250
+St Brendan's School	SHEPPARTON	$1,240	$1,240	$1,240	$1,240
+St Michael's School	TALLANGATTA	$1,240	$1,240	$1,240	$1,240
+St Mary MacKillop College	SWAN HILL	$1,202	$1,228	$1,228	$1,228
+St Bernard's School	BACCHUS MARSH	$1,225	$1,225	$1,225	$1,225
+St John the Baptist's School	KOO WEE RUP	$1,220	$1,220	$1,220	$1,220
+St Augustine's School	CRESWICK	$1,210	$1,210	$1,210	$1,210
+St Matthew's School	FAWKNER	$1,200	$1,200	$1,200	$1,200
+Cana Catholic Primary School	HILLSIDE	$1,200	$1,200	$1,200	$1,200
+St Mel's School	SHEPPARTON	$1,200	$1,200	$1,200	$1,200
+All Saints Parish School	PORTLAND	$1,200	$1,200	$1,200	$1,200
+St Mark's School	FAWKNER	$1,200	$1,200	$1,200	$1,200
+St Paul's School	SUNSHINE WEST	$1,185	$1,185	$1,185	$1,185
+St Peter's School	SUNSHINE WEST	$1,185	$1,185	$1,185	$1,185
+Sacred Heart School	MILDURA	$1,170	$1,170	$1,170	$1,170
+St Bernadette's School	SUNSHINE NORTH	$1,150	$1,150	$1,150	$1,150
+Lumen Christi School	CHURCHILL	$1,150	$1,150	$1,150	$1,150
+St Stephen's School	RESERVOIR	$1,150	$1,150	$1,150	$1,150
+Sacred Heart School	TATURA	$1,143	$1,143	$1,143	$1,143
+St Michael's School	HEYFIELD	$1,140	$1,140	$1,140	$1,140
+St Patrick's School	CAMPERDOWN	$1,135	$1,135	$1,135	$1,135
+St Anthony's School	LARA	$1,130	$1,130	$1,130	$1,130
+Nazareth School	GROVEDALE	$1,130	$1,130	$1,130	$1,130
+St Dominic's School	BROADMEADOWS	$1,121	$1,121	$1,121	$1,121
+Resurrection School	KEYSBOROUGH	$1,115	$1,115	$1,115	$1,115
+St Patrick's School	STRATFORD	$1,113	$1,113	$1,113	$1,113
+Holy Rosary School	WHITE HILLS	$1,100	$1,100	$1,100	$1,100
+Christ the King School	NEWCOMB	$1,100	$1,100	$1,100	$1,100
+St Mary's School	MOOROOPNA	$1,095	$1,095	$1,095	$1,095
+St Alipius' Parish School	BALLARAT EAST	$1,090	$1,090	$1,090	$1,090
+St Augustine's College	KYABRAM	$1,076	$1,076	$1,076	$1,076
+St Brendan's School	FLEMINGTON	$1,070	$1,070	$1,070	$1,070
+St Mary's School	HAMILTON	$1,133	$1,133	$1,133	$1,065
+St Anthony's School	NOBLE PARK	$1,060	$1,060	$1,060	$1,060
+St Michael's School	DAYLESFORD	$1,020	$1,020	$1,020	$1,020
+St Paul's Primary School	MILDURA	$1,010	$1,010	$1,010	$1,010
+St Theresa's School	ALBION	$1,010	$1,010	$1,010	$1,010
+Mother of God School	ARDEER	$1,010	$1,010	$1,010	$1,010
+East Preston Islamic College	PRESTON	$1,000	$1,000	$1,000	$1,000
+St Mary's School	BAIRNSDALE	$975	$975	$975	$975
+St Patrick's School	NHILL	$970	$970	$970	$970
+Christ the King Primary School	BRAYBROOK	$960	$960	$960	$960
+St Mary's School	DONALD	$960	$960	$960	$960
+Our Lady Help of Christians School	WARRNAMBOOL	$950	$950	$950	$950
+Holy Family School	DOVETON	$950	$950	$950	$950
+Immaculate Heart of Mary School	NEWBOROUGH	$940	$940	$940	$940
+St Elizabeth's School	DANDENONG NORTH	$930	$930	$930	$930
+St Pius X School	HEIDELBERG WEST	$925	$925	$925	$925
+St Aloysius' School	REDAN	$910	$910	$910	$910
+Trinity Catholic School	RICHMOND NORTH	$910	$910	$910	$910
+St Vincent de Paul's School	MORWELL	$880	$880	$880	$880
+St Francis Xavier School	CORIO	$850	$850	$850	$850
+Corpus Christi School	GLENROY	$840	$840	$840	$840
+Annunciation School	BROOKLYN	$840	$840	$840	$840
+St Brendan's School	LAKES ENTRANCE	$824	$824	$824	$824
+St Patrick's School	PYRAMID HILL	$820	$820	$820	$820
+Our Lady of the Sacred Heart School	MERBEIN	$775	$775	$775	$775
+Mildura Christian College	IRYMPLE	$525	$560	$640	$685
+St Thomas Aquinas School	NORLANE	$600	$600	$600	$600
+St Mary's College	SEYMOUR	$575	$575	$575	$575
+Walford Anglican School for Girls	HYDE PARK	$15,195	$16,140	$17,715	$22,490
+St Peter's Collegiate Girls' School	STONYFELL	$14,840	$16,140	$19,080	$22,250
+St Peter's College	ST PETERS	$15,710	$16,420	$18,480	$21,790
+Seymour College	GLEN OSMOND	$14,750	$16,250	$18,450	$21,760
+St Andrew's School	WALKERVILLE	$16,020	$16,728	$19,098	$21,692
+Wilderness School	MEDINDIE	$14,934	$15,894	$18,885	$21,588
+Pembroke School	KENSINGTON PARK	$15,573	$16,203	$18,333	$20,763
+Scotch College	TORRENS PARK	$15,880	$15,880	$18,440	$20,600
+Prince Alfred College	KENT TOWN	$15,630	$15,990	$18,570	$20,220
+Pulteney Grammar School	ADELAIDE	$15,900	$15,900	$17,850	$20,100
+Mercedes College	SPRINGFIELD	$11,590	$11,632	$12,509	$16,076
+Loreto College	MARRYATVILLE	$11,545	$12,280	$14,225	$15,570
+Saint Ignatius' College	ATHELSTONE	$11,065	$11,065	$13,679	$14,927
+St John's Grammar School	BELAIR	$7,720	$7,720	$9,519	$9,791
+Annesley College	WAYVILLE	$8,805	$8,805	$8,805	
+Immanuel Primary School	NOVAR GARDENS	$8,850	$8,850	$8,850	$8,850
+St Peter's Woodlands Grammar School	GLENELG	$8,435	$8,435	$8,780	$8,795
+Pedare Christian College	GOLDEN GROVE	$6,449	$6,449	$6,914	$7,969
+Blackfriars Priory School	PROSPECT	$5,164	$5,761	$6,950	$7,858
+St Aloysius College	ADELAIDE	$5,550	$5,550	$7,608	$7,793
+St Dominic's Priory College	NORTH ADELAIDE	$5,518	$6,668	$6,970	$7,736
+Rostrevor College	WOODFORDE	$5,435	$5,540	$7,035	$7,610
+Christian Brothers' College	ADELAIDE	$5,616	$5,958	$6,642	$7,344
+Concordia College	HIGHGATE	$6,764	$6,800	$7,106	$7,106
+St George College	MILE END	$5,300	$5,700	$5,700	$6,900
+King's Baptist Grammar School	WYNN VALE	$5,530	$5,530	$5,700	$6,720
+Woodcroft College	MORPHETT VALE	$6,500	$6,500	$6,600	$6,700
+St Michael's College	HENLEY BEACH	$4,610	$5,232	$6,353	$6,477
+St Mary's College	ADELAIDE	$5,095	$5,330	$5,680	$6,085
+Tyndale Christian School	SALISBURY EAST	$5,240	$5,240	$5,240	$6,080
+Emmaus Christian College	SOUTH PLYMPTON	$4,980	$4,980	$5,690	$5,910
+Dara Village School	PARK HOLME		$5,818	$5,818	$5,818
+Tatachilla Lutheran College	MCLAREN VALE	$5,400	$5,490	$5,680	$5,740
+Unity College	MURRAY BRIDGE	$3,185	$3,185	$3,640	$5,650
+St Peters Lutheran School	BLACKWOOD		$5,600	$5,600	$5,600
+Torrens Valley Christian School	HOPE VALLEY	$4,690	$4,690	$5,590	$5,590
+Willunga Waldorf School	WILLUNGA	$4,968	$5,136	$5,798	$5,472
+Sunrise Christian School Whyalla	WHYALLA NORRIE	$4,800	$4,800	$5,010	$5,150
+Sunrise Christian School	FULLARTON	$4,800	$4,800	$5,010	$5,150
+The Hills Christian Community School	VERDUN	$4,825	$4,825	$5,145	$5,115
+Pilgrim School	ABERFOYLE PARK	$4,760	$4,760	$4,980	$5,110
+St Therese Primary School	COLONEL LIGHT GARDENS	$3,670	$3,670	$4,050	$5,050
+St Joseph's School Port Lincoln	PORT LINCOLN	$4,210	$4,210	$4,210	$4,960
+Tenison Woods College	MOUNT GAMBIER	$4,150	$4,150	$4,150	$4,950
+Cedar College	NORTHGATE	$4,900	$4,633	$4,900	$4,900
+Investigator College	VICTOR HARBOR	$4,480	$4,480	$4,480	$4,770
+Navigator College	PORT LINCOLN	$4,040	$4,040	$4,040	$4,620
+Trinity College South	EVANSTON SOUTH	$4,220	$4,220	$4,220	$4,520
+Trinity College North	EVANSTON SOUTH	$4,220	$4,220	$4,220	$4,520
+Trinity College Gawler River	ANGLE VALE	$4,220	$4,220	$4,220	$4,520
+Trinity College Blakeview	BLAKEVIEW	$4,220	$4,220	$4,220	$4,520
+St Paul's College	GILLES PLAINS	$3,500	$3,500	$4,200	$4,500
+Southern Montessori School	O'SULLIVAN BEACH	$4,340	$4,340	$4,340	$4,340
+Good Shepherd Lutheran School	PARA VISTA	$4,200	$4,160	$4,395	$4,335
+St Catherine's School	STIRLING	$4,285	$4,285	$4,285	$4,285
+St Joseph's School Kingswood	KINGSWOOD	$4,154	$4,154	$4,154	$4,154
+Prescott College Southern	MORPHETT VALE	$4,153	$4,153	$4,153	$4,153
+Our Lady of Grace School	GLENGOWRIE	$4,007	$4,007	$4,007	
+St Teresa's School	BRIGHTON	$3,875	$3,875	$3,900	
+Stella Maris Parish School	SEACOMBE GARDENS	$3,412	$3,412	$3,715	
+St Bernadette's School	ST MARYS	$3,520	$3,520	$3,520	
+Christ the King School	WARRADALE		$3,422	$3,422	
+Encounter Lutheran College	VICTOR HARBOR	$3,960	$3,960	$3,960	$3,960
+St Martin de Porres School	SHEIDOW PARK	$3,500	$3,500	$3,550	$3,950
+Blakes Crossing Christian College	BLAKEVIEW	$3,900	$3,900	$3,900	$3,900
+Star of the Sea School	HENLEY BEACH	$3,870	$3,870	$3,870	$3,870
+St Michael's Lutheran School	HAHNDORF	$3,815	$3,815	$3,815	$3,815
+Saint Spyridon College	UNLEY	$3,200	$3,700	$3,800	$3,800
+Southern Vales Christian College	MORPHETT VALE	$3,500	$3,696	$3,768	$3,768
+St Joseph's Memorial School	NORWOOD	$3,758	$3,758	$3,758	$3,758
+Seaview Christian College	PORT AUGUSTA	$3,740	$3,740	$3,740	$3,740
+Hope Christian College	CRAIGMORE	$2,920	$2,920	$3,380	$3,690
+St Mark's College	PORT PIRIE	$3,660	$3,660	$3,660	$3,660
+Tyndale Christian School Strathalbyn	STRATHALBYN	$3,545	$3,545	$3,545	$3,545
+Tenison Woods Catholic Primary School	RICHMOND	$3,510	$3,510	$3,532	$3,532
+St Joseph's School Hectorville	HECTORVILLE	$3,511	$3,511	$3,511	$3,511
+Emmanuel Lutheran School	GAWLER	$3,450	$3,450	$3,450	$3,450
+Caritas College	PORT AUGUSTA WEST	$3,450	$3,450	$3,450	$3,450
+St Francis Xavier's Regional Catholic	WYNN VALE	$3,445	$3,445	$3,445	$3,445
+Our Lady of Hope School	GREENWITH	$3,418	$3,418	$3,418	$3,418
+Tyndale Christian School Murray Bridge	MURRAY BRIDGE	$3,416	$3,416	$3,416	$3,416
+St Joseph's School Tranmere	TRANMERE	$3,394	$3,394	$3,394	$3,394
+St Mark's Lutheran School	MOUNT BARKER		$3,386	$3,386	$3,386
+Dominican School	SEMAPHORE	$3,374	$3,374	$3,374	$3,374
+St Martins Lutheran College	MOUNT GAMBIER	$3,278	$3,278	$3,363	$3,363
+St Monica's Parish School	WALKERVILLE	$3,272	$3,272	$3,272	$3,272
+St John the Baptist Catholic School	PLYMPTON	$3,272	$3,272	$3,272	$3,272
+St Francis School	LOCKLEYS		$3,268	$3,268	$3,268
+St Francis of Assisi School	NEWTON	$3,252	$3,252	$3,252	$3,252
+St Paul Lutheran School	BLAIR ATHOL	$3,240	$3,240	$3,240	$3,240
+School of the Nativity	ABERFOYLE PARK	$3,230	$3,230	$3,230	$3,230
+St Martin's Catholic Primary School	GREENACRES		$3,160	$3,160	$3,160
+Saint David's Parish School	TEA TREE GULLY		$3,150	$3,150	$3,150
+Mid North Christian College	PORT PIRIE	$2,240	$2,240	$2,240	$3,130
+Bethany Christian School	PARALOWIE	$3,109	$3,109	$3,109	$3,109
+Emmaus Catholic School	WOODCROFT	$3,237	$3,079	$3,079	$3,079
+St Margaret Mary's School	CROYDON PARK	$2,982	$2,982	$2,982	$2,982
+Rosary School	PROSPECT	$2,982	$2,982	$2,982	$2,982
+St Columba College	ANDREWS FARM	$2,600	$2,600	$2,900	$2,930
+Holy Family Catholic School	PARAFIELD GARDENS	$2,460	$2,921	$2,921	$2,921
+St John Bosco School	BROOKLYN PARK	$2,915	$2,915	$2,915	$2,915
+St Francis de Sales College	MOUNT BARKER	$2,825	$2,825	$2,825	$2,905
+St Thomas' School	GOODWOOD	$2,868	$2,868	$2,868	$2,868
+St John's Lutheran School	EUDUNDA	$2,860	$2,860	$2,860	$2,860
+Samaritan College	WHYALLA	$2,850	$2,850	$2,850	$2,850
+Antonio Catholic School	MORPHETT VALE	$2,850	$2,850	$2,850	$2,850
+St Brigid's Catholic School	EVANSTON	$2,832	$2,832	$2,832	$2,832
+Our Lady Queen of Peace School	ALBERT PARK	$2,796	$2,796	$2,796	$2,796
+Galilee Catholic School	ALDINGA	$2,793	$2,793	$2,793	$2,793
+Nazareth Catholic College	FINDON	$2,625	$2,625	$2,625	$2,780
+Our Lady of Mount Carmel Parish	PENNINGTON	$2,495	$2,495	$2,755	$2,755
+St Barbara's Parish School	ROXBY DOWNS	$2,669	$2,669	$2,669	$2,669
+Horizon Christian School	BALAKLAVA	$2,410	$2,410	$2,637	$2,637
+Whitefriars School	WOODVILLE PARK	$2,610	$2,610	$2,610	$2,610
+St Augustine's Parish School	SALISBURY	$2,545	$2,545	$2,545	$2,545
+St Joseph's School West Hindmarsh	WEST HINDMARSH	$2,544	$2,544	$2,544	$2,544
+Heritage College	OAKDEN	$2,510	$2,510	$2,510	$2,510
+Catherine McAuley School	CRAIGMORE	$2,460	$2,460	$2,460	$2,460
+Immaculate Heart of Mary School	BROMPTON	$2,325	$2,325	$2,325	$2,325
+St Thomas More School	ELIZABETH PARK		$2,309	$2,309	$2,309
+St Raphael's School	PARKSIDE	$2,200	$2,200	$2,200	$2,200
+Our Lady of the Visitation School	TAPEROO	$2,200	$2,200	$2,200	$2,200
+St Gabriel's School	ENFIELD	$2,150	$2,150	$2,150	$2,150
+Loxton Lutheran School	LOXTON		$2,140	$2,140	$2,140
+Pinnacle College	ELIZABETH EAST	$2,139	$2,139	$2,139	$2,139
+St Joseph's School Ottoway	OTTOWAY	$2,115	$2,115	$2,115	$2,115
+St Columba's Memorial School	YORKETOWN		$2,115	$2,115	$2,115
+St Pius X School	WINDSOR GARDENS	$2,079	$2,079	$2,079	$2,079
+St Patrick's School	MANSFIELD PARK		$2,020	$2,020	$2,020
+Harvest Christian College	KADINA	$1,997	$1,997	$1,997	$1,997
+St Joseph's School Barmera	BARMERA		$1,890	$1,890	$1,890
+IQRA College	O'HALLORAN HILL	$900	$1,800	$1,800	$1,800
+Garden College	PARAFIELD GARDENS	$1,660	$1,760	$1,760	$1,760
+Rivergum Christian College	GLOSSOP	$1,540	$1,540	$1,730	$1,730
+St Joseph's School Clare	CLARE	$1,680	$1,680	$1,680	$1,680
+St Anthony's Catholic Primary School	MILLICENT		$1,576	$1,576	$1,576
+St Joseph's School Renmark	RENMARK	$1,564	$1,564	$1,564	$1,564
+St Joseph's School Peterborough	PETERBOROUGH		$1,546	$1,546	$1,546
+St John the Apostle Catholic School	CHRISTIES BEACH	$1,545	$1,545	$1,545	$1,545
+St Mary MacKillop School	WALLAROO		$1,530	$1,530	$1,530
+St Joseph's Parish School	GLADSTONE	$1,490	$1,490	$1,490	$1,490
+Crossways Lutheran School	CEDUNA	$785	$785	$785	$785
+Walford Anglican School for Girls	HYDE PARK	$25,444	$27,524	$27,409
+Pembroke School	KENSINGTON PARK	$25,698	$27,348	$27,348
+St Peter's College	ST PETERS	$25,900	$27,310	$27,310
+Prince Alfred College	KENT TOWN	$24,930	$27,210	$27,210
+St Peter's Collegiate Girls' School	STONYFELL	$24,800	$26,700	$26,700
+Seymour College	GLEN OSMOND	$24,860	$26,390	$26,390
+Wilderness School	MEDINDIE	$25,413	$26,214	$26,214
+Scotch College	TORRENS PARK	$24,280	$26,200	$26,200
+Pulteney Grammar School	ADELAIDE	$23,700	$25,350	$25,350
+Immanuel College	NOVAR GARDENS	$19,640	$19,640	$19,640
+Loreto College	MARRYATVILLE	$16,490	$17,710	$18,630
+Eynesbury College	ADELAIDE		$13,980	$17,760
+St John's Grammar School	BELAIR	$15,456	$16,470	$17,543
+Mercedes College	SPRINGFIELD	$14,928	$18,142	$17,433
+Concordia College	HIGHGATE	$15,500	$15,580	$15,580
+Rostrevor College	WOODFORDE	$9,150	$12,230	$12,350
+University Senior College	ADELAIDE UNIVERSITY			$11,546
+Cabra Dominican College	CUMBERLAND PARK	$8,670	$10,800	$11,100
+Sacred Heart College	SOMERTON PARK	$8,508	$10,808	$10,948
+St Aloysius College	ADELAIDE	$9,434	$10,614	$10,614
+Gleeson College	GOLDEN GROVE	$8,560	$9,235	$9,885
+Pedare Christian College	GOLDEN GROVE	$8,848	$9,765	$9,860
+St Michael's College	HENLEY BEACH	$8,838	$8,838	$9,831
+Blackfriars Priory School	PROSPECT	$9,298	$9,818	$9,818
+Christian Brothers' College	ADELAIDE	$8,712	$9,387	$9,729
+Cornerstone College	MOUNT BARKER	$9,645	$9,645	$9,645
+Endeavour College	MAWSON LAKES	$8,180	$9,080	$9,080
+Woodcroft College	MORPHETT VALE	$8,800	$9,600	$9,000
+St Dominic's Priory College	NORTH ADELAIDE	$8,535	$8,510	$8,993
+St George College	MILE END	$7,700	$8,100	$8,900
+Mary MacKillop College	KENSINGTON	$8,300	$8,700	$8,800
+St Mary's College	ADELAIDE	$7,170	$8,120	$8,575
+Adelaide International School	ADELAIDE BC			$8,000
+The Hills Christian Community School	VERDUN	$9,025	$7,925	$7,925
+Torrens Valley Christian School	HOPE VALLEY	$7,590	$7,920	$7,920
+Emmaus Christian College	SOUTH PLYMPTON	$7,720	$8,010	$7,850
+Tatachilla Lutheran College	MCLAREN VALE	$6,186	$8,160	$7,750
+King's Baptist Grammar School	WYNN VALE	$7,390	$7,640	$7,640
+Unity College	MURRAY BRIDGE	$6,240	$7,540	$7,540
+St Paul's College	GILLES PLAINS	$6,000	$7,000	$7,500
+Nazareth Catholic College	FINDON	$6,710	$7,450	$7,450
+Investigator College	VICTOR HARBOR	$5,530	$6,600	$7,260
+Temple Christian College	MILE END	$6,850	$6,850	$7,150
+Temple Christian College	PARALOWIE	$6,850	$6,850	$6,950
+Willunga Waldorf School	WILLUNGA	$6,373	$6,215	$6,846
+Trinity College	EVANSTON SOUTH	$5,280	$6,170	$6,750
+Cardijn College	NOARLUNGA DOWNS	$5,710	$6,340	$6,560
+Encounter Lutheran College	VICTOR HARBOR	$5,339	$6,510	$6,510
+Prescott College Southern	MORPHETT VALE	$6,086	$6,086	$6,510
+Tyndale Christian School	SALISBURY EAST	$6,080	$6,400	$6,400
+OLSCH	ENFIELD	$5,137	$5,458	$6,082
+Xavier College	GAWLER BELT	$5,710	$5,555	$6,070
+Cedar College	NORTHGATE	$5,416	$6,056	$6,056
+Mount Carmel College	ROSEWATER	$4,690	$5,440	$6,010
+Tenison Woods College	MOUNT GAMBIER	$5,500	$5,900	$5,900
+St Joseph's School Port Lincoln	PORT LINCOLN	$4,960	$5,700	$5,700
+St Francis de Sales College	MOUNT BARKER	$4,775	$5,645	$5,645
+Southern Vales Christian College	MORPHETT VALE	$5,688	$5,609	$5,609
+Navigator College	PORT LINCOLN	$4,620	$5,400	$5,400
+Thomas More College	SALISBURY DOWNS	$4,910	$5,215	$5,285
+Hope Christian College	CRAIGMORE	$4,590	$5,260	$5,260
+St Martins Lutheran College	MOUNT GAMBIER	$4,984	$4,984	$5,245
+Muirden Senior College	ADELAIDE			$5,200
+Kildare College	HOLDEN HILL	$5,100	$5,100	$5,100
+St Mark's College	PORT PIRIE	$4,639	$4,639	$4,982
+St Patrick's Technical College	EDINBURGH NORTH			$4,910
+Samaritan College	WHYALLA	$3,850	$4,850	$4,850
+St Columba College	ANDREWS FARM	$4,210	$4,820	$4,820
+Tyndale Christian School	STRATHALBYN	$4,419	$4,551	$4,551
+Caritas College	PORT AUGUSTA WEST	$4,324	$4,499	$4,499
+Tyndale Christian School	MURRAY BRIDGE	$4,229	$4,494	$4,494
+Heritage College	OAKDEN	$3,550	$3,550	$4,460
+St Patrick's Special School	DULWICH	$3,981	$3,981	$3,981
+Marcellin Technical College	CHRISTIE DOWNS		$4,215	$3,890
+Prescott College	PROSPECT	$3,352	$3,272	$3,580
+Mid North Christian College	PORT PIRIE	$3,130	$3,455	$3,455
+Horizon Christian School	BALAKLAVA	$2,900	$3,054	$3,054
+Harvest Christian College	KADINA	$2,222	$2,346	$2,836
+Pinnacle College	ELIZABETH EAST	$2,506	$2,506	$2,604
+IQRA College	O'HALLORAN HILL	$1,800	$1,800	$1,800
+Blakes Crossing Christian College	BLAKEVIEW	$4,630	$4,630	
+Rivergum Christian College	GLOSSOP	$2,180	$2,180	
+Garden College	PARAFIELD GARDENS	$1,870	$1,870	
+Crossways Lutheran School	CEDUNA	$810	$810	
+Sydney Grammar School	DARLINGHURST	$27,195	$30,924	$32,418	$34,119
+The King's School	NORTH PARRAMATTA	$22,983	$24,382	$27,396	$31,926
+Cranbrook School	BELLEVUE HILL	$26,064	$26,823	$30,978	$31,722
+SCEGGS Darlinghurst	DARLINGHURST	$23,867	$26,020	$30,636	$30,636
+Barker College	HORNSBY	$24,644	$25,957	$28,735	$29,745
+SHORE - Sydney Church of England Grammar School	NORTH SYDNEY	$22,976	$22,976	$29,184	$29,184
+St Andrew's Cathedral School	SYDNEY	$20,588	$20,660	$24,616	$28,876
+Ravenswood School for Girls	GORDON	$21,500	$21,700	$26,330	$28,730
+SCECGS Redlands	CREMORNE	$22,300	$23,300	$28,300	$28,300
+St Catherine's School	WAVERLEY	$21,200	$23,486	$28,060	$28,060
+Abbotsleigh	WAHROONGA	$21,140	$22,830	$24,880	$27,600
+Trinity Grammar School	SUMMER HILL	$20,100	$22,030	$24,890	$27,560
+Knox Grammar School	WAHROONGA	$20,910	$24,090	$27,360	$27,360
+Newington College	STANMORE	$20,196	$20,241	$23,283	$27,333
+MLC School	BURWOOD	$19,132	$19,580	$24,316	$26,912
+St Ignatius' College	LANE COVE				$26,580
+Reddam House	WOOLLAHRA	$19,995	$21,505	$24,990	$26,250
+Pymble Ladies' College	PYMBLE	$22,578	$22,578	$25,089	$25,943
+Mosman Church of England Preparatory School	MOSMAN	$23,700	$24,056	$25,252	$25,276
+Meriden School	STRATHFIELD	$19,950	$19,950	$24,000	$25,000
+Roseville College	ROSEVILLE	$18,550	$18,620	$20,725	$23,825
+Tara Anglican School for Girls	NORTH PARRAMATTA	$19,608	$19,608	$22,152	$22,812
+The McDonald College	NORTH STRATHFIELD	$17,600	$17,600	$20,600	$22,800
+Kesser Torah College	DOVER HEIGHTS	$16,811	$18,455	$21,545	$21,545
+International Grammar School	ULTIMO	$19,491	$19,818	$20,478	$20,478
+Emanuel School	RANDWICK	$13,320	$16,185	$18,525	$20,070
+Loreto Kirribilli	KIRRIBILLI	$17,655	$17,655	$19,980	$19,980
+Santa Sabina College	STRATHFIELD	$15,570	$15,570	$15,570	$19,860
+Masada College	ST IVES	$14,260	$17,000	$18,760	$19,400
+Glenaeon Rudolf Steiner School	MIDDLE COVE	$16,740	$16,776	$19,016	$19,376
+Loreto Normanhurst	NORMANHURST				$19,260
+The Hills Grammar School	KENTHURST	$17,235	$17,235	$18,425	$18,425
+Danebank - An Anglican School For Girls	HURSTVILLE	$13,040	$13,320	$15,220	$17,860
+St Aloysius' College	MILSONS POINT			$17,692	$17,692
+St Luke's Grammar School	DEE WHY	$13,900	$13,900	$15,160	$17,340
+Pittwater House Schools	COLLAROY	$14,580	$14,580	$15,420	$17,280
+Mount Sinai College	MAROUBRA	$15,916	$15,916	$15,916	$15,916
+Kinross Wolaroi School	ORANGE	$9,920	$12,280	$13,840	$15,900
+John Colet School	BELROSE	$14,590	$14,590	$15,140	$15,470
+Central Coast Grammar School	ERINA HEIGHTS	$12,350	$12,340	$14,580	$15,100
+St Augustine's College Sydney	BROOKVALE				$14,280
+German International School Sydney	TERREY HILLS	$12,710	$13,380	$13,380	$14,150
+Hunter Valley Grammar School	ASHTONFIELD	$9,400	$9,400	$11,800	$14,000
+Northholm Grammar School	ARCADIA	$10,100	$10,100	$11,120	$13,760
+Lycée Condorcet - The International French School of Sydney	MAROUBRA	$12,528	$9,361	$9,361	$13,597
+Claremont College	RANDWICK	$13,120	$13,120	$13,440	$13,440
+The Armidale School	ARMIDALE	$6,680	$6,680	$9,800	$13,280
+Macarthur Anglican School	COBBITTY	$11,330	$11,930	$12,540	$13,170
+St George Christian School	HURSTVILLE	$11,880	$11,880	$12,280	$13,120
+PLC Armidale	ARMIDALE	$7,250	$7,860	$10,100	$12,900
+Waverley College	WAVERLEY				$12,870
+William Clarke College	KELLYVILLE	$11,868	$11,868	$11,868	$12,445
+Inaburra School	BANGOR	$10,970	$10,970	$10,970	$12,112
+St Paul's Grammar School	CRANEBROOK	$10,380	$10,380	$11,628	$11,752
+Sydney Japanese International School	TERREY HILLS	$11,280	$11,680	$11,680	$11,680
+Oxley College	BURRADOO	$10,227	$10,227	$11,543	$11,543
+Oxford Falls Grammar School	OXFORD FALLS	$9,388	$9,388	$11,024	$11,356
+Snowy Mountains Grammar School	JINDABYNE	$6,952	$6,952	$11,264	$11,264
+Redeemer Baptist School	NORTH PARRAMATTA	$7,520	$7,520	$7,520	$10,880
+Pacific Hills Christian School	DURAL	$7,000	$7,780	$9,150	$10,730
+Lorien Novalis School for Rudolf Steiner Education	DURAL	$9,260	$9,766	$10,066	$10,696
+Covenant Christian School	BELROSE	$7,150	$7,150	$10,100	$10,500
+Redfield College	DURAL	$4,700	$4,700	$7,200	$9,700
+Tangara School for Girls	CHERRYBROOK		$4,700	$4,700	$9,700
+St Spyridon College	MAROUBRA	$9,440	$9,440	$9,620	$9,620
+All Saints' College Bathurst	BATHURST	$5,572	$6,900	$8,872	$9,608
+St Patrick's College, Strathfield	STRATHFIELD				$9,558
+The Scots School Albury	ALBURY	$4,900	$5,500	$7,500	$9,500
+St Pius X College	CHATSWOOD				$8,724
+Calrossy Anglican School	TAMWORTH	$5,400	$6,300	$7,140	$8,040
+Georges River Grammar	GEORGES HALL	$5,998	$5,998	$7,445	$8,035
+Shire Christian School	BARDEN RIDGE	$7,430	$7,635	$7,865	$7,865
+St Peter's Anglican Primary School	CAMPBELLTOWN	$7,200	$7,200	$7,500	$7,600
+Cape Byron Rudolf Steiner School	BYRON BAY	$6,260	$5,636	$7,080	$7,600
+Wahroonga Adventist School	WAHROONGA	$7,572	$7,572	$7,572	$7,572
+William Carey Christian School	PRESTONS	$7,050	$7,050	$7,290	$7,520
+Korowal School	HAZELBROOK	$5,500	$6,500	$7,500	$7,500
+Macquarie College	WALLSEND	$6,312	$6,312	$6,668	$7,492
+Oran Park Anglican College	ORAN PARK	$7,380	$7,380	$7,380	$7,380
+New England Girls' School	ARMIDALE	$4,408	$4,408	$4,520	$7,369
+International Football and Tennis School	KARIONG	$7,200	$7,200	$7,200	$7,200
+Rouse Hill Anglican College	ROUSE HILL	$7,160	$7,160	$7,160	$7,160
+Penrith Christian School	ORCHARD HILLS	$6,840	$6,840	$7,060	$7,140
+Hills Adventist College	KELLYVILLE	$6,850	$6,850	$6,850	$7,030
+St Philip's Christian College - Waratah	WARATAH			$6,500	$7,000
+Linuwel School Ltd	EAST MAITLAND	$6,492	$6,492	$6,644	$6,884
+Penrith Anglican College	ORCHARD HILLS	$6,880	$6,880	$6,880	$6,880
+Illawarra Christian School	CORDEAUX HEIGHTS	$6,451	$6,451	$6,805	$6,805
+Green Point Christian College	GREEN POINT	$6,203	$6,203	$6,203	$6,768
+St Columba Anglican School	PORT MACQUARIE	$6,500	$6,500	$6,500	$6,500
+Wycliffe Christian School	WARRIMOO	$4,900	$5,500	$6,000	$6,500
+Tyndale Christian School	BLACKTOWN	$6,480	$6,480	$6,480	$6,480
+Southern Highlands Christian School	BOWRAL	$4,805	$4,805	$6,425	$6,425
+Thomas Hassall Anglican College	MIDDLETON GRANGE	$6,380	$6,380	$6,380	$6,380
+St Euphemia College	BANKSTOWN	$5,100	$5,715	$6,350	$6,350
+Norwest Christian College	RIVERSTONE	$5,850	$5,850	$6,300	$6,300
+Bishop Tyrrell Anglican College	FLETCHER	$5,867	$5,867	$6,234	$6,234
+Northcross Christian School	RYDE	$6,216	$6,216	$6,216	$6,216
+Macquarie Anglican Grammar School	DUBBO	$4,860	$5,320	$5,380	$6,200
+Shellharbour Anglican College	DUNMORE	$6,180	$6,180	$6,180	$6,180
+Nepean Christian School	MULGOA	$5,910	$5,910	$6,010	$6,110
+Cedars Christian College	FARMBOROUGH HEIGHTS		$6,077	$6,077	$6,077
+St Philip's Christian College - Gosford	NARARA	$5,216	$5,216	$5,216	$6,005
+Orange Anglican Grammar School	ORANGE	$5,280	$5,520	$5,740	$5,960
+Hunter Christian School	MAYFIELD	$4,995	$5,315	$5,515	$5,955
+Maitland Christian School	METFORD	$5,365	$5,365	$5,600	$5,895
+Christian Brothers High School Lewisham	LEWISHAM				$5,895
+Central Coast Adventist School	ERINA	$5,880	$5,880	$5,880	$5,880
+Arndell Anglican College	OAKVILLE	$5,880	$5,880	$5,880	$5,880
+Avondale School	COORANBONG	$5,272	$5,272	$5,476	$5,836
+Lakes Grammar - An Anglican School	WARNERVALE	$5,080	$5,080	$5,080	$5,824
+Broughton Anglican College	MENANGLE PARK	$5,800	$5,800	$5,800	$5,800
+St Peter's Anglican College - Broulee	BROULEE	$4,820	$5,100	$5,320	$5,660
+Moama Anglican Grammar School	MOAMA	$4,416	$4,416	$4,731	$5,649
+Charlton Christian College	FASSIFERN	$4,614	$4,614	$4,614	$5,569
+Belmont Christian College	BELMONT NORTH		$4,630	$5,140	$5,550
+Dubbo Christian School	DUBBO	$5,545	$5,545	$5,545	$5,545
+Wyong Christian Community School	WYONG	$4,600	$4,600	$4,600	$5,500
+Nowra Anglican College	BOMADERRY	$5,460	$5,460	$5,460	$5,460
+Mount Annan Christian College	MOUNT ANNAN	$5,377	$5,377	$5,377	$5,377
+Nowra Christian School	NOWRA	$5,327	$5,327	$5,327	$5,327
+The Lakes Christian College	CASTLEREAGH	$4,140	$4,700	$5,260	$5,260
+Orange Christian School	ORANGE	$3,639	$4,679	$5,199	$5,199
+Sacred Heart Catholic Primary School	PYMBLE	$5,019	$5,140	$5,140	$5,140
+Regents Park Christian School	REGENTS PARK	$4,696	$4,696	$4,896	$5,096
+Amity College, Prestons	PRESTONS	$4,880	$4,880	$4,880	$4,880
+Richard Johnson Anglican School	OAKHURST	$4,840	$4,840	$4,840	$4,840
+Emmanuel Anglican College	BALLINA	$3,357	$3,489	$4,515	$4,815
+Carinya Christian School Tamworth	TAMWORTH	$3,800	$3,800	$3,800	$4,800
+Medowie Christian School	MEDOWIE	$4,755	$4,755	$4,755	$4,755
+Trinity Anglican College - Albury	THURGOONA	$3,600	$3,850	$4,300	$4,750
+Sapphire Coast Anglican College	BEGA	$4,100	$4,300	$4,500	$4,700
+Scone Grammar School	SCONE	$3,863	$3,863	$4,120	$4,635
+Wagga Wagga Christian College	WAGGA WAGGA	$3,890	$3,890	$3,890	$4,525
+Heritage College Lake Macquarie	MORISSET	$3,836	$3,836	$4,126	$4,126
+St Kieran's Catholic Primary School	MANLY VALE	$4,109	$4,109	$4,109	$4,109
+Greenacre Baptist Christian Community School	GREENACRE	$4,020	$4,020	$4,020	$4,020
+St Rose Catholic Primary School	COLLAROY PLATEAU	$3,949	$3,949	$3,949	$3,949
+Sacred Heart Catholic Primary School	MOSMAN	$3,508	$3,516	$3,535	$3,935
+Mountain View Adventist College	DOONSIDE	$3,900	$3,900	$3,900	$3,900
+Lutheran School Wagga Wagga	WAGGA WAGGA	$3,840	$3,840	$3,840	$3,840
+Al Zahra College	ARNCLIFFE	$3,800	$3,800	$3,800	$3,800
+Heritage Christian School	PORT MACQUARIE	$3,699	$3,699	$3,699	$3,699
+St Charbel's College	PUNCHBOWL	$3,690	$3,690	$3,690	$3,690
+St John the Apostle Catholic Primary School	NARRAWEENA	$3,632	$3,632	$3,632	$3,632
+St Madeleine's Primary School	KENTHURST	$2,661	$3,018	$2,985	$3,508
+Our Lady of the Rosary Primary School	KELLYVILLE	$2,715	$3,072	$3,099	$3,486
+John XXIII Catholic Primary School	STANHOPE GARDENS	$2,547	$2,904	$3,015	$3,441
+St Mark's Catholic College	STANHOPE GARDENS	$2,547	$2,904	$3,015	$3,441
+St Nicholas of Myra Primary School	PENRITH	$2,774	$3,081	$3,081	$3,423
+Christ the King Primary School	NORTH ROCKS	$2,751	$3,108	$3,108	$3,408
+Mary Immaculate Primary School	QUAKERS HILL	$2,604	$2,961	$2,961	$3,357
+Holy Family Primary School	LUDDENHAM	$2,487	$2,859	$2,859	$3,354
+St Mark's Coptic Orthodox College	WATTLE GROVE	$2,550	$2,810	$3,120	$3,340
+St Mary's Primary School	RYDALMERE	$2,622	$2,979	$2,979	$3,333
+St Joseph's Primary School	SCHOFIELDS	$2,352	$2,709	$2,757	$3,303
+Our Lady of Lourdes Primary School	SEVEN HILLS	$2,559	$2,916	$2,916	$3,267
+Al Sadiq College	GREENACRE	$3,037	$3,099	$2,967	$3,225
+Bethany Catholic Primary School	GLENMORE PARK	$2,517	$2,874	$2,874	$3,224
+Our Lady of Mount Carmel Primary School	WENTWORTHVILLE	$2,493	$2,850	$2,850	$3,219
+Rissalah College	LAKEMBA	$3,000	$3,000	$3,000	$3,200
+St Matthew's Primary School	WINDSOR	$2,541	$2,898	$2,898	$3,198
+St Bernadette's Primary School	CASTLE HILL	$2,427	$2,808	$2,844	$3,198
+Our Lady of the Angels Primary School	KELLYVILLE	$2,646	$3,003	$3,003	$3,153
+Lumen Christi Catholic College	PAMBULA BEACH	$2,804	$2,804	$2,804	$3,132
+St Patrick's Primary School	BLACKTOWN	$2,514	$2,871	$2,913	$3,132
+Our Lady of the Way Primary School	EMU PLAINS	$2,628	$2,958	$2,985	$3,129
+St Angela's Primary School	CASTLE HILL	$2,499	$2,862	$2,844	$3,124
+Sacred Heart Primary School	WESTMEAD	$2,526	$2,883	$2,883	$3,111
+St Francis of Assisi Primary School	GLENDENNING	$2,535	$2,892	$2,892	$3,092
+Bellfield College	ROSSMORE	$2,600	$3,080	$3,080	$3,080
+Holy Cross Primary School	GLENWOOD	$2,466	$2,823	$2,823	$3,063
+St John Vianney's Primary School	DOONSIDE	$2,418	$2,775	$2,790	$3,054
+Chisholm Catholic Primary School	BLIGH PARK	$2,343	$2,700	$2,700	$3,050
+St Margaret Mary's Primary School	MERRYLANDS	$2,298	$2,655	$2,655	$3,035
+Corpus Christi Primary School	CRANEBROOK	$2,394	$2,751	$2,772	$3,033
+Our Lady of Lourdes Primary School	BAULKHAM HILLS SOUTH	$2,472	$2,820	$2,856	$3,030
+MacKillop Catholic College	WARNERVALE	$3,019	$3,019	$3,019	$3,019
+St Joseph's Primary School	KINGSWOOD	$2,418	$2,775	$2,775	$3,018
+Coffs Harbour Christian Community School	BONVILLE	$3,000	$3,000	$3,000	$3,000
+Mother Teresa Primary School	WESTMEAD	$2,463	$2,820	$2,820	$2,994
+Our Lady Queen of Peace Primary School	GREYSTANES	$2,397	$2,754	$2,775	$2,979
+St Patrick's Primary School	PARRAMATTA	$2,364	$2,721	$2,754	$2,979
+St Michael's Primary School	BLACKTOWN SOUTH	$2,349	$2,772	$2,484	$2,967
+St Monica's Primary School	RICHMOND	$2,379	$2,721	$2,751	$2,961
+St Paul the Apostle Primary School	WINSTON HILLS	$2,496	$2,880	$2,880	$2,955
+St Aidan's Primary School	ROOTY HILL	$2,310	$2,667	$2,667	$2,949
+St Mary MacKillop Primary School	SOUTH PENRITH	$2,364	$2,721	$2,730	$2,943
+Trinity Catholic Primary School	KEMPS CREEK	$2,322	$2,679	$2,679	$2,937
+Our Lady of the Rosary Primary School	ST MARYS	$2,316	$2,745	$2,748	$2,931
+Holy Spirit Primary School	ST CLAIR	$2,328	$2,685	$2,703	$2,923
+Holy Family Primary School	EMERTON	$2,256	$2,613	$2,679	$2,895
+St Thomas Aquinas Primary School	SPRINGWOOD	$2,499	$2,856	$2,856	$2,886
+St Bernard's Primary School, Batemans Bay	BATEHAVEN	$2,852	$2,852	$2,852	$2,852
+St Bernadette's Primary School	LALOR PARK	$2,385	$2,736	$2,853	$2,790
+Malek Fahd Islamic School	GREENACRE	$2,180	$2,440	$2,560	$2,740
+Sacred Heart Primary School	MT DRUITT SOUTH	$2,196	$2,553	$2,553	$2,706
+St Augustine's Primary School	COFFS HARBOUR	$2,676	$2,676	$2,676	$2,676
+Good Shepherd Primary School	PLUMPTON	$2,310	$2,667	$2,667	$2,667
+Mary Help of Christians Primary School Sawtell	TOORMINA	$2,649	$2,649	$2,649	$2,649
+St Francis Xavier Primary School	WOOLGOOLGA	$2,649	$2,649	$2,649	$2,649
+Holy Family Catholic Primary School	LINDFIELD	$2,598	$2,598	$2,598	$2,598
+St Cecilia's Catholic Primary School	BALGOWLAH	$2,598	$2,598	$2,598	$2,598
+Pacific Coast Christian School	TWEED HEADS SOUTH	$2,350	$2,350	$2,350	$2,580
+St Christopher's Catholic Primary School	HOLSWORTHY	$2,575	$2,575	$2,575	$2,575
+St John's Catholic Primary School	DUBBO	$1,806	$1,806	$1,884	$2,544
+Manning Valley Anglican College	CUNDLETOWN	$1,796	$2,200	$2,456	$2,456
+Our Lady of Good Counsel Catholic Primary School	FORESTVILLE	$2,383	$2,383	$2,383	$2,383
+St Agatha's Catholic Primary School	PENNANT HILLS	$2,383	$2,383	$2,383	$2,383
+Our Lady of the Rosary Catholic Primary School	WAITARA	$2,383	$2,383	$2,383	$2,383
+St John the Baptist Catholic Primary School	FRESHWATER	$2,383	$2,383	$2,383	$2,383
+Our Lady of Dolours Catholic Primary School	CHATSWOOD	$2,314	$2,383	$2,383	$2,383
+Macarthur Adventist College	MACQUARIE FIELDS	$2,380	$2,380	$2,380	$2,380
+St Joseph's Primary School	GOULBURN	$2,380	$2,380	$2,380	$2,380
+Saints Peter and Paul's Primary School	GOULBURN	$2,368	$2,368	$2,368	$2,368
+Summerland Christian College	GOONELLABAH	$2,320	$2,320	$2,320	$2,320
+Al Noori Muslim School	GREENACRE	$2,138	$2,250	$2,250	$2,250
+Irfan College	CECIL PARK	$2,220	$2,220	$2,220	$2,220
+Blue Hills College	GOONELLABAH	$2,130	$2,130	$2,130	$2,130
+Sacred Heart Catholic Primary School	MONA VALE	$2,088	$2,088	$2,088	$2,088
+Holy Family Catholic Primary School	KELSO	$1,827	$1,827	$1,827	$2,061
+St Patrick's Catholic Primary School	ASQUITH	$2,088	$2,088	$2,088	$2,057
+Al-Faisal College - Campbelltown	MINTO	$1,800	$1,920	$1,920	$2,040
+St James' Primary School	BANORA POINT	$2,020	$2,020	$2,020	$2,020
+Montgrove College	ORCHARD HILLS	$1,996	$1,996	$1,996	$1,996
+Tweed Valley Adventist College	MURWILLUMBAH	$1,690	$1,690	$1,990	$1,990
+The Assumption Catholic Primary School	BATHURST	$1,704	$1,704	$1,704	$1,938
+St Mary's Catholic Primary School	DUBBO	$1,578	$1,623	$1,716	$1,899
+Catherine McAuley Catholic Primary School	ORANGE	$1,632	$1,659	$1,659	$1,896
+Kempsey Adventist School	KEMPSEY	$1,850	$1,850	$1,850	$1,850
+St Joseph's Primary School	WEST KEMPSEY	$1,850	$1,850	$1,850	$1,850
+St Anthony's Primary School	KINGSCLIFF	$1,848	$1,848	$1,848	$1,848
+St Ambrose Catholic Primary School	POTTSVILLE	$1,848	$1,848	$1,848	$1,848
+Holy Family Primary School	PARKES		$1,843	$1,843	$1,843
+Our Lady Star of the Sea Catholic Primary School	TERRIGAL	$1,756	$1,810	$1,810	$1,810
+St Joseph's Primary School	LEETON	$1,776	$1,776	$1,776	$1,776
+St Patrick's Primary School	MACKSVILLE	$1,760	$1,760	$1,760	$1,760
+St Joseph's Primary School	WAUCHOPE	$1,724	$1,724	$1,724	$1,724
+St Mary's Primary School	ARMIDALE	$1,720	$1,720	$1,720	$1,720
+St Patrick's Parish School	ALBURY	$1,718	$1,718	$1,718	$1,718
+St Justin's Catholic Primary School	ORAN PARK	$1,712	$1,712	$1,712	$1,712
+St Paul's Catholic Primary School	CAMDEN	$1,712	$1,712	$1,712	$1,712
+St Columbkille's Catholic Primary School	CORRIMAL	$1,712	$1,712	$1,712	$1,712
+Nazareth Catholic Primary School	SHELLHARBOUR CITY	$1,712	$1,712	$1,712	$1,712
+Holy Family Catholic Primary School	INGLEBURN	$1,712	$1,712	$1,712	$1,712
+St Thomas Aquinas Catholic Primary School	BOWRAL	$1,712	$1,712	$1,712	$1,712
+Stella Maris Catholic Primary School	SHELLHARBOUR	$1,712	$1,712	$1,712	$1,712
+St Pius X Catholic Primary School	UNANDERRA	$1,712	$1,712	$1,712	$1,712
+Our Lady Help of Christians Catholic Primary School	ROSEMEADOW	$1,712	$1,712	$1,712	$1,712
+Ss Peter and Paul Catholic Primary School	KIAMA	$1,712	$1,712	$1,712	$1,712
+St Michael's Catholic Primary School	THIRROUL	$1,712	$1,712	$1,712	$1,712
+St Francis of Assisi Catholic Primary School	WARRAWONG	$1,712	$1,712	$1,712	$1,712
+St Brigid's Catholic Primary School	GWYNNEVILLE	$1,712	$1,712	$1,712	$1,712
+Pacific Valley Christian School	TOWNSEND	$1,690	$1,690	$1,690	$1,690
+Al Hikma College	LAKEMBA	$1,680	$1,680	$1,680	$1,680
+St Thomas More Catholic Primary School	CAMPBELLTOWN	$1,678	$1,678	$1,678	$1,678
+Henschke Primary School	WAGGA WAGGA	$1,677	$1,677	$1,677	$1,677
+Holy Trinity School	INVERELL	$1,560	$1,652	$1,652	$1,652
+Mary Immaculate Catholic Primary School	EAGLE VALE	$1,589	$1,645	$1,645	$1,645
+St Agnes' Primary School	PORT MACQUARIE		$1,645	$1,645	$1,645
+St John the Baptist Catholic Primary School	WOY WOY SOUTH	$1,631	$1,631	$1,631	$1,631
+St Patrick's Catholic Primary School	GOSFORD EAST	$1,631	$1,631	$1,631	$1,631
+St John Fisher Catholic Primary School	TUMBI UMBI	$1,631	$1,631	$1,631	$1,631
+Holy Cross Catholic Primary School	KINCUMBER	$1,631	$1,631	$1,631	$1,631
+Our Lady of the Rosary Catholic Primary School	WYOMING	$1,631	$1,631	$1,631	$1,631
+St Cecilia's Catholic Primary School	WYONG	$1,631	$1,631	$1,631	$1,631
+St Raphael's Catholic School	COWRA	$1,212	$1,257	$1,323	$1,605
+Western Grammar School	PLUMPTON	$1,600	$1,600	$1,600	$1,600
+Australian Islamic College of Sydney	MOUNT DRUITT	$1,600	$1,600	$1,600	$1,600
+St Edward's Primary School	SOUTH TAMWORTH	$1,410	$1,410	$1,410	$1,410
+Maronite College of the Holy Family - Parramatta	HARRIS PARK	$1,380	$1,380	$1,380	$1,380
+Our Lady of the Sacred Heart Catholic Primary School	RANDWICK	$1,339	$1,339	$1,339	$1,339
+Holy Spirit Primary School	LAVINGTON	$1,324	$1,324	$1,324	$1,324
+St Gregory's Primary School	QUEANBEYAN	$1,320	$1,320	$1,320	$1,320
+McAuley Catholic Central School	TUMUT	$1,320	$1,320	$1,320	$1,320
+St James' Primary School	MUSWELLBROOK	$1,293	$1,293	$1,293	$1,293
+Mt Carmel School	YASS	$1,281	$1,281	$1,281	$1,281
+Sacred Heart Central School	COOTAMUNDRA	$1,281	$1,281	$1,281	$1,281
+St Anne's Central School	TEMORA	$1,281	$1,281	$1,281	$1,281
+St Patrick's Parish School	COOMA	$1,280	$1,280	$1,280	$1,280
+St Mary's Primary School	MORUYA	$1,280	$1,280	$1,280	$1,280
+Mater Dei Primary School	WAGGA WAGGA	$1,277	$1,277	$1,277	$1,277
+St Catherine's Catholic College	SINGLETON	$1,275	$1,275	$1,275	$1,275
+St Therese's Primary School	NEW LAMBTON	$1,275	$1,275	$1,275	$1,275
+St Paul's Primary School	RUTHERFORD	$1,275	$1,275	$1,275	$1,275
+St Brigid's Primary School	RAYMOND TERRACE	$1,275	$1,275	$1,275	$1,275
+St Joseph's Primary School	EAST MAITLAND	$1,275	$1,275	$1,275	$1,275
+St Aloysius Catholic Primary School	CHISHOLM	$1,275	$1,275	$1,275	$1,275
+St Joseph's Primary School	TAREE	$1,275	$1,275	$1,275	$1,275
+St Patrick's Primary School	CESSNOCK	$1,275	$1,275	$1,275	$1,275
+St James' Primary School	KOTARA SOUTH	$1,275	$1,275	$1,275	$1,275
+Holy Name Primary School	FORSTER	$1,275	$1,275	$1,275	$1,275
+St Michael's Primary School	NELSON BAY	$1,275	$1,275	$1,275	$1,275
+St Joseph's Primary School	CHARLESTOWN	$1,275	$1,275	$1,275	$1,275
+St Joseph's Primary School	KILABEN BAY	$1,275	$1,275	$1,275	$1,275
+Our Lady of Lourdes Primary School	TARRO	$1,275	$1,275	$1,275	$1,275
+St John the Baptist Primary School	MAITLAND	$1,275	$1,275	$1,275	$1,275
+St Patrick's Primary School	WALLSEND	$1,275	$1,275	$1,275	$1,275
+St Paul's Primary School	GATESHEAD	$1,275	$1,275	$1,275	$1,275
+St Mary's Primary School	SCONE	$1,275	$1,275	$1,275	$1,275
+St Xavier's Primary School	GUNNEDAH	$1,240	$1,240	$1,240	$1,240
+St Catherine of Siena Catholic Primary School	PRESTONS	$1,202	$1,228	$1,228	$1,228
+Holy Family Primary School	MEREWETHER BEACH	$1,206	$1,206	$1,206	$1,206
+St John's Catholic Primary School	AUBURN	$1,183	$1,183	$1,183	$1,183
+Mount St Patrick Primary School	MURWILLUMBAH	$1,143	$1,143	$1,143	$1,143
+St Mary's Catholic Primary School	MANLY	$1,065	$1,065	$1,065	$1,065
+Our Lady of the Rosary Catholic Primary School	FAIRFIELD	$991	$991	$991	$991
+Our Lady of The Rosary Catholic Primary School	KENSINGTON		$991	$991	$991
+Our Lady Star of the Sea Catholic School	MIRANDA		$991	$991	$991
+St Agnes' Catholic Primary School	MATRAVILLE		$991	$991	$991
+Our Lady Help of Christians Primary School	LISMORE SOUTH	$936	$936	$936	$936
+St Mary's Primary School	CASINO	$870	$870	$870	$870
+St Finbarr's Primary School	BYRON BAY	$864	$864	$864	$864
+St Laurence's Primary School	FORBES	$853	$853	$853	$853
+SCEGGS Darlinghurst	DARLINGHURST	$37,902	$38,295	$41,090
+Sydney Grammar School	DARLINGHURST	$39,709	$39,709	$39,709
+Cranbrook School	BELLEVUE HILL	$37,386	$37,386	$38,862
+The King's School	NORTH PARRAMATTA	$35,157	$35,857	$38,284
+Trinity Grammar School	SUMMER HILL	$33,500	$34,820	$37,030
+St Catherine's School	WAVERLEY	$34,116	$34,116	$36,590
+St Joseph's College	HUNTERS HILL	$35,820	$35,820	$35,820
+SCECGS Redlands	CREMORNE	$32,000	$35,500	$35,500
+SHORE - Sydney Church of England Grammar School	NORTH SYDNEY	$32,076	$33,776	$35,496
+Newington College	STANMORE	$32,535	$34,551	$35,271
+St Andrew's Cathedral School	SYDNEY	$34,540	$37,000	$35,100
+Abbotsleigh	WAHROONGA	$32,510	$33,340	$34,630
+Ravenswood School for Girls	GORDON	$34,045	$34,690	$34,550
+Barker College	HORNSBY	$32,472	$34,391	$34,277
+Pymble Ladies' College	PYMBLE	$32,339	$33,133	$34,251
+Knox Grammar School	WAHROONGA	$32,280	$32,280	$34,110
+MLC School	BURWOOD	$31,744	$32,500	$33,474
+Meriden School	STRATHFIELD	$31,800	$32,200	$33,240
+Reddam House	WOOLLAHRA	$27,960	$30,210	$32,010
+St Ignatius' College	LANE COVE	$29,960	$29,960	$30,915
+Roseville College	ROSEVILLE	$29,700	$30,460	$30,705
+Tara Anglican School for Girls	NORTH PARRAMATTA	$28,085	$28,592	$30,390
+The McDonald College	NORTH STRATHFIELD	$27,200	$28,300	$29,900
+Glenaeon Rudolf Steiner School	MIDDLE COVE	$24,288	$25,640	$27,804
+International Grammar School	ULTIMO	$25,692	$26,286	$27,435
+Loreto Normanhurst	NORMANHURST	$24,126	$24,126	$27,318
+PLC Armidale	ARMIDALE	$20,600	$25,780	$26,800
+Masada College	ST IVES	$23,360	$24,820	$26,715
+Emanuel School	RANDWICK	$21,945	$25,085	$26,715
+The Hills Grammar School	KENTHURST	$24,730	$25,600	$26,680
+Loreto Kirribilli	KIRRIBILLI	$23,325	$25,725	$25,725
+Pittwater House Schools	COLLAROY	$23,040	$24,600	$25,092
+Santa Sabina College	STRATHFIELD	$24,140	$24,140	$25,090
+Monte Sant' Angelo Mercy College	NORTH SYDNEY	$22,220	$23,060	$24,720
+St Luke's Grammar School	DEE WHY	$23,640	$23,860	$24,420
+The Armidale School	ARMIDALE	$19,600	$23,160	$23,940
+New England Girls' School	ARMIDALE	$18,469	$22,466	$23,907
+Danebank - An Anglican School For Girls	HURSTVILLE	$21,660	$21,800	$22,785
+St Vincent's College	POTTS POINT	$18,748	$19,336	$21,788
+Central Coast Grammar School	ERINA HEIGHTS	$19,750	$21,450	$21,450
+Kinross Wolaroi School	ORANGE	$20,020	$20,020	$21,240
+St Aloysius' College	MILSONS POINT	$20,604	$20,604	$20,604
+Oxley College	BURRADOO	$19,075	$19,075	$19,955
+Northholm Grammar School	ARCADIA	$18,300	$18,300	$19,900
+Brigidine College St Ives	ST IVES	$19,570	$19,570	$19,570
+The Scots School Albury	ALBURY	$13,500	$19,200	$19,200
+Hunter Valley Grammar School	ASHTONFIELD	$18,100	$18,100	$19,100
+Inaburra School	BANGOR	$16,788	$16,788	$18,474
+Oxford Falls Grammar School	OXFORD FALLS	$16,664	$16,664	$18,468
+St Paul's Grammar School	CRANEBROOK	$16,360	$16,660	$17,784
+St Augustine's College Sydney	BROOKVALE	$15,861	$15,861	$17,402
+Redfield College	DURAL	$12,400	$15,400	$17,300
+Tangara School for Girls	CHERRYBROOK	$12,400	$15,400	$17,300
+Macarthur Anglican School	COBBITTY	$14,630	$15,840	$17,050
+Pacific Hills Christian School	DURAL	$14,220	$14,220	$16,560
+St George Christian School	HURSTVILLE	$14,680	$15,040	$16,530
+All Saints' College Bathurst	BATHURST	$12,364	$14,616	$16,360
+Calrossy Anglican School	TAMWORTH	$11,660	$14,520	$16,020
+Waverley College	WAVERLEY	$14,070	$15,000	$15,990
+Lorien Novalis School for Rudolf Steiner Education	DURAL	$12,704	$14,364	$15,804
+Snowy Mountains Grammar School	JINDABYNE	$12,852	$13,904	$14,637
+Covenant Christian School	BELROSE	$12,660	$12,660	$14,200
+Lycée Condorcet - The International French School of Sydney	MAROUBRA	$13,597	$14,171	$14,171
+Mount St Benedict College	PENNANT HILLS	$14,144	$14,144	$14,144
+Redeemer Baptist School	NORTH PARRAMATTA	$10,880	$13,520	$13,520
+Georges River Grammar	GEORGES HALL	$11,200	$12,445	$13,485
+William Clarke College	KELLYVILLE	$12,445	$12,715	$13,320
+Stella Maris College	MANLY	$12,960	$12,960	$12,960
+Our Lady of Mercy College Parramatta	PARRAMATTA	$10,750	$10,750	$12,750
+St Spyridon College	MAROUBRA	$10,480	$10,900	$11,840
+Oakhill College Castle Hill	CASTLE HILL	$10,510	$10,955	$11,708
+St Patrick's College, Strathfield	STRATHFIELD	$10,659	$10,290	$11,565
+Hills Adventist College	KELLYVILLE	$8,565	$9,830	$10,660
+Macquarie College	WALLSEND	$9,256	$9,960	$10,624
+St Paul's College	WALLA WALLA	$7,650	$9,040	$10,590
+Green Point Christian College	GREEN POINT	$8,798	$8,896	$10,360
+Rouse Hill Anglican College	ROUSE HILL	$8,660	$8,660	$10,260
+St Pius X College	CHATSWOOD	$10,200	$10,200	$10,200
+St Scholastica's College Glebe Point	GLEBE	$8,690	$8,690	$10,080
+St Philip's Christian College - Waratah	WARATAH	$8,200	$8,500	$9,960
+William Carey Christian School	PRESTONS	$8,600	$9,080	$9,610
+Southern Highlands Christian School	BOWRAL	$7,420	$8,435	$9,550
+Korowal School	HAZELBROOK	$8,000	$8,000	$9,500
+Illawarra Christian School	CORDEAUX HEIGHTS	$8,261	$8,528	$9,479
+Central Coast Adventist School	ERINA	$7,280	$7,960	$9,380
+St Columba Anglican School	PORT MACQUARIE	$7,580	$8,840	$9,220
+Shire Christian School	BARDEN RIDGE	$8,945	$9,165	$9,165
+Hunter Christian School	MAYFIELD	$7,500	$8,350	$8,800
+Penrith Anglican College	ORCHARD HILLS	$8,440	$8,440	$8,775
+Bishop Tyrrell Anglican College	FLETCHER	$7,634	$7,688	$8,643
+Avondale School	COORANBONG	$7,428	$8,904	$8,436
+Rosebank College	FIVE DOCK	$7,750	$7,925	$8,260
+Cedars Christian College	FARMBOROUGH HEIGHTS	$7,919	$7,919	$8,203
+Belmont Christian College	BELMONT NORTH	$6,680	$7,710	$8,200
+Linuwel School Ltd	EAST MAITLAND	$7,828	$8,172	$8,172
+Orange Anglican Grammar School	ORANGE	$7,020	$8,120	$8,160
+Regents Park Christian School	REGENTS PARK	$5,300	$7,252	$8,160
+Nepean Christian School	MULGOA	$7,900	$8,050	$8,150
+Oran Park Anglican College	ORAN PARK	$7,860	$7,860	$8,130
+Nowra Christian School	NOWRA	$7,154	$7,154	$8,104
+Dubbo Christian School	DUBBO	$7,320	$7,320	$8,060
+Thomas Hassall Anglican College	MIDDLETON GRANGE	$7,600	$7,600	$8,040
+Shellharbour Anglican College	DUNMORE	$7,320	$7,320	$8,010
+St Euphemia College	BANKSTOWN	$7,000	$7,000	$8,000
+St Patrick's College, Campbelltown	CAMPBELLTOWN	$7,370	$7,862	$7,995
+Broughton Anglican College	MENANGLE PARK	$7,500	$7,500	$7,960
+Mount Annan Christian College	MOUNT ANNAN	$6,573	$6,918	$7,906
+Tyndale Christian School	BLACKTOWN	$7,130	$7,450	$7,900
+Maitland Christian School	METFORD	$7,600	$7,600	$7,900
+St Philip's Christian College - Gosford	NARARA	$7,328	$7,583	$7,840
+Cape Byron Rudolf Steiner School	BYRON BAY	$7,520	$7,520	$7,776
+Medowie Christian School	MEDOWIE	$6,320	$6,875	$7,775
+Moama Anglican Grammar School	MOAMA	$6,453	$7,301	$7,702
+Arndell Anglican College	OAKVILLE	$7,380	$7,380	$7,680
+Emmanuel Anglican College	BALLINA	$5,667	$6,624	$7,527
+Wycliffe Christian School	WARRIMOO	$7,000	$7,500	$7,500
+Penrith Christian School	ORCHARD HILLS	$7,540	$7,700	$7,480
+St Peter's Anglican College - Broulee	BROULEE	$6,200	$6,660	$7,440
+St Leo's Catholic College	WAHROONGA	$7,510	$7,735	$7,426
+Hunter Trade College	TELARAH			$7,400
+Christian Brothers High School Lewisham	LEWISHAM	$5,895	$7,395	$7,395
+Nowra Anglican College	BOMADERRY	$6,360	$6,360	$7,380
+Lakes Grammar - An Anglican School	WARNERVALE	$6,568	$6,568	$7,308
+St Stanislaus' College	BATHURST	$5,560	$6,120	$7,290
+Norwest Christian College	RIVERSTONE	$7,010	$7,010	$7,280
+International Football and Tennis School	KARIONG	$7,200	$7,200	$7,200
+Carinya Christian School Tamworth	TAMWORTH	$5,600	$6,724	$7,116
+Trinity Anglican College - Albury	THURGOONA	$5,950	$7,100	$7,100
+Macquarie Anglican Grammar School	DUBBO	$6,380	$7,100	$7,095
+St Paul's Catholic College	MANLY	$7,081	$7,336	$6,991
+Scone Grammar School	SCONE	$4,635	$5,356	$6,901
+Sapphire Coast Anglican College	BEGA	$5,900	$6,300	$6,900
+Charlton Christian College	FASSIFERN	$6,174	$6,704	$6,810
+Wyong Christian Community School	WYONG	$5,700	$6,200	$6,800
+Orange Christian School	ORANGE	$6,799	$6,799	$6,799
+Marist College North Shore	NORTH SYDNEY	$5,519	$5,931	$6,798
+Wagga Wagga Christian College	WAGGA WAGGA	$5,655	$6,780	$6,780
+St Mary Star of the Sea College	WOLLONGONG	$5,124	$5,011	$6,728
+Amity College, Prestons	PRESTONS	$5,960	$5,960	$6,660
+Mater Maria Catholic College	WARRIEWOOD	$6,477	$6,669	$6,498
+Edmund Rice College	WEST WOLLONGONG	$4,570	$4,765	$6,425
+St Dominic's College	KINGSWOOD	$5,488	$5,488	$6,275
+Heritage College Lake Macquarie	MORISSET	$5,501	$5,501	$6,225
+The Lakes Christian College	CASTLEREAGH	$5,630	$6,100	$6,100
+Richard Johnson Anglican School	OAKHURST	$5,440	$5,440	$6,090
+Trinity Catholic College Goulburn	GOULBURN	$5,204	$5,516	$6,015
+Patrician Brothers' College Blacktown	BLACKTOWN	$4,272	$4,632	$5,847
+Holy Cross College	RYDE	$5,575	$5,015	$5,820
+John XXIII Catholic Primary School	STANHOPE GARDENS	$4,509	$4,749	$5,814
+St Charbel's College	PUNCHBOWL	$4,560	$4,560	$5,790
+McCarthy Catholic College (Emu Plains)	EMU PLAINS	$4,452	$4,773	$5,787
+Nagle College	BLACKTOWN	$4,356	$4,671	$5,769
+St Patrick's Marist College	DUNDAS	$4,833	$4,995	$5,754
+Parramatta Marist High School	WESTMEAD	$4,479	$4,842	$5,568
+Emmaus Catholic College	KEMPS CREEK	$4,470	$4,737	$5,538
+Caroline Chisholm College	GLENMORE PARK	$4,161	$5,154	$5,517
+St Mark's Catholic College	STANHOPE GARDENS	$4,509	$4,749	$5,418
+St Paul's Catholic College	GREYSTANES	$4,251	$4,656	$5,394
+St John Paul II Catholic College (Schofields)	SCHOFIELDS	$4,515	$4,887	$5,386
+Delany College	GRANVILLE	$4,464	$4,704	$5,325
+Gilroy Catholic College	CASTLE HILL	$4,215	$4,455	$5,229
+Heritage Christian School	PORT MACQUARIE	$4,774	$4,774	$5,195
+Bede Polding College	SOUTH WINDSOR	$4,554	$4,848	$5,175
+Cerdon College	MERRYLANDS	$4,077	$4,434	$5,145
+St Joseph's Catholic College	EAST GOSFORD	$5,084	$5,254	$5,140
+Marist College Eastwood	EASTWOOD	$4,018	$4,178	$5,129
+St Mark's Coptic Orthodox College	WATTLE GROVE	$3,875	$4,295	$5,115
+Brigidine College Randwick	RANDWICK	$4,909	$5,021	$5,085
+Casimir Catholic College	MARRICKVILLE	$4,217	$4,931	$5,068
+St Andrews College	MARAYONG	$4,434	$5,229	$4,974
+St Agnes Catholic High School	ROOTY HILL	$4,020	$4,002	$4,974
+Coffs Harbour Christian Community School	BONVILLE	$4,560	$4,900	$4,900
+MacKillop Catholic College	WARNERVALE	$4,245	$4,379	$4,816
+Mountain View Adventist College	DOONSIDE	$4,620	$4,620	$4,620
+Carroll College	BROULEE	$4,244	$4,316	$4,620
+St Joseph's Catholic High School	ALBION PARK	$4,120	$4,150	$4,570
+St Joseph's High School Aberdeen	ABERDEEN	$3,717	$3,405	$4,566
+Trinity Catholic College Lismore	LISMORE	$3,624	$3,944	$4,540
+Lumen Christi Catholic College	PAMBULA BEACH	$4,163	$4,428	$4,418
+Red Bend Catholic College	FORBES	$3,895	$3,895	$4,365
+Mercy Catholic College	CHATSWOOD	$3,546	$3,683	$4,213
+Summerland Christian College	GOONELLABAH	$3,360	$3,360	$4,200
+St John's College	LISMORE	$3,340	$3,500	$3,900
+Al Zahra College	ARNCLIFFE	$3,800	$3,800	$3,800
+Al Sadiq College	GREENACRE	$3,536	$3,825	$3,699
+Marian Catholic College	GRIFFITH	$3,137	$3,221	$3,607
+St John Paul College	COFFS HARBOUR	$3,597	$3,597	$3,597
+O'Connor Catholic College	ARMIDALE	$3,078	$3,078	$3,516
+James Sheahan Catholic High School	ORANGE	$3,111	$3,192	$3,465
+Bellfield College	ROSSMORE	$3,440	$3,440	$3,440
+Montgrove College	ORCHARD HILLS	$3,380	$3,380	$3,380
+Blue Hills College	GOONELLABAH	$2,865	$3,105	$3,355
+Manning Valley Anglican College	CUNDLETOWN	$2,832	$3,056	$3,336
+Malek Fahd Islamic School	GREENACRE	$3,260	$3,420	$3,180
+St Mary's College	GUNNEDAH	$2,734	$2,734	$3,162
+Trinity Catholic College	AUBURN	$2,767	$2,902	$3,104
+Macarthur Adventist College	MACQUARIE FIELDS	$3,100	$3,100	$3,099
+Mount St Patrick College	MURWILLUMBAH	$3,425	$3,357	$3,036
+La Salle Academy	LITHGOW	$2,655	$2,718	$3,009
+Western Grammar School	PLUMPTON	$2,000	$2,000	$3,000
+Loyola Senior High School	MOUNT DRUITT			$2,976
+Kempsey Adventist School	KEMPSEY	$2,200	$2,600	$2,900
+St Peter's Catholic College	TUGGERAH	$2,224	$2,358	$2,843
+St Clare's College	WAVERLEY	$1,917	$2,125	$2,831
+Marist Sisters' College Woolwich	WOOLWICH	$1,917	$2,125	$2,830
+Pacific Coast Christian School	TWEED HEADS SOUTH	$2,580	$2,800	$2,800
+Al Noori Muslim School	GREENACRE	$2,800	$2,800	$2,800
+St Raphael's Catholic School	COWRA	$1,725	$2,199	$2,784
+Al-Faisal College - Campbelltown	MINTO	$2,400	$2,520	$2,760
+Irfan College	CECIL PARK	$2,480	$2,480	$2,740
+St John Bosco College	ENGADINE	$1,827	$2,025	$2,698
+St Paul's College	WEST KEMPSEY	$2,262	$2,262	$2,691
+St Paul's High School	BOORAGUL	$1,767	$1,767	$2,682
+Bethany College	HURSTVILLE	$1,809	$2,006	$2,673
+St Catherine's Catholic College	SINGLETON	$1,740	$1,740	$2,640
+St Francis Xavier's College	HAMILTON			$2,640
+St Joseph's College	LOCHINVAR	$1,740	$1,740	$2,640
+St Clare's High School	TAREE	$1,740	$1,740	$2,640
+Champagnat Catholic College	MAROUBRA	$1,782	$1,976	$2,633
+St Ursula's College	KINGSGROVE	$1,775	$1,967	$2,621
+De La Salle College, Revesby Heights	REVESBY HEIGHTS	$1,741	$1,930	$2,571
+All Saints College (St Peter's Campus)	MAITLAND			$2,559
+Holy Spirit College	BELLAMBI	$1,863	$2,011	$2,500
+John Therry Catholic High School	ROSEMEADOW	$1,863	$2,011	$2,500
+Corpus Christi Catholic High School	OAK FLATS	$1,863	$2,011	$2,500
+Good Samaritan Catholic College	HINCHINBROOK	$1,683	$1,865	$2,485
+Pacific Valley Christian School	TOWNSEND	$2,470	$2,470	$2,470
+Tweed Valley Adventist College	MURWILLUMBAH	$1,990	$2,200	$2,400
+Maronite College of the Holy Family - Parramatta	HARRIS PARK	$1,515	$1,751	$2,282
+St Mary's Catholic College	CASINO	$1,794	$1,794	$2,250
+Australian Islamic College of Sydney	MOUNT DRUITT	$1,880	$1,880	$1,880
+St Francis De Sales Regional College	LEETON	$2,030	$1,500	$1,280
+Kesser Torah College	DOVER HEIGHTS	$25,011	$26,920	
+German International School Sydney	TERREY HILLS	$14,150	$14,150	
+Brisbane Grammar School	BRISBANE	$28,230	$28,230	$28,230
+Brisbane Girls' Grammar School	BRISBANE	$25,782	$25,782	$25,782
+Brisbane Boys' College	TOOWONG	$24,116	$24,116	$24,116
+St Margaret's Anglican Girls School	ASCOT	$23,890	$23,890	$23,890
+Anglican Church Grammar School	EAST BRISBANE	$23,476	$23,476	$23,476
+Somerville House	SOUTH BRISBANE	$23,360	$23,360	$23,360
+Djarragun College	GORDONVALE	$22,500	$22,500	$22,500
+St Aidan's Anglican Girls School	CORINDA	$21,520	$21,520	$21,520
+St Margaret Mary's College	HYDE PARK	$21,450	$21,450	$21,450
+St Peters Lutheran College - Springfield	SPRINGFIELD CENTRAL	$10,280	$10,280	$19,960
+Stuartholme School	TOOWONG	$19,192	$19,956	$19,956
+Clayfield College	CLAYFIELD	$18,975	$18,975	$18,975
+Ipswich Grammar School	IPSWICH	$15,276	$16,960	$16,960
+Moreton Bay College	MANLY WEST	$16,492	$16,492	$16,492
+Ipswich Girls' Grammar School	EAST IPSWICH	$16,308	$16,308	$16,308
+Toowoomba Grammar School	EAST TOOWOOMBA	$15,725	$15,725	$16,015
+Fairholme College	TOOWOOMBA	$14,440	$15,900	$15,900
+St Joseph's Nudgee College	BOONDALL	$15,740	$15,740	$15,740
+Matthew Flinders Anglican College	BUDERIM	$15,364	$15,364	$15,364
+St Paul's School	BALD HILLS	$15,300	$15,300	$15,300
+Cannon Hill Anglican College	CANNON HILL	$14,980	$14,980	$15,280
+The Glennie School	TOOWOOMBA	$13,160	$15,240	$15,240
+Australian International Islamic College	DURACK	$13,000	$14,000	$15,000
+Toowoomba Anglican College and Preparatory School	TOOWOOMBA	$12,084	$13,568	$14,820
+Sheldon College	SHELDON	$14,584	$14,584	$14,584
+John Paul College	DAISY HILL	$13,980	$13,980	$13,980
+Moreton Bay Boys College	MANLY WEST	$13,670	$13,670	$13,670
+Ambrose Treacy College	INDOOROOPILLY	$13,656	$13,656	$13,656
+Hillbrook Anglican School	ENOGGERA	$13,536	$13,536	$13,536
+Redeemer Lutheran College	ROCHEDALE	$13,410	$13,410	$13,410
+Marist College Ashgrove	ASHGROVE	$11,380	$11,380	$12,880
+St John's Anglican College	FOREST LAKE	$12,048	$12,780	$12,780
+Townsville Grammar School	NORTH WARD	$12,752	$12,752	$12,752
+Ormiston College	ORMISTON	$12,564	$12,564	$12,564
+The Cathedral School of St Anne and St James	MUNDINGBURRA	$11,640	$12,530	$12,530
+Sunshine Coast Grammar School	FOREST GLEN	$12,244	$12,244	$12,244
+All Hallows' School	BRISBANE	$11,450	$11,450	$12,150
+West Moreton Anglican College	KARRABIN	$10,640	$11,480	$12,070
+Loreto College Coorparoo	COORPAROO	$11,100	$11,100	$11,100
+Downlands College	TOOWOOMBA	$9,950	$10,150	$11,000
+Immanuel Lutheran College	BUDERIM	$9,857	$10,706	$10,706
+The Springfield Anglican College	SPRINGFIELD	$9,062	$10,692	$10,692
+The Rockhampton Grammar School	ROCKHAMPTON	$10,668	$10,668	$10,668
+Montessori International College	FOREST GLEN	$10,036	$10,544	$10,544
+Blackheath and Thornburgh College	CHARTERS TOWERS	$7,500	$9,950	$10,300
+Canterbury College	WATERFORD	$9,960	$10,112	$10,112
+The SCOTS PGC College	WARWICK	$10,060	$10,680	$10,060
+Villanova College	COORPAROO	$9,588	$10,024	$10,024
+Mt St Michael's College	ASHGROVE	$9,400	$10,000	$10,000
+Iona College	LINDUM	$9,740	$9,740	$9,740
+All Souls St Gabriels School	CHARTERS TOWERS	$8,476	$9,452	$9,552
+Brigidine College	INDOOROOPILLY	$9,429	$8,645	$9,432
+St Ursula's College	TOOWOOMBA	$9,325	$9,325	$9,325
+Redlands College	WELLINGTON POINT	$8,780	$9,240	$9,240
+Rockhampton Girls' Grammar School	ROCKHAMPTON	$8,206	$9,232	$9,232
+Grace Lutheran College	ROTHWELL	$8,300	$8,520	$9,020
+Caloundra City Private School	PELICAN WATERS	$8,964	$8,964	$8,964
+Pacific Lutheran College	MERIDAN PLAINS	$8,400	$8,920	$8,920
+Westside Christian College	GOODNA	$7,765	$8,391	$8,905
+Suncoast Christian College	WOOMBYE	$8,362	$8,868	$8,868
+Lourdes Hill College	HAWTHORNE	$8,285	$8,665	$8,865
+Noosa Pengari Steiner School	DOONAN	$8,857	$8,857	$8,857
+Samford Valley Steiner School	WIGHTS MOUNTAIN	$9,884	$9,648	$8,692
+The Lakes College	NORTH LAKES	$8,413	$8,677	$8,677
+Northside Christian College	EVERTON PARK	$7,770	$8,450	$8,450
+Good Shepherd Lutheran College	NOOSAVILLE	$7,450	$8,450	$8,450
+Prince of Peace Lutheran College	EVERTON HILLS	$7,600	$8,450	$8,450
+Faith Lutheran College - Redlands	VICTORIA POINT	$6,930	$8,294	$8,294
+St Rita's College	CLAYFIELD	$8,190	$8,190	$8,190
+St Laurence's College	SOUTH BRISBANE	$8,116	$8,116	$8,116
+St Edmund's College	WOODEND	$8,090	$8,090	$8,090
+Mount Alvernia College	KEDRON	$7,030	$7,030	$8,080
+St Patrick's College	SHORNCLIFFE	$8,056	$8,056	$8,056
+Nambour Christian College	WOOMBYE	$7,560	$7,960	$7,960
+Christian Outreach College	TOOWOOMBA	$5,100	$7,500	$7,950
+Mueller College	ROTHWELL	$7,260	$7,260	$7,260
+St James College	SPRING HILL	$7,180	$7,180	$7,180
+Padua College	KEDRON	$6,400	$7,080	$7,080
+Brisbane Christian College	SALISBURY	$6,540	$6,540	$7,050
+Peace Lutheran College	KAMERUNGA	$6,305	$7,042	$7,042
+Brisbane Adventist College	MANSFIELD	$5,600	$5,600	$6,988
+Noosa Christian College	COOROY	$5,340	$5,340	$6,760
+St Monica's College	CAIRNS	$5,800	$6,700	$6,700
+Peregian Beach Community College	PEREGIAN BEACH	$6,320	$6,600	$6,600
+Faith Lutheran College - Plainland	PLAINLAND	$6,464	$6,464	$6,464
+Coolum Beach Christian College	COOLUM BEACH	$5,888	$5,888	$6,420
+Columba Catholic College	CHARTERS TOWERS	$6,408	$6,408	$6,408
+Fraser Coast Anglican College	WONDUNNA	$5,282	$6,464	$6,259
+Ignatius Park College	CRANBROOK	$6,180	$6,180	$6,180
+Glasshouse Christian College	BEERWAH	$5,695	$6,180	$6,180
+Genesis Christian College	BRAY PARK	$6,154	$6,154	$6,154
+St John Fisher College	BRACKEN RIDGE	$5,403	$5,541	$6,066
+St Saviour's College	TOOWOOMBA	$5,955	$5,955	$5,955
+Freshwater Christian College	BRINSMEAD	$5,300	$5,930	$5,930
+St James Lutheran College	URRAWEEN	$4,739	$5,869	$5,869
+Caloundra Christian College	CALOUNDRA	$4,650	$5,850	$5,850
+Southern Cross Catholic College	SCARBOROUGH	$5,800	$5,800	$5,800
+St Brendan's College	YEPPOON	$5,730	$5,730	$5,730
+Dalby Christian College	DALBY	$4,960	$4,960	$5,650
+Calvary Christian College	MOUNT LOUISA	$5,260	$5,260	$5,630
+Staines Memorial College	REDBANK PLAINS	$4,880	$5,560	$5,560
+Groves Christian College	KINGSTON	$5,355	$5,495	$5,495
+Whitsunday Christian College	CANNONVALE	$5,090	$5,280	$5,420
+Trinity Anglican School	WHITE ROCK	$4,390	$5,390	$5,390
+St Patrick's College Townsville	TOWNSVILLE	$5,200	$5,200	$5,385
+Annandale Christian College	ANNANDALE	$5,350	$5,350	$5,350
+Northpine Christian College	DAKABIN	$4,432	$4,432	$5,280
+Mary MacKillop Catholic College	HIGHFIELDS	$5,280	$5,280	$5,280
+Parklands Christian College	PARK RIDGE	$4,930	$5,310	$5,250
+St Joseph's College	TOOWOOMBA	$5,146	$5,146	$5,146
+Trinity College	BEENLEIGH	$4,960	$4,960	$5,140
+Holy Spirit College	MOUNT PLEASANT	$4,536	$4,536	$5,132
+Australian Christian College - Moreton	CABOOLTURE	$4,600	$5,110	$5,110
+Emerald Christian College	EMERALD	$4,193	$5,078	$5,078
+St Ursula's College	YEPPOON	$4,775	$5,000	$5,000
+Clairvaux MacKillop College	UPPER MOUNT GRAVATT	$4,584	$4,760	$4,872
+The Cathedral College	ROCKHAMPTON	$3,920	$4,020	$4,778
+Tamborine Mountain College	NORTH TAMBORINE	$4,285	$4,735	$4,735
+Kimberley College	CARBROOK	$4,560	$4,580	$4,580
+Toowoomba Christian College	HIGHFIELDS	$4,110	$4,110	$4,440
+Chinchilla Christian School	CHINCHILLA	$4,200	$4,200	$4,430
+Bundaberg Christian College	BUNDABERG	$4,064	$4,064	$4,420
+Darling Downs Christian School	TOOWOOMBA	$4,080	$4,080	$4,384
+Australian Trade College North Brisbane	SCARBOROUGH			$4,200
+St Mary's College	TOOWOOMBA	$4,005	$4,005	$4,180
+Saint Philomena School	PARK RIDGE	$4,080	$4,080	$4,080
+Mary MacKillop College	NUNDAH	$3,660	$3,660	$3,880
+Assumption College	WARWICK	$3,640	$3,640	$3,640
+Cooloola Christian College	GYMPIE	$3,320	$3,640	$3,640
+Mackay Christian College	NORTH MACKAY	$3,313	$3,313	$3,626
+Good Shepherd Catholic College	MOUNT ISA	$3,442	$3,582	$3,582
+Victory College	GYMPIE	$3,079	$3,272	$3,570
+Gilroy Santa Maria College	INGHAM	$3,511	$3,511	$3,511
+Discovery Christian College	AGNES WATER	$3,000	$3,000	$3,500
+St Andrew's Catholic College Redlynch Valley	REDLYNCH	$2,717	$3,333	$3,333
+St Mary's Catholic College	WOREE	$2,717	$3,333	$3,333
+St Stephen's Catholic College	MAREEBA	$2,717	$3,333	$3,333
+Islamic College of Brisbane	KARAWATHA	$2,748	$3,093	$3,093
+Good Counsel College	INNISFAIL	$2,445	$3,000	$3,000
+Mount St Bernard College	HERBERTON	$2,446	$3,000	$3,000
+San Sisto College	CARINA	$2,984	$2,984	$2,984
+St John's School	ROMA	$2,820	$2,820	$2,820
+Unity College	CALOUNDRA WEST	$2,610	$2,810	$2,810
+St Eugene College	BURPENGARY	$2,308	$2,770	$2,770
+Marist College	EMERALD	$2,220	$2,220	$2,740
+St Patrick's College	MACKAY			$2,740
+Chanel College	GLADSTONE	$2,220	$2,220	$2,740
+MacKillop Catholic College, Mount Peter	MOUNT PETER	$2,717	$2,717	$2,717
+Carmel College	THORNLANDS	$2,464	$2,660	$2,660
+Our Lady of the Southern Cross College	DALBY	$2,310	$2,620	$2,620
+Seton College	MOUNT GRAVATT EAST	$2,560	$2,560	$2,560
+Mt Maria College - Petrie	PETRIE	$2,350	$2,350	$2,534
+Mt Maria College	MITCHELTON	$2,520	$2,520	$2,520
+Chisholm Catholic College	CORNUBIA	$2,296	$2,476	$2,476
+Xavier Catholic College	HERVEY BAY	$2,283	$2,467	$2,467
+St Catherine's Catholic College The Whitsundays	PROSERPINE	$2,400	$2,400	$2,400
+St Patrick's College	GYMPIE	$2,400	$2,400	$2,400
+Our Lady's College	ANNERLEY	$2,228	$2,228	$2,400
+St John's College	NAMBOUR	$2,225	$2,225	$2,397
+St Augustine's College	AUGUSTINE HEIGHTS	$2,155	$2,380	$2,380
+St Columban's College	CABOOLTURE	$2,356	$2,356	$2,356
+Ryan Catholic College	KIRWAN	$2,340	$2,340	$2,340
+St Anthony's Catholic College	DEERAGUN	$2,340	$2,340	$2,340
+Southern Cross Catholic College	ANNANDALE	$2,340	$2,340	$2,340
+Burdekin Catholic High School	AYR	$2,340	$2,340	$2,340
+Saint Mary's Catholic College	KINGAROY	$2,130	$2,239	$2,318
+St Benedict's College	MANGO HILL	$2,300	$2,300	$2,300
+Shalom College	BUNDABERG	$2,280	$2,280	$2,280
+Siena Catholic College	SIPPY DOWNS	$2,258	$2,258	$2,258
+St Peter Claver College	RIVERVIEW	$2,228	$2,228	$2,228
+St Thomas More College	SUNNYBANK	$2,193	$2,193	$2,193
+St Francis' College	CRESTMEAD	$1,680	$2,120	$2,120
+St Mary's College	MARYBOROUGH	$2,090	$2,090	$2,090
+Jubilee Christian College	ATHERTON	$800	$800	$800
+Brisbane Grammar School	BRISBANE				$23,560
+St Margaret's Anglican Girls School	ASCOT	$18,530	$18,530	$19,540	$20,590
+Brisbane Boys' College	TOOWONG	$18,182	$19,004	$20,588	$20,588
+Somerville House	SOUTH BRISBANE	$18,460	$18,460	$18,460	$20,060
+Anglican Church Grammar School	EAST BRISBANE	$19,972	$19,972	$19,972	$19,972
+St Aidan's Anglican Girls School	CORINDA	$17,340	$17,340	$17,340	$19,090
+Clayfield College	CLAYFIELD	$16,375	$16,375	$16,375	$16,375
+Moreton Bay College	MANLY WEST	$9,540	$9,892	$12,212	$13,724
+Toowoomba Grammar School	EAST TOOWOOMBA	$9,020	$9,020	$10,850	$13,530
+St Joseph's Nudgee College	BOONDALL				$13,380
+Sheldon College	SHELDON	$11,072	$11,072	$11,072	$12,552
+Matthew Flinders Anglican College	BUDERIM	$12,400	$12,400	$12,400	$12,400
+St Paul's School	BALD HILLS	$12,080	$12,080	$12,080	$12,080
+Moreton Bay Boys College	MANLY WEST	$9,540	$9,892	$9,892	$12,048
+Ambrose Treacy College	INDOOROOPILLY			$11,816	$11,816
+All Hallows' School	BRISBANE				$11,450
+Toowoomba Anglican College and Preparatory School	TOOWOOMBA	$7,416	$8,480	$10,068	$11,128
+Ormiston College	ORMISTON	$9,412	$9,412	$9,412	$10,653
+John Paul College	DAISY HILL	$8,600	$8,600	$10,600	$10,600
+Brisbane Montessori School	FIG TREE POCKET	$10,480	$10,480	$10,480	$10,480
+The Glennie School	TOOWOOMBA	$7,160	$7,160	$10,060	$10,060
+Cannon Hill Anglican College	CANNON HILL	$8,220	$9,980	$9,980	$9,980
+Iona College	LINDUM				$9,740
+Fairholme College	TOOWOOMBA	$6,070	$6,070	$8,210	$9,540
+The Cathedral School of St Anne and St James	MUNDINGBURRA	$8,580	$8,580	$9,500	$9,500
+Townsville Grammar School	NORTH WARD	$9,476	$9,476	$9,476	$9,476
+Ipswich Girls' Grammar School	EAST IPSWICH	$8,428	$8,428	$9,036	$9,372
+Samford Valley Steiner School	WIGHTS MOUNTAIN	$6,676	$6,668	$8,472	$9,312
+Ipswich Grammar School	IPSWICH	$6,152	$6,152	$8,960	$9,200
+Redeemer Lutheran College	ROCHEDALE	$9,110	$9,110	$9,110	$9,110
+Marist College Ashgrove	ASHGROVE				$9,100
+Sunshine Coast Grammar School	FOREST GLEN	$8,902	$8,902	$8,902	$8,902
+St John's Anglican College	FOREST LAKE	$7,756	$7,808	$8,860	$8,860
+Villanova College	COORPAROO				$8,676
+West Moreton Anglican College	KARRABIN	$6,840	$7,180	$8,530	$8,530
+St Patrick's College	SHORNCLIFFE				$8,056
+The Springfield Anglican College	SPRINGFIELD	$6,966	$6,966	$7,991	$7,991
+Redlands College	WELLINGTON POINT	$7,120	$6,680	$6,680	$7,980
+Noosa Pengari Steiner School	DOONAN	$6,836	$6,836	$7,363	$7,756
+Montessori International College	FOREST GLEN	$7,696	$7,696	$7,696	$7,696
+The Rockhampton Grammar School	ROCKHAMPTON	$6,624	$6,624	$7,652	$7,652
+The Lakes College	NORTH LAKES	$7,489	$7,489	$7,489	$7,489
+Canterbury College	WATERFORD	$7,172	$7,172	$7,468	$7,468
+Caloundra City Private School	PELICAN WATERS	$7,176	$7,176	$7,176	$7,176
+St Peters Lutheran College	SPRINGFIELD CENTRAL	$7,132	$7,132	$7,132	$7,132
+St Laurence's College	SOUTH BRISBANE				$6,772
+Immanuel Lutheran College	BUDERIM	$6,506	$6,506	$6,506	$6,506
+Westside Christian College	GOODNA	$4,662	$5,587	$6,104	$6,170
+Pacific Lutheran College	MERIDAN PLAINS	$5,500	$5,500	$5,500	$6,100
+Faith Lutheran College	VICTORIA POINT	$5,240	$5,240	$5,560	$6,090
+Suncoast Christian College	WOOMBYE	$5,842	$5,842	$6,061	$6,061
+Northside Christian College	EVERTON PARK	$5,750	$6,050	$6,050	$6,050
+Good Shepherd Lutheran College	NOOSAVILLE	$5,950	$5,950	$5,950	$5,950
+Blackheath and Thornburgh College	CHARTERS TOWERS	$3,580	$3,580	$5,500	$5,920
+Rockhampton Girls' Grammar School	ROCKHAMPTON	$4,875	$4,875	$5,850	$5,850
+Peace Lutheran College	KAMERUNGA	$4,074	$4,074	$4,714	$5,723
+The SCOTS PGC College	WARWICK	$5,500	$5,500	$5,500	$5,520
+Downlands College	TOOWOOMBA			$4,000	$5,500
+Nambour Christian College	WOOMBYE	$5,320	$5,320	$5,380	$5,380
+Peregian Beach Community College	PEREGIAN BEACH	$4,960	$4,960	$4,960	$5,360
+Prince of Peace Lutheran College	EVERTON HILLS	$5,100	$5,100	$5,100	$5,100
+Padua College	KEDRON				$5,060
+Freshwater Christian College	BRINSMEAD	$4,700	$4,700	$4,940	$4,940
+Brisbane Christian College	SALISBURY	$4,895	$4,895	$4,895	$4,895
+Coolum Beach Christian College	COOLUM BEACH	$4,852	$4,852	$4,852	$4,852
+Genesis Christian College	BRAY PARK	$4,826	$4,826	$4,826	$4,826
+Christian Outreach College	TOOWOOMBA	$3,950	$4,400	$4,400	$4,700
+Bethany Lutheran Primary School	RACEVIEW	$4,149	$4,149	$4,396	$4,662
+Mueller College	ROTHWELL	$4,540	$4,540	$4,660	$4,660
+Fraser Coast Anglican College	WONDUNNA	$3,900	$4,242	$4,575	$4,575
+Glasshouse Christian College	BEERWAH	$3,485	$4,150	$4,250	$4,495
+Grace Lutheran Primary School	CLONTARF	$4,490	$4,490	$4,490	$4,490
+Trinity Anglican School	WHITE ROCK	$2,390	$2,390	$3,390	$4,390
+Cairns Hinterland Steiner School	KURANDA	$4,385	$4,385	$4,385	$4,385
+Calvary Christian College	MOUNT LOUISA	$4,225	$4,225	$4,350	$4,350
+Kimberley College	CARBROOK	$4,340	$4,340	$4,340	$4,340
+Parklands Christian College	PARK RIDGE	$3,340	$4,200	$4,310	$4,310
+Annandale Christian College	ANNANDALE	$2,400	$3,200	$4,200	$4,200
+Carmichael College	MORAYFIELD	$4,160	$4,160	$4,160	$4,160
+St Michael's College	CABOOLTURE	$4,072	$4,072	$4,072	$4,072
+St Paul's Lutheran Primary School	CABOOLTURE	$4,060	$4,060	$4,060	$4,060
+Dalby Christian College	DALBY	$3,340	$3,750	$3,750	$4,010
+Groves Christian College	KINGSTON	$3,837	$3,837	$3,996	$3,996
+Bethania Lutheran Primary School	BETHANIA	$3,972	$3,972	$3,972	$3,972
+Brisbane Adventist College	MANSFIELD	$3,864	$3,864	$3,864	$3,864
+All Souls St Gabriels School	CHARTERS TOWERS	$3,825	$3,825	$3,825	$3,825
+Emerald Christian College	EMERALD	$3,787	$3,787	$3,787	$3,787
+Staines Memorial College	REDBANK PLAINS	$3,740	$3,740	$3,740	$3,740
+Whitsunday Christian College	CANNONVALE	$3,540	$3,730	$3,730	$3,730
+Southern Cross Catholic College	SCARBOROUGH	$3,344	$3,344	$3,344	$3,701
+St Catherine's Catholic Primary School	WISHART	$2,935	$2,760	$3,645	$3,700
+Australian Christian College	CABOOLTURE	$2,710	$3,690	$3,690	$3,690
+St James Lutheran College	URRAWEEN	$3,608	$3,608	$3,608	$3,608
+Caloundra Christian College	CALOUNDRA	$2,600	$3,050	$3,600	$3,600
+Bundaberg Christian College	BUNDABERG	$3,588	$3,588	$3,588	$3,588
+Noosa Christian College	COOROY	$3,560	$3,560	$3,560	$3,560
+Northpine Christian College	DAKABIN	$3,552	$3,552	$3,552	$3,552
+Chinchilla Christian School	CHINCHILLA	$3,030	$3,150	$3,320	$3,320
+St Luke's Catholic Parish School	CAPALABA	$3,284	$3,284	$3,284	$3,284
+St Mary's Primary School	MARYBOROUGH	$2,930	$2,930	$3,040	$3,250
+Toowoomba Christian College	HIGHFIELDS	$2,940	$2,940	$3,055	$3,055
+St Patrick's Primary School	GYMPIE	$2,040	$2,812	$2,642	$3,005
+St Agnes School	MOUNT GRAVATT	$2,978	$2,978	$2,978	$2,978
+Holy Family Primary School	INDOOROOPILLY	$2,960	$2,960	$2,960	$2,960
+Cooloola Christian College	GYMPIE	$2,940	$2,940	$2,940	$2,940
+St Kieran's School	BRIGHTON	$2,932	$2,932	$2,932	$2,932
+Peace Lutheran Primary School	GATTON	$2,920	$2,920	$2,920	$2,920
+Tamborine Mountain College	NORTH TAMBORINE	$1,850	$1,850	$1,850	$2,885
+Saint Philomena School	PARK RIDGE	$2,840	$2,840	$2,840	$2,840
+Victory College	GYMPIE	$2,810	$2,810	$2,810	$2,810
+St Dympna's Parish School	ASPLEY	$2,787	$2,787	$2,787	$2,787
+Darling Downs Christian School	TOOWOOMBA	$2,728	$2,728	$2,728	$2,728
+Siena Catholic Primary School	SIPPY DOWNS	$2,693	$2,693	$2,693	$2,693
+Mary MacKillop Catholic College	HIGHFIELDS	$2,600	$2,690	$2,690	$2,690
+St Francis' School	AYR	$2,626	$2,626	$2,626	$2,626
+St Kevin's School	GEEBUNG	$2,591	$2,591	$2,591	$2,591
+St John's Lutheran Primary School	BUNDABERG	$2,580	$2,580	$2,580	$2,580
+Immaculate Heart School	LEICHHARDT	$2,505	$2,505	$2,505	$2,505
+St Mary MacKillop Primary School	BIRKDALE	$2,500	$2,500	$2,500	$2,500
+St Rita's Primary School	VICTORIA POINT	$2,495	$2,420	$2,495	$2,495
+St Bernard's School	UPPER MOUNT GRAVATT	$2,490	$2,490	$2,490	$2,490
+St Joseph's Catholic Primary School	BRACKEN RIDGE	$2,480	$2,480	$2,480	$2,480
+Islamic College of Brisbane	KARAWATHA	$2,474	$2,474	$2,474	$2,474
+Mackay Christian College	NORTH MACKAY	$1,863	$2,071	$2,384	$2,384
+St John's Lutheran School	KINGAROY	$2,350	$2,350	$2,350	$2,350
+Our Lady of the Southern Cross College	DALBY	$1,905	$1,905	$1,905	$2,310
+Mater Dei Primary School	TOOWOOMBA	$2,280	$2,280	$2,280	$2,280
+Christ the King Catholic Primary School	DECEPTION BAY	$2,280	$2,280	$2,280	$2,280
+St Peter Chanel Primary School	THE GAP	$2,271	$2,271	$2,271	$2,271
+St Ambrose's Primary School	NEWMARKET	$2,212	$2,212	$2,212	$2,212
+St Anthony's Catholic Primary School	NORTH ROCKHAMPTON	$2,198	$2,198	$2,198	$2,198
+St Mary's College	TOOWOOMBA				$2,165
+St Elizabeth's School	TARRAGINDI	$2,165	$2,165	$2,165	$2,165
+Columba Catholic College	CHARTERS TOWERS	$2,160	$2,160	$2,160	$2,160
+Our Lady of the Rosary School	KENMORE	$2,160	$2,160	$2,160	$2,160
+St Brigid's Primary School	ROSEWOOD	$2,100	$2,100	$2,100	$2,100
+St Augustine's College	AUGUSTINE HEIGHTS	$1,300	$1,300	$1,300	$2,090
+St Andrew's Catholic School	FERNY GROVE	$2,029	$2,029	$2,029	$2,029
+Holy Spirit School	BRAY PARK	$2,018	$2,018	$2,018	$2,018
+St Andrew's Catholic College	REDLYNCH	$1,585	$1,585	$1,585	$2,011
+Discovery Christian College	AGNES WATER	$1,500	$1,500	$2,000	$2,000
+Wisdom College	CALAMVALE	$2,000	$2,000	$2,000	$2,000
+Holy Spirit School	NEW FARM	$1,984	$1,984	$1,984	$1,984
+St Anthony's School	ALEXANDRA HILLS	$1,960	$1,960	$1,960	$1,960
+St Ignatius School	TOOWONG	$1,951	$1,951	$1,951	$1,951
+St Francis Xavier's School	GOODNA	$1,930	$1,930	$1,930	$1,930
+Star of the Sea Primary School	CLEVELAND	$1,900	$1,900	$1,900	$1,900
+Mater Dei Catholic Primary School	ASHGROVE WEST	$1,896	$1,896	$1,896	$1,896
+St Saviour's Primary School	TOOWOOMBA	$1,890	$1,890	$1,890	$1,890
+St Joachim's School	HOLLAND PARK	$1,870	$1,870	$1,870	$1,870
+St John Vianney's Primary School	MANLY	$1,860	$1,860	$1,860	$1,860
+Our Lady of Lourdes Primary School	TOOWOOMBA	$1,775	$1,775	$1,775	$1,850
+St Ita's Regional Primary School	DUTTON PARK	$1,832	$1,832	$1,832	$1,832
+St Columba's Primary School	WILSTON	$1,790	$1,790	$1,790	$1,790
+Our Lady of the Way School	PETRIE	$1,790	$1,790	$1,790	$1,790
+Good Shepherd Catholic Primary School	SPRINGFIELD LAKES	$1,780	$1,780	$1,780	$1,780
+St Agatha's Primary School	CLAYFIELD	$1,761	$1,761	$1,761	$1,761
+Our Lady Help of Christians School	HENDRA	$1,760	$1,760	$1,760	$1,760
+Our Lady of Lourdes Primary School	SUNNYBANK	$1,746	$1,746	$1,746	$1,746
+Our Lady of the Rosary School	CALOUNDRA	$1,731	$1,731	$1,731	$1,731
+St John's School	ROMA	$1,729	$1,729	$1,729	$1,729
+Sacred Heart Primary School	TOOWOOMBA	$1,700	$1,700	$1,700	$1,700
+St William's Primary School	KEPERRA	$1,682	$1,682	$1,682	$1,682
+St Augustine's Parish Primary School	CURRUMBIN WATERS	$1,656	$1,656	$1,656	$1,656
+Guardian Angels' Primary School	WYNNUM	$1,622	$1,622	$1,622	$1,622
+St Catherine's Catholic College	PROSERPINE	$1,600	$1,600	$1,600	$1,600
+Sts Peter and Paul's School	BULIMBA	$1,600	$1,600	$1,600	$1,600
+Our Lady of Dolours School	MITCHELTON	$1,600	$1,600	$1,600	$1,600
+MacKillop Catholic College	MOUNT PETER	$1,585	$1,585	$1,585	$1,585
+St Therese's School	BENTLEY PARK	$1,585	$1,585	$1,585	$1,585
+Our Lady Help of Christians School	EARLVILLE	$1,585	$1,585	$1,585	$1,585
+St Francis Xavier's School	MANUNDA	$1,585	$1,585	$1,585	$1,585
+Holy Cross School	TRINITY PARK	$1,585	$1,585	$1,585	$1,585
+St Gerard Majella Primary School	WOREE	$1,585	$1,585	$1,585	$1,585
+Mother of Good Counsel School	CAIRNS NORTH	$1,585	$1,585	$1,585	$1,585
+Good Counsel Primary School	INNISFAIL	$1,585	$1,585	$1,585	$1,585
+St Michael's School	GORDONVALE	$1,585	$1,585	$1,585	$1,585
+St Augustine's School	MOSSMAN	$1,585	$1,585	$1,585	$1,585
+St Clare's School	TULLY	$1,585	$1,585	$1,585	$1,585
+St Stephen's School	ALGESTER	$1,570	$1,570	$1,570	$1,570
+Ryan Catholic College	KIRWAN	$1,560	$1,560	$1,560	$1,560
+St Anthony's Catholic College	DEERAGUN	$1,560	$1,560	$1,560	$1,560
+Southern Cross Catholic College	ANNANDALE	$1,560	$1,560	$1,560	$1,560
+St Clare's Catholic School	BURDELL	$1,560	$1,560	$1,560	$1,560
+St Joseph's Catholic School	MUNDINGBURRA	$1,560	$1,560	$1,560	$1,560
+St Joseph's Catholic School	NORTH WARD	$1,560	$1,560	$1,560	$1,560
+Our Lady of Lourdes Primary School	INGHAM	$1,560	$1,560	$1,560	$1,560
+St Joseph's Catholic School	CLONCURRY	$1,560	$1,560	$1,560	$1,560
+St Kieran's Catholic School	MOUNT ISA	$1,560	$1,560	$1,560	$1,560
+Queen of Apostles Primary School	STAFFORD	$1,533	$1,533	$1,533	$1,533
+St Thomas More Primary School	SUNSHINE BEACH	$1,518	$1,518	$1,518	$1,518
+Holy Name Primary School	TOOWOOMBA	$1,504	$1,504	$1,504	$1,504
+St Edward the Confessor School	DAISY HILL	$1,484	$1,484	$1,484	$1,484
+Unity College	CALOUNDRA WEST	$1,465	$1,465	$1,465	$1,465
+St Pius' Primary School	BANYO	$1,444	$1,444	$1,444	$1,444
+St Joseph's School	ATHERTON	$1,391	$1,391	$1,391	$1,391
+St Sebastian's Primary School	YERONGA	$1,390	$1,390	$1,390	$1,390
+Christ the King School	GRACEVILLE	$1,372	$1,372	$1,372	$1,372
+St Peter's Primary School	ROCHEDALE	$1,363	$1,363	$1,363	$1,363
+St Flannan's School	ZILLMERE	$1,360	$1,360	$1,360	$1,360
+Our Lady of the Angels' School	WAVELL HEIGHTS	$1,331	$1,331	$1,331	$1,331
+St Patrick's Catholic Primary School	BUNDABERG WEST	$1,320	$1,320	$1,320	$1,320
+St Mary's Catholic Primary School	BUNDABERG	$1,320	$1,320	$1,320	$1,320
+St Joseph's Catholic Primary School	WANDAL	$1,320	$1,320	$1,320	$1,320
+St Francis Catholic Primary School	TANNUM SANDS	$1,320	$1,320	$1,320	$1,320
+St Anne's Catholic Primary School	SARINA	$1,320	$1,320	$1,320	$1,320
+St Joseph's Tobruk Memorial School	BEENLEIGH	$1,315	$1,315	$1,315	$1,315
+Stella Maris School	MAROOCHYDORE	$1,304	$1,304	$1,304	$1,304
+St John the Baptist Catholic Primary School	GLADSTONE	$1,280	$1,280	$1,280	$1,280
+St Mary's Catholic Primary School	MACKAY SOUTH	$1,280	$1,280	$1,280	$1,280
+St Peter's Catholic Primary School	ROCKHAMPTON	$1,280	$1,280	$1,280	$1,280
+St Joseph's Catholic Primary School	NORTH MACKAY	$1,280	$1,280	$1,280	$1,280
+Star of the Sea Catholic Primary School	GLADSTONE	$1,280	$1,280	$1,280	$1,280
+St Benedict's Catholic Primary School	YEPPOON	$1,280	$1,280	$1,280	$1,280
+St John's Catholic Primary School	WALKERSTON	$1,280	$1,280	$1,280	$1,280
+MacKillop Catholic Primary School	ANDERGROVE	$1,280	$1,280	$1,280	$1,280
+St Joseph's Catholic Primary School	BILOELA	$1,280	$1,280	$1,280	$1,280
+St Brigid's Catholic Primary School	EMERALD	$1,280	$1,280	$1,280	$1,280
+St Pius X School	SALISBURY	$1,264	$1,264	$1,264	$1,264
+Sacred Heart Catholic Primary School	YEPPOON	$1,250	$1,250	$1,250	$1,250
+St Paul's Catholic Primary School	GRACEMERE	$1,250	$1,250	$1,250	$1,250
+St Matthew's School	CORNUBIA	$1,240	$1,240	$1,240	$1,240
+St Oliver Plunkett School	CANNON HILL	$1,240	$1,240	$1,240	$1,240
+Xavier Catholic College	HERVEY BAY	$1,216	$1,216	$1,216	$1,216
+Our Lady of the Assumption School	ENOGGERA	$1,208	$1,208	$1,208	$1,208
+Australian International Islamic College	DURACK	$900	$1,000	$1,000	$1,200
+St Finbarr's School	ASHGROVE	$1,200	$1,200	$1,200	$1,200
+St Anthony's School	KEDRON	$1,194	$1,194	$1,194	$1,194
+Sacred Heart School	BOOVAL	$1,165	$1,165	$1,165	$1,165
+St Eugene College	BURPENGARY	$1,160	$1,160	$1,160	$1,160
+St Monica's School	OAKEY	$1,159	$1,159	$1,159	$1,159
+Holy Cross School	WOOLOOWIN	$1,144	$1,144	$1,144	$1,144
+Our Lady of Mount Carmel School	COORPAROO	$1,130	$1,130	$1,130	$1,130
+St Thomas' School	CAMP HILL	$1,108	$1,108	$1,108	$1,108
+St Bernardine's School	REGENTS PARK	$1,086	$1,086	$1,086	$1,086
+Star of the Sea Catholic School	TORQUAY	$1,082	$1,082	$1,082	$1,082
+Saint Mary's Catholic College	KINGAROY	$1,070	$1,070	$1,070	$1,070
+Our Lady of Good Counsel School	GATTON	$1,040	$1,040	$1,040	$1,040
+Our Lady of Fatima Primary School	ACACIA RIDGE	$1,008	$1,008	$1,008	$1,008
+St Mark's School	INALA	$940	$940	$940	$940
+St Francis' College	CRESTMEAD	$920	$920	$920	$920
+St Paul's School	WOODRIDGE	$815	$815	$815	$815
+Jubilee Christian College	ATHERTON	$800	$800	$800	$800
+Scotch College	SWANBOURNE	$28,600	$28,600	$28,600
+St George's Anglican Grammar School	PERTH	$11,280	$11,280	$28,600
+Methodist Ladies' College	CLAREMONT	$28,203	$28,452	$28,452
+Christ Church Grammar School	CLAREMONT	$28,320	$28,320	$28,320
+Guildford Grammar School	GUILDFORD	$26,512	$28,195	$28,195
+Presbyterian Ladies' College	PEPPERMINT GROVE	$25,940	$27,588	$27,588
+St Hilda's Anglican School for Girls	MOSMAN PARK	$26,900	$27,120	$27,120
+Hale School	WEMBLEY DOWNS	$26,790	$26,910	$26,910
+Penrhos College	COMO	$23,634	$25,314	$25,314
+Wesley College	SOUTH PERTH	$25,288	$25,288	$25,288
+St Mary's Anglican Girls' School	KARRINYUP	$23,820	$23,820	$25,100
+Perth College	MOUNT LAWLEY	$23,220	$23,940	$23,940
+All Saints' College	BULL CREEK	$20,500	$22,950	$23,180
+Aquinas College	SALTER POINT	$16,992	$16,992	$17,991
+Bunbury Cathedral Grammar School	GELORUP	$15,500	$15,500	$15,500
+Trinity College	EAST PERTH	$15,140	$15,140	$15,140
+Treetops Montessori School	DARLINGTON	$11,100	$11,100	$13,875
+Helena College	GLEN FORREST	$13,350	$13,350	$13,610
+Iona Presentation College	MOSMAN PARK	$12,745	$12,840	$12,985
+Great Southern Grammar School	KALGAN	$10,520	$11,396	$12,488
+John XXIII College	MOUNT CLAREMONT	$10,390	$11,350	$11,350
+Santa Maria College	ATTADALE	$10,055	$10,307	$10,501
+St Stephen's School	DUNCRAIG	$8,144	$9,889	$10,106
+Mercedes College	PERTH	$10,080	$10,080	$10,080
+St Mark's Anglican Community School	HILLARYS	$9,296	$10,056	$10,056
+Carey Baptist College	HARRISDALE	$8,684	$9,187	$9,187
+Kennedy Baptist College	MURDOCH	$9,100	$9,100	$9,100
+Lake Joondalup Baptist College	JOONDALUP	$9,080	$9,080	$9,080
+Geraldton Grammar School	GERALDTON	$7,800	$8,900	$8,900
+The Montessori School	KINGSLEY	$8,850	$8,850	$8,850
+Kingsway Christian College	DARCH	$8,385	$8,585	$8,585
+Newman College	CHURCHLANDS	$7,485	$7,485	$8,585
+Perth Waldorf School	BIBRA LAKE	$8,150	$8,150	$8,150
+Swan Christian College	MIDDLE SWAN	$7,604	$7,760	$8,048
+Prendiville Catholic College	OCEAN REEF	$7,085	$7,200	$7,975
+Rehoboth Christian College	KENWICK	$7,884	$8,443	$7,884
+John Septimus Roe Anglican Community School	MIRRABOOKA	$7,500	$7,800	$7,800
+Corpus Christi College	BATEMAN	$7,768	$7,768	$7,768
+Swan Valley Anglican Community School	AVELEY	$7,030	$7,640	$7,640
+Tranby College	BALDIVIS	$6,958	$7,458	$7,458
+Mundaring Christian College	MUNDARING	$7,056	$7,056	$7,268
+Rockingham Montessori School	ROCKINGHAM	$7,200	$7,200	$7,200
+St Brigid's College	LESMURDIE	$6,593	$7,085	$7,085
+Mazenod College	LESMURDIE	$7,005	$7,005	$7,005
+Chisholm Catholic College	BEDFORD	$5,800	$6,400	$7,000
+Ellenbrook Christian College	ELLENBROOK	$6,692	$6,692	$6,996
+Sacred Heart College	SORRENTO	$6,974	$6,974	$6,974
+Peter Moyes Anglican Community School	MINDARIE	$6,267	$6,907	$6,907
+Carmel Adventist College	CARMEL	$6,575	$6,575	$6,575
+Christian Brothers' College	FREMANTLE	$6,191	$6,191	$6,546
+Living Waters Lutheran College	WARNBRO	$6,340	$6,500	$6,500
+Ursula Frayne Catholic College	VICTORIA PARK	$5,855	$6,500	$6,500
+Frederick Irwin Anglican School	MANDURAH	$5,910	$5,910	$6,450
+Mandurah Baptist College	LAKELANDS	$6,365	$6,365	$6,365
+Mater Dei College	EDGEWATER	$6,352	$6,352	$6,352
+St Luke's College	KARRATHA	$5,396	$5,396	$6,257
+St Andrew's Grammar	DIANELLA	$5,905	$6,119	$6,119
+Southern Hills Christian College	BEDFORDALE	$4,992	$5,992	$6,028
+South Coast Baptist College	WAIKIKI	$4,950	$5,950	$5,950
+Aranmore Catholic College	LEEDERVILLE	$5,353	$5,574	$5,804
+Peter Carnley Anglican Community School	WELLARD	$5,200	$5,690	$5,690
+Holy Cross College	ELLENBROOK	$5,900	$5,753	$5,683
+Strathalbyn Christian College	STRATHALBYN	$5,025	$5,025	$5,680
+Georgiana Molloy Anglican School	YALYALUP	$4,780	$5,388	$5,388
+St Mary MacKillop College	BUSSELTON	$4,220	$4,336	$5,265
+Servite College	TUART HILL	$4,345	$4,804	$5,227
+Emmanuel Catholic College	SUCCESS	$4,488	$4,488	$5,183
+Heritage College Perth	FORRESTFIELD	$4,781	$4,781	$5,060
+Seton Catholic College	SAMSON	$4,960	$4,960	$4,960
+John Wollaston Anglican Community School	CAMILLO	$4,500	$4,500	$4,900
+Foundation Christian College	GREENFIELDS	$3,977	$4,587	$4,875
+St Norbert College	QUEENS PARK	$4,380	$4,380	$4,740
+La Salle College	MIDDLE SWAN	$3,983	$4,514	$4,514
+Australian Christian College - Southlands	ALBANY	$3,950	$3,950	$4,500
+Lumen Christi College	MARTIN	$4,288	$4,288	$4,400
+Emmanuel Christian Community School	GIRRAWHEEN	$4,300	$4,300	$4,300
+HillSide Christian College	FORRESTFIELD	$4,196	$4,196	$4,196
+Irene McCormack Catholic College	BUTLER	$3,958	$3,996	$4,093
+Mandurah Catholic College	MANDURAH	$3,666	$3,666	$3,999
+John Paul College	KALGOORLIE	$3,651	$3,651	$3,954
+Bethel Christian School	ALBANY	$3,920	$3,920	$3,920
+Nagle Catholic College	GERALDTON	$3,873	$3,873	$3,873
+Kolbe Catholic College	ROCKINGHAM	$3,824	$3,824	$3,824
+Cornerstone Christian College	BUSSELTON	$3,265	$3,250	$3,715
+Mercy College	KOONDOOLA	$3,059	$3,471	$3,471
+Dale Christian School	ARMADALE	$2,953	$2,953	$3,149
+Divine Mercy College	YANGEBUP	$2,800	$2,800	$3,100
+Quinns Baptist College	MINDARIE	$2,976	$2,976	$2,976
+Bunbury Catholic College	BUNBURY	$2,700	$2,700	$2,700
+Esperance Anglican Community School	ESPERANCE	$2,400	$2,550	$2,700
+Austin Cove Baptist College	SOUTH YUNDERUP	$2,695	$2,695	$2,695
+St Joseph's College	ALBANY	$1,740	$1,740	$2,640
+Bible Baptist Christian Academy	MOUNT HELENA	$2,200	$2,200	$2,200
+Kearnan College	MANJIMUP	$2,128	$2,128	$2,128
+St Mary's College	BROOME	$1,880	$2,100	$2,100
+Langford Islamic College	LANGFORD	$2,000	$2,000	$2,000
+Australian Islamic College (Kewdale)	KEWDALE	$1,850	$1,850	$2,000
+Fountain College	FERNDALE	$1,900	$1,900	$1,900
+The Beehive Montessori School	MOSMAN PARK	$14,520	$14,520	
+St James' Anglican School	ALKIMOS	$5,820	$6,420	
+The Japanese School in Perth	CITY BEACH	$5,500	$5,500	
+Child Side School	BOYANUP	$5,372	$5,372	
+Atlantis Beach Baptist College	TWO ROCKS	$5,000	$5,000	
+Goldfields Baptist College	KALGOORLIE	$3,470	$3,880	
+Mother Teresa Catholic School	BALDIVIS	$3,460	$3,460	
+Fremantle Christian College	HAMILTON HILL	$3,250	$3,250	
+Hope Christian College	ROELANDS	$2,475	$2,475	
+Immaculate Heart College	LOWER CHITTERING	$1,970	$1,970	
+Australian Islamic College (Dianella)	DIANELLA	$1,850	$1,850	
+Australian Islamic College (Thornlie)	THORNLIE	$1,850	$1,850	
+St Mary Star of the Sea Catholic School	CARNARVON	$1,677	$1,677	
+Carey Baptist College Forrestdale	FORRESTDALE	$4,500		
+Northshore Christian Grammar School	ALKIMOS	$4,436		
+Scotch College	SWANBOURNE	$15,860	$21,660	$23,500	$27,660
+Methodist Ladies' College	CLAREMONT	$18,540	$20,550	$24,150	$27,480
+Christ Church Grammar School	CLAREMONT	$18,340	$21,560	$22,080	$25,840
+Hale School	WEMBLEY DOWNS	$16,000	$17,160	$20,550	$22,770
+International School of Western Australia	CITY BEACH	$18,860	$18,860	$19,560	$21,540
+Presbyterian Ladies' College	PEPPERMINT GROVE	$16,308	$16,308	$21,072	$21,072
+Wesley College	SOUTH PERTH	$15,463	$16,707	$16,707	$20,191
+St Hilda's Anglican School for Girls	MOSMAN PARK	$16,710	$16,710	$16,710	$19,835
+Guildford Grammar School	GUILDFORD	$13,240	$13,590	$15,810	$18,745
+Penrhos College	COMO	$16,518	$16,678	$16,578	$17,930
+St Mary's Anglican Girls' School	KARRINYUP	$13,880	$15,660	$17,060	$17,060
+All Saints' College	BULL CREEK	$11,390	$13,970	$14,175	$16,970
+Perth College	MOUNT LAWLEY	$15,750	$15,750	$16,560	$16,560
+Bunbury Cathedral Grammar School	GELORUP	$8,585	$9,292	$10,252	$14,191
+Aquinas College	SALTER POINT	$10,044	$12,519	$12,519	$12,519
+The Beehive Montessori School	MOSMAN PARK	$11,250	$11,250	$11,250	$11,250
+The Quintilian School	MOUNT CLAREMONT	$11,920	$10,800	$10,800	$10,800
+Perth Montessori School	BURSWOOD	$10,644	$10,644	$10,644	$10,644
+Trinity College	EAST PERTH			$8,800	$8,800
+Chrysalis Montessori School	GLENDALOUGH	$8,772	$8,772	$8,772	$8,772
+Blue Gum Montessori School	BIBRA LAKE	$8,266	$8,472	$8,472	$8,472
+Treetops Montessori School	DARLINGTON	$8,310	$8,310	$8,310	$8,310
+Great Southern Grammar School	KALGAN	$6,572	$8,240	$8,240	$8,240
+Helena College	GLEN FORREST	$8,025	$8,025	$8,025	$8,025
+Kingsway Christian College	DARCH	$4,314	$5,741	$5,761	$7,761
+St Mark's Anglican Community School	HILLARYS	$6,500	$6,500	$6,500	$7,244
+The Silver Tree Steiner School	PARKERVILLE	$6,263	$6,263	$7,065	$7,065
+The Montessori School	KINGSLEY	$2,500	$2,500	$10,000	$7,000
+Perth Waldorf School	BIBRA LAKE	$6,390	$6,710	$6,710	$6,710
+Iona Presentation College	MOSMAN PARK	$6,680	$6,680	$6,980	$6,580
+Iona Presentation Primary School	MOSMAN PARK	$6,680	$6,680	$6,980	$6,580
+Geraldton Grammar School	GERALDTON	$4,350	$5,400	$5,400	$6,550
+Santa Maria College	ATTADALE				$6,531
+Rockingham Montessori School	ROCKINGHAM	$6,430	$6,430	$6,430	$6,430
+Rehoboth Christian College	KENWICK	$6,381	$6,381	$6,381	$6,381
+St Stephen's School	DUNCRAIG	$6,160	$6,160	$6,160	$6,280
+West Coast Steiner School	NOLLAMARA	$6,000	$6,000	$6,160	$6,160
+Carey Baptist College	HARRISDALE	$6,077	$6,077	$6,077	$6,077
+Carey Baptist College Forrestdale	FORRESTDALE	$6,077	$6,077	$6,077	$6,077
+Lake Joondalup Baptist College	JOONDALUP	$6,060	$6,060	$6,060	$6,060
+Tranby College	BALDIVIS	$5,876	$5,876	$5,928	$5,928
+Loreto Nedlands	NEDLANDS	$5,827	$5,827	$5,827	$5,827
+Pioneer Village School	ARMADALE	$4,885	$4,945	$4,945	$5,825
+Swan Christian College	MIDDLE SWAN	$5,314	$5,604	$5,722	$5,722
+Ellenbrook Christian College	ELLENBROOK	$4,329	$4,622	$5,611	$5,611
+Mundaring Christian College	MUNDARING	$4,412	$4,412	$5,563	$5,563
+Thornlie Christian College	SOUTHERN RIVER	$5,508	$5,508	$5,508	$5,508
+St Andrew's Grammar	DIANELLA	$5,346	$5,346	$5,346	$5,464
+Swan Valley Anglican Community School	AVELEY	$4,463	$5,409	$5,409	$5,409
+Kalamunda Christian School	WALLISTON	$4,060	$4,422	$5,381	$5,381
+John Septimus Roe Anglican Community School	MIRRABOOKA	$4,850	$4,850	$5,225	$5,225
+Regent College	VICTORIA PARK	$4,990	$4,990	$4,990	$4,990
+Beechboro Christian School	BEECHBORO	$4,252	$4,252	$4,967	$4,967
+Peter Moyes Anglican Community School	MINDARIE	$4,612	$4,612	$4,760	$4,760
+Living Waters Lutheran College	WARNBRO	$4,310	$4,310	$4,310	$4,500
+Carmel Adventist College Primary School	BICKLEY	$4,432	$4,432	$4,432	$4,432
+St James' Anglican School	ALKIMOS	$4,287	$4,287	$4,420	$4,420
+Strathalbyn Christian College	STRATHALBYN	$4,375	$4,375	$4,375	$4,375
+South Coast Baptist College	WAIKIKI	$3,613	$4,256	$4,256	$4,256
+Peter Carnley Anglican Community School	WELLARD	$3,728	$4,184	$4,184	$4,184
+John Wollaston Anglican Community School	CAMILLO	$3,977	$4,137	$4,137	$4,137
+Newman College	CHURCHLANDS	$4,100	$4,100	$4,100	$4,100
+Heritage College Perth	FORRESTFIELD	$2,449	$2,727	$2,880	$3,864
+The King's College	WELLARD	$3,530	$3,530	$3,820	$3,820
+St Paul's Primary School	MOUNT LAWLEY	$3,081	$3,282	$3,193	$3,679
+Aranmore Catholic Primary School	LEEDERVILLE	$3,655	$3,655	$3,655	$3,655
+Frederick Irwin Anglican School	MANDURAH	$3,620	$3,620	$3,620	$3,620
+Mandurah Baptist College	LAKELANDS	$3,620	$3,620	$3,620	$3,620
+Golden Hill Steiner School	DENMARK	$3,512	$3,512	$3,512	$3,512
+Grace Christian School	GLEN IRIS	$3,400	$3,400	$3,400	$3,400
+Orana Catholic Primary School	WILLETTON	$2,959	$3,044	$3,029	$3,394
+St Brigid's College	LESMURDIE	$2,988	$2,988	$2,988	$3,387
+Australian Christian College - Southlands	ALBANY	$2,910	$2,910	$2,910	$3,385
+Georgiana Molloy Anglican School	YALYALUP	$3,320	$3,320	$3,320	$3,320
+Parklands School	ALBANY	$2,880	$2,980	$2,980	$3,250
+HillSide Christian College	FORRESTFIELD	$3,248	$3,248	$3,248	$3,248
+Southern Hills Christian College	BEDFORDALE	$3,228	$3,228	$3,228	$3,228
+St Emilie's Catholic Primary School	CANNING VALE	$2,508	$2,658	$3,023	$3,228
+Foundation Christian College	GREENFIELDS	$3,087	$3,087	$3,087	$3,087
+St Columba's School	BAYSWATER	$3,006	$3,113	$3,052	$3,052
+Mary's Mount Primary School	GOOSEBERRY HILL	$2,643	$2,653	$3,018	$3,038
+Our Lady of Grace School	NORTH BEACH	$2,798	$2,919	$2,839	$3,035
+Bethel Christian School	ALBANY	$3,000	$3,000	$3,000	$3,000
+Emmanuel Christian Community School	GIRRAWHEEN	$2,920	$2,920	$2,920	$2,920
+Fremantle Christian College	HAMILTON HILL	$2,880	$2,880	$2,880	$2,880
+St John Bosco College	PIARA WATERS	$2,700	$2,700	$2,700	
+St John's School	SCARBOROUGH	$2,809	$2,845	$2,845	$2,845
+Sacred Heart School	MUNDARING	$2,306	$2,419	$2,419	$2,804
+Queen of Apostles School	RIVERTON	$2,384	$2,487	$2,509	$2,797
+Port School	HAMILTON HILL	$2,780	$2,780	$2,780	$2,780
+Holy Cross College	ELLENBROOK	$2,379	$2,519	$2,489	$2,719
+Our Lady of Mount Carmel School	HILTON	$1,923	$1,923	$1,958	$2,603
+St Pius X Catholic School	MANNING	$2,565	$2,565	$2,565	$2,565
+St Thomas' Primary School	CLAREMONT	$2,520	$2,520	$2,520	$2,520
+St Patrick's Primary School	FREMANTLE	$2,238	$2,111	$2,111	$2,511
+St Benedict's School	APPLECROSS	$2,481	$2,481	$2,481	$2,481
+Margaret River Independent School	FOREST GROVE	$2,480	$2,480	$2,480	$2,480
+St Paul's Primary School	KARRATHA	$2,480	$2,480	$2,480	$2,480
+Ursula Frayne Catholic College	VICTORIA PARK	$2,280	$2,280	$2,474	$2,474
+Our Lady of Lourdes School	NOLLAMARA	$1,890	$1,925	$1,950	$2,460
+St Columba's Catholic Primary School	SOUTH PERTH	$2,445	$2,445	$2,445	$2,445
+Cornerstone Christian College	BUSSELTON	$1,920	$1,990	$2,400	$2,370
+Holy Rosary School	DOUBLEVIEW	$2,360	$2,360	$2,360	$2,360
+Hammond Park Catholic Primary School	HAMMOND PARK	$2,312	$2,317	$2,347	$2,357
+Hope Christian College	ROELANDS	$2,352	$2,352	$2,352	$2,352
+St Joseph's College	ALBANY	$2,169	$2,169	$2,199	$2,322
+St Helena's Catholic Primary School	ELLENBROOK	$2,300	$2,300	$2,300	$2,300
+Sacred Heart Primary School	HIGHGATE	$2,262	$2,262	$2,262	$2,262
+Dale Christian School	ARMADALE	$2,230	$2,230	$2,230	$2,230
+Infant Jesus School	MORLEY	$2,205	$2,205	$2,205	$2,205
+St Denis School	JOONDANNA	$2,183	$2,211	$2,115	$2,197
+St John Paul II Catholic Primary School	BANKSIA GROVE	$2,174	$2,174	$2,174	$2,174
+St Bernadette's Catholic Primary School	PORT KENNEDY	$2,094	$1,994	$1,994	$2,174
+Mercy College	KOONDOOLA	$1,693	$1,813	$1,833	$2,153
+Whitford Catholic Primary School	CRAIGIE	$1,227	$1,998	$2,043	$2,133
+Good Shepherd Catholic Primary School	KELMSCOTT	$2,126	$2,126	$2,126	$2,126
+Star of the Sea Primary School	ROCKINGHAM	$2,120	$2,120	$2,120	$2,120
+Mary MacKillop Catholic Community Primary School	BALLAJURA	$1,275	$2,120	$2,120	$2,120
+St Joseph's School	BOULDER	$2,019	$2,019	$2,019	$2,119
+Our Lady of Fatima School	PALMYRA	$2,115	$2,115	$2,115	$2,115
+St Jerome's Primary School	MUNSTER	$1,717	$1,750	$1,775	$2,114
+Our Lady's Assumption School	DIANELLA	$1,896	$1,924	$2,089	$2,099
+Padbury Catholic Primary School	PADBURY	$2,063	$2,063	$2,063	$2,063
+St Francis Xavier Primary School	GERALDTON	$1,496	$1,556	$1,556	$2,060
+Holy Spirit School	CITY BEACH	$2,050	$2,050	$2,050	$2,050
+Yidarra Catholic Primary School	BATEMAN	$3,047	$2,025	$2,025	$2,025
+St Anthony's School	WANNEROO	$2,017	$2,017	$2,017	$2,017
+Quinns Baptist College	MINDARIE	$2,000	$2,000	$2,000	$2,000
+Goldfields Baptist College	KALGOORLIE	$1,995	$1,995	$1,995	$1,995
+St Anthony's School	GREENMOUNT	$1,898	$1,992	$1,992	$1,992
+Notre Dame Catholic Primary School	CLOVERDALE	$1,982	$1,982	$1,982	$1,982
+Mater Christi Catholic Primary School	YANGEBUP	$1,956	$1,956	$1,956	$1,956
+St Luke's Catholic Primary School	WOODVALE	$1,887	$1,887	$1,887	$1,887
+Brighton Catholic Primary School	BUTLER	$1,875	$1,875	$1,875	$1,875
+St Simon Peter Catholic Primary School	OCEAN REEF	$1,865	$1,865	$1,865	$1,865
+St Mary's Primary School	KALGOORLIE	$1,864	$1,864	$1,864	$1,864
+St Joseph's School	NORTHAM	$1,840	$1,840	$1,840	$1,840
+St Jude's Catholic School	LANGFORD	$1,840	$1,840	$1,840	$1,840
+Francis Jordan Catholic School	CURRAMBINE	$1,833	$1,833	$1,833	$1,833
+Good Shepherd Catholic School	LOCKRIDGE	$1,731	$1,833	$1,833	$1,833
+St Kieran Catholic Primary School	TUART HILL	$1,822	$1,822	$1,822	$1,822
+St Dominic's School	INNALOO	$1,820	$1,820	$1,820	$1,820
+Liwara Catholic Primary School	GREENWOOD	$1,798	$1,798	$1,798	$1,798
+Our Lady Star of the Sea Catholic Primary School	ESPERANCE	$1,797	$1,797	$1,797	$1,797
+Austin Cove Baptist College	SOUTH YUNDERUP	$1,767	$1,767	$1,767	$1,767
+St Maria Goretti's Catholic School	REDCLIFFE	$1,741	$1,741	$1,741	$1,741
+Xavier Catholic School	HILBERT	$1,735	$1,735	$1,735	$1,735
+St Peter's Primary School	INGLEWOOD	$1,684	$1,684	$1,684	$1,684
+St Joseph's Catholic Primary School	PINJARRA	$1,680	$1,680	$1,680	$1,680
+St Lawrence's Primary School	GERALDTON	$1,245	$1,185	$1,185	$1,670
+Our Lady of Mercy Primary School	GIRRAWHEEN	$1,231	$1,365	$1,434	$1,654
+St Mary Star of the Sea Catholic School	CARNARVON	$1,617	$1,634	$1,634	$1,644
+Kearnan College	MANJIMUP	$1,174	$1,239	$1,264	$1,639
+St Cecilia's Catholic Primary School	PORT HEDLAND	$1,638	$1,638	$1,638	$1,638
+Mel Maria Catholic Primary School	ATTADALE	$1,631	$1,631	$1,631	$1,631
+Immaculate Heart College	LOWER CHITTERING	$1,630	$1,630	$1,630	$1,630
+Matthew Gibney Catholic Primary School	HIGH WYCOMBE	$1,611	$1,611	$1,611	$1,611
+Langford Islamic College	LANGFORD	$1,600	$1,600	$1,600	$1,600
+Australian Islamic College (Dianella)	DIANELLA	$1,590	$1,590	$1,590	$1,590
+Australian Islamic College (Kewdale)	KEWDALE	$1,590	$1,590	$1,590	$1,590
+Australian Islamic College (Thornlie)	THORNLIE	$1,590	$1,590	$1,590	$1,590
+St Andrew's Catholic Primary School	CLARKSON	$1,562	$1,562	$1,562	$1,562
+Assumption Catholic Primary School	MANDURAH	$1,437	$1,437	$1,542	$1,542
+Alkimos Baptist College	MERRIWA	$1,500	$1,500	$1,500	$1,500
+Divine Mercy College	YANGEBUP	$1,500	$1,500	$1,500	$1,500
+St Mary's School	MERREDIN	$1,472	$1,472	$1,472	$1,472
+Salvado Catholic College	BYFORD	$1,185	$1,230	$1,460	
+Fountain College	FERNDALE	$1,450	$1,450	$1,450	$1,450
+St Augustine's School	RIVERVALE	$1,446	$1,446	$1,446	$1,446
+Our Lady of Lourdes School	DARDANUP	$1,420	$1,420	$1,420	$1,420
+St Mary's School	DONNYBROOK	$1,418	$1,418	$1,418	$1,418
+Al-Hidayah Islamic School	BENTLEY	$1,400	$1,400	$1,400	$1,400
+Christ the King School	BEACONSFIELD	$1,378	$1,378	$1,378	$1,378
+St Lawrence Primary School	BALCATTA	$1,350	$1,350	$1,350	$1,350
+Sacred Heart Primary School	THORNLIE	$1,344	$1,344	$1,344	$1,344
+Margaret River Montessori School	MARGARET RIVER	$1,330	$1,330	$1,330	$1,330
+St Joseph's Primary School	BUNBURY	$1,300	$1,300	$1,300	$1,300
+St Michael's School	BASSENDEAN	$1,284	$1,284	$1,284	$1,284
+St Mary's College	BROOME	$1,280	$1,280	$1,280	$1,280
+Santa Clara School	ST JAMES	$1,275	$1,275	$1,275	$1,275
+Our Lady of the Cape Primary School	DUNSBOROUGH	$1,273	$1,273	$1,273	$1,273
+St Gerard's Primary School	WESTMINSTER	$1,200	$1,200	$1,200	$1,200
+St Munchin's Catholic School	GOSNELLS	$1,175	$1,175	$1,175	$1,175
+Carnarvon Christian School	CARNARVON	$1,158	$1,158	$1,158	$1,158
+St Patrick's School	KATANNING	$1,145	$1,145	$1,145	$1,145
+Leschenault Catholic Primary School	AUSTRALIND	$1,140	$1,140	$1,140	$1,140
+St Mary's Catholic Primary School	BUNBURY	$1,137	$1,137	$1,137	$1,137
+St Anne's School	HARVEY	$1,122	$1,122	$1,122	$1,122
+St Brigid's School	BRIDGETOWN	$1,113	$1,113	$1,113	$1,113
+St Joseph's School	QUEENS PARK	$1,100	$1,100	$1,100	$1,100
+St Mary MacKillop College	BUSSELTON	$1,084	$1,084	$1,084	$1,084
+St Matthew's School	NARROGIN	$1,040	$1,040	$1,040	$1,040
+St Joseph's School	KUNUNURRA	$1,032	$1,032	$1,032	$1,032
+St Thomas More Catholic Primary School	MARGARET RIVER	$1,020	$1,020	$1,020	$1,020
+St Brigid's School	COLLIE	$995	$995	$995	$995
+St Damien's Catholic Primary School	DAWESVILLE	$995	$995	$995	$995
+Mandurah Catholic College	MANDURAH	$979	$979	$979	$979
+St Joseph's School	WAROONA	$880	$880	$880	$880
+St John's School	GERALDTON	$860	$860	$860	$860
+St Vincent's School	PARMELIA	$840	$840	$840	$840
+Holy Rosary School	DERBY	$520	$520	$520	$520
+St Joseph's School	MOORA	$510	$510	$510	$510
+The Southport School	SOUTHPORT	$21,292	$23,376	$23,376
+St Hilda's School	SOUTHPORT	$19,377	$19,996	$19,996
+Somerset College	MUDGEERABA	$16,216	$16,216	$16,216
+A B Paterson College	ARUNDEL	$12,424	$12,424	$12,424
+Saint Stephen's College	COOMERA	$11,154	$11,154	$11,778
+Emmanuel College	CARRARA	$10,660	$10,880	$10,880
+Coomera Anglican College	COOMERA	$10,362	$10,362	$10,362
+Trinity Lutheran College	ASHMORE	$10,178	$10,178	$10,178
+All Saints Anglican School	MERRIMAC	$8,980	$9,654	$9,654
+Hillcrest Christian College	REEDY CREEK	$9,608	$10,024	$9,364
+St Andrew's Lutheran College	TALLEBUDGERA	$8,180	$8,980	$8,980
+Gold Coast Christian College	REEDY CREEK	$8,420	$7,920	$8,080
+Rivermount College	YATALA	$7,180	$7,380	$7,380
+Silkwood School	MOUNT NATHAN	$7,485	$7,230	$7,225
+Australian Industry Trade College	ROBINA			$7,020
+The Kooralbyn International School	KOORALBYN	$6,955	$6,955	$6,955
+Hills International College	JIMBOOMBA	$5,400	$5,400	$6,600
+Lutheran Ormeau Rivers District School	PIMPAMA	$5,812	$6,146	$6,146
+King's Christian College	REEDY CREEK	$6,088	$6,088	$6,088
+St Michael's College	MERRIMAC	$5,745	$5,914	$5,914
+Livingstone Christian College	ORMEAU	$5,490	$5,720	$5,890
+Aquinas College	ASHMORE	$4,740	$4,740	$5,070
+Emmaus College	JIMBOOMBA	$4,630	$5,030	$5,020
+Assisi Catholic College	UPPER COOMERA	$4,330	$4,940	$4,940
+Marymount College	BURLEIGH WATERS	$4,140	$4,224	$4,780
+The Southport School	SOUTHPORT	$14,164	$14,164	$17,904	$17,904
+St Hilda's School	SOUTHPORT	$12,501	$14,882	$16,852	$16,852
+Somerset College	MUDGEERABA	$14,432	$14,432	$14,432	$14,432
+A B Paterson College	ARUNDEL	$10,117	$10,117	$10,117	$10,117
+Saint Stephen's College	COOMERA	$8,324	$8,324	$9,422	$9,422
+Emmanuel College	CARRARA	$9,100	$9,100	$9,100	$9,100
+Trinity Lutheran College	ASHMORE	$8,565	$8,565	$8,565	$8,565
+All Saints Anglican School	MERRIMAC	$7,754	$7,754	$7,754	$7,754
+Coomera Anglican College	COOMERA	$7,372	$7,372	$7,372	$7,372
+Hillcrest Christian College	REEDY CREEK	$7,088	$7,088	$7,088	$7,088
+St Andrew's Lutheran College	TALLEBUDGERA	$6,460	$6,460	$6,820	$6,820
+Silkwood School	MOUNT NATHAN	$4,800	$4,950	$5,480	$6,450
+Rivermount College	YATALA	$5,940	$5,940	$5,940	$5,940
+Gold Coast Christian College	REEDY CREEK	$5,500	$5,500	$5,900	$5,900
+The Kooralbyn International School	KOORALBYN	$4,700	$4,700	$5,095	$5,095
+King's Christian College	REEDY CREEK	$5,092	$5,092	$5,092	$5,092
+Hills International College	JIMBOOMBA	$4,500	$4,500	$4,540	$4,540
+Lutheran Ormeau Rivers District School	PIMPAMA	$3,907	$3,907	$3,907	$3,907
+Livingstone Christian College	ORMEAU	$3,870	$3,870	$3,870	$3,870
+Guardian Angels' Catholic Primary School	ASHMORE	$3,534	$3,534	$3,534	$3,534
+St Kevin's School	BENOWA	$3,500	$3,500	$3,500	$3,500
+St Vincent's Primary School	CLEAR ISLAND WATERS	$3,440	$3,440	$3,440	$3,440
+Assisi Catholic College	UPPER COOMERA	$3,425	$3,425	$3,425	$3,425
+Emmaus College	JIMBOOMBA	$3,090	$3,090	$3,340	$3,340
+St Francis Xavier School	RUNAWAY BAY	$3,005	$3,005	$3,005	$3,005
+Mother Teresa Primary School	ORMEAU	$2,874	$2,874	$2,874	$2,874
+St Brigid's Catholic Primary School	NERANG	$2,745	$2,745	$2,745	$2,745
+St Mary's School	BEAUDESERT	$2,160	$2,160	$2,160	$2,160
+Jubilee Primary School	PACIFIC PINES	$2,092	$2,092	$2,092	$2,092
+Marymount Primary School	BURLEIGH WATERS	$1,644	$1,644	$1,644	$1,644
+All Saints' School	BOONAH	$970	$970	$970	$970
+Canberra Grammar School	RED HILL	$17,460	$17,460	$19,625	$20,500
+Canberra Girls Grammar School	DEAKIN	$15,400	$15,400	$17,200	$18,200
+Radford College	BRUCE	$12,230	$12,230	$13,640	$14,895
+Burgmann Anglican School	GUNGAHLIN	$10,100	$10,100	$10,100	$11,350
+Orana Steiner School	WESTON	$9,330	$9,075	$9,852	$10,212
+Canberra Montessori School	HOLDER	$11,200	$10,200	$10,200	$10,200
+Marist College Canberra	PEARCE			$7,907	$8,107
+Blue Gum Community School	HACKETT	$8,000	$8,000	$8,000	$8,000
+St Edmund's College Canberra	GRIFFITH			$6,720	$7,970
+Trinity Christian School	WANNIASSA	$7,938	$7,938	$7,938	$7,938
+Brindabella Christian College	LYNEHAM	$5,400	$5,320	$5,470	$6,414
+Emmaus Christian School	DICKSON	$5,503	$5,503	$6,033	$6,033
+Covenant Christian School	GORDON	$5,520	$5,520	$5,520	$5,520
+Canberra Christian School	MAWSON	$4,180	$4,180	$4,710	$4,710
+St Joseph's Primary School	O'CONNOR	$4,132	$4,132	$4,132	$4,132
+St Thomas the Apostle Primary School	KAMBAH	$3,828	$3,828	$3,828	$3,828
+St Monica's Primary School	EVATT	$3,819	$3,819	$3,819	$3,819
+St Thomas Aquinas Primary School	CHARNWOOD	$3,796	$3,796	$3,796	$3,796
+St Jude's Primary School	HOLDER	$3,728	$3,728	$3,728	$3,728
+Holy Trinity Primary School	CURTIN	$3,724	$3,724	$3,724	$3,724
+Sacred Heart Primary School	PEARCE	$3,692	$3,692	$3,692	$3,692
+St Thomas More's Primary School	CAMPBELL	$3,692	$3,692	$3,692	$3,692
+Mother Teresa School	HARRISON	$3,648	$3,648	$3,648	$3,648
+Rosary Primary School	WATSON	$3,644	$3,644	$3,644	$3,644
+Good Shepherd Primary School	AMAROO	$3,640	$3,640	$3,640	$3,640
+St John Vianney's Primary School	WARAMANGA	$3,636	$3,636	$3,636	$3,636
+Holy Spirit Primary School	NICHOLLS	$3,552	$3,552	$3,552	$3,552
+St Matthew's Primary School	PAGE	$3,552	$3,552	$3,552	$3,552
+Holy Family Primary School	GOWRIE	$3,532	$3,532	$3,532	$3,532
+St John the Apostle Primary School	FLOREY	$3,450	$3,450	$3,450	$3,450
+St Clare of Assisi Primary School	CONDER	$3,414	$3,414	$3,414	$3,414
+St Anthony's Parish Primary School	WANNIASSA	$3,389	$3,389	$3,389	$3,389
+St Benedict's Primary School	NARRABUNDAH	$3,057	$3,057	$2,879	$2,879
+St Francis of Assisi Primary School	CALWELL	$2,876	$2,876	$2,876	$2,876
+Islamic School of Canberra	WESTON	$2,400	$2,400	$2,400	$2,400
+Taqwa School	SPENCE	$1,500	$2,000	$2,000	
+Canberra Grammar School	RED HILL	$24,250	$24,250	$24,800
+Canberra Girls Grammar School	DEAKIN	$21,250	$22,050	$23,400
+Radford College	BRUCE	$17,600	$19,050	$18,730
+Orana Steiner School	WESTON	$12,956	$12,952	$13,342
+Marist College Canberra	PEARCE	$10,623	$11,773	$12,064
+Burgmann Anglican School	GUNGAHLIN	$11,350	$12,040	$12,040
+St Edmund's College Canberra	GRIFFITH	$9,940	$10,880	$11,200
+Trinity Christian School	WANNIASSA	$10,018	$10,018	$10,852
+St John Paul II College	NICHOLLS	$6,856	$6,960	$10,404
+Merici College	BRADDON	$7,957	$8,124	$9,703
+Daramalan College	DICKSON	$7,940	$8,500	$9,340
+Brindabella Christian College	LYNEHAM	$7,726	$8,676	$9,091
+St Francis Xavier College	FLOREY	$7,776	$7,914	$8,773
+St Mary MacKillop College	ISABELLA PLAINS	$6,523	$7,120	$7,802
+St Clare's College	GRIFFITH	$5,980	$6,236	$7,248
+Blue Gum Community School	HACKETT	$8,800	$8,800	
+Emmaus Christian School	DICKSON	$7,777	$8,322	
+Covenant Christian School	GORDON	$7,180	$7,180	
+The Friends' School	NORTH HOBART	$19,200	$19,200	$19,340
+St Michael's Collegiate School	HOBART	$17,400	$18,100	$18,200
+The Hutchins School	SANDY BAY	$18,120	$18,120	$18,120
+Fahan School	SANDY BAY	$16,880	$17,160	$17,560
+Launceston Church Grammar School	MOWBRAY	$15,800	$16,550	$16,550
+Leighland Christian School	ULVERSTONE	$5,385	$5,385	$6,315
+Launceston Christian School	RIVERSIDE	$4,940	$5,670	$6,100
+Calvin Christian School	KINGSTON	$5,510	$5,510	$5,951
+Guilford Young College	GLENORCHY			$5,087
+St Mary's College	HOBART	$4,450	$4,950	$4,950
+St Patrick's College	PROSPECT	$4,194	$4,194	$4,194
+Marist Regional College	BURNIE	$3,500	$3,500	$3,750
+St Brendan-Shaw College	DEVONPORT	$3,318	$3,452	$3,581
+Circular Head Christian School	SMITHTON	$3,104	$3,576	$3,576
+Geneva Christian College	LATROBE	$2,820	$2,820	$2,820
+Tarremah Steiner School	HUNTINGFIELD	$9,706	$9,706	
+St Virgil's College	AUSTINS FERRY	$5,815	$5,997	
+Newstead Christian School	NEWSTEAD	$4,990	$5,340	
+Dominic College	GLENORCHY	$4,550	$5,070	
+Southern Christian College	KINGSTON	$4,900	$4,900	
+Sacred Heart College	NEW TOWN	$4,200	$4,490	
+St Aloysius Catholic College	HUNTINGFIELD	$4,020	$4,205	
+Eastside Lutheran College	WARRANE	$4,040	$4,040	
+MacKillop Catholic College	MORNINGTON	$3,990	$3,990	
+Lambert School	NORTH HOBART	$3,800	$3,800	
+Mount Carmel College	SANDY BAY	$3,320	$3,610	
+Hilliard Christian School	WEST MOONAH	$3,390	$3,390	
+Australian Christian College	SOMERSET	$3,098	$3,098	
+North West Christian School	PENGUIN	$2,590	$2,590	
+St James Catholic College	CYGNET	$2,290	$2,290	
+Star of the Sea Catholic College	GEORGE TOWN	$2,273	$2,273	
+Emmanuel Christian School	ROKEBY	$1,200	$1,200	
+The Friends' School	NORTH HOBART	$10,940	$12,280	$12,280	$16,240
+The Hutchins School	SANDY BAY	$10,860	$11,480	$12,980	$14,480
+St Michael's Collegiate School	HOBART	$9,900	$10,800	$11,000	$14,300
+Fahan School	SANDY BAY	$9,440	$9,920	$10,800	$13,520
+Launceston Church Grammar School	MOWBRAY	$9,000	$10,000	$12,200	$12,550
+Tarremah Steiner School	HUNTINGFIELD	$7,686	$7,686	$7,686	$7,686
+The Cottage School	BELLERIVE	$7,420	$7,420	$7,420	$7,420
+The Launceston Preparatory School	LAUNCESTON	$7,160	$7,160	$7,160	$7,160
+Leighland Christian School	ULVERSTONE	$2,700	$2,700	$4,260	$5,385
+St Virgil's College	AUSTINS FERRY			$4,025	$5,225
+Calvin Christian School	KINGSTON	$4,408	$4,408	$4,684	$4,648
+Peregrine	NICHOLLS RIVULE	$4,340	$4,340	$4,340	$4,340
+Newstead Christian School	NEWSTEAD	$3,860	$3,860	$4,200	$4,200
+Launceston Christian School	RIVERSIDE	$4,120	$4,120	$4,120	$4,120
+Dominic College	GLENORCHY	$2,750	$3,490	$3,490	$3,950
+Lambert School	NORTH HOBART	$3,800	$3,800	$3,800	$3,800
+Devonport Christian School	DON	$2,550	$2,550	$3,800	$3,800
+Southern Christian College	KINGSTON	$3,460	$3,460	$3,460	$3,460
+St Mary's College	HOBART	$3,050	$3,050	$3,400	$3,400
+Sacred Heart College	NEW TOWN	$2,770	$2,800	$2,960	$3,150
+Circular Head Christian School	SMITHTON	$2,100	$2,100	$2,708	$3,104
+Eastside Lutheran College	WARRANE	$1,340	$3,040	$3,040	$3,040
+Mount Carmel College	SANDY BAY	$2,422	$2,422	$2,921	$2,921
+Australian Christian College	SOMERSET	$2,835	$2,835	$2,835	$2,835
+Geneva Christian College	LATROBE	$2,820	$2,820	$2,820	$2,820
+St Aloysius Catholic College	HUNTINGFIELD	$1,955	$2,210	$2,445	$2,655
+Hilliard Christian School	WEST MOONAH	$2,358	$2,358	$2,358	$2,358
+St Thomas More's Catholic School	NEWSTEAD	$1,807	$1,866	$1,821	$2,171
+Immaculate Heart of Mary Catholic School	LENAH VALLEY	$1,880	$1,880	$1,987	$2,094
+Larmenier Catholic School	ST LEONARDS	$1,833	$1,923	$2,033	$2,073
+Corpus Christi Catholic School	BELLERIVE	$1,980	$1,940	$1,990	$2,050
+Our Lady of Mercy Catholic School	DELORAINE	$1,913	$1,913	$1,913	$1,913
+John Paul II Catholic School	CLARENDON VALE	$1,747	$1,747	$1,872	$1,887
+St Therese's Catholic School	MOONAH	$1,723	$1,723	$1,813	$1,883
+St Anthony's Catholic School	RIVERSIDE	$1,816	$1,816	$1,816	$1,816
+St James Catholic College	CYGNET	$1,556	$1,556	$1,556	$1,814
+North West Christian School	PENGUIN	$1,790	$1,790	$1,790	$1,790
+Star of the Sea Catholic College	GEORGE TOWN	$1,711	$1,711	$1,711	$1,711
+St Brigid's Catholic School	WYNYARD	$1,705	$1,705	$1,705	$1,705
+Our Lady of Lourdes Catholic School	DEVONPORT	$1,595	$1,595	$1,595	$1,595
+Sacred Heart Catholic School	GEEVESTON	$1,460	$1,580	$1,580	$1,580
+St Finn Barr's Catholic Primary School	INVERMAY	$1,579	$1,579	$1,579	$1,579
+St Patrick's Catholic School	LATROBE	$1,570	$1,570	$1,570	$1,570
+St Joseph's Catholic School	QUEENSTOWN	$1,546	$1,546	$1,546	$1,546
+Holy Rosary Catholic School	CLAREMONT	$1,530	$1,530	$1,530	$1,530
+Sacred Heart Catholic School	ULVERSTONE	$1,525	$1,525	$1,525	$1,525
+St Brigid's Catholic School	NEW NORFOLK	$1,520	$1,520	$1,520	$1,520
+Stella Maris Catholic School	BURNIE	$1,405	$1,405	$1,405	$1,405
+Emmanuel Christian School	ROKEBY	$1,200	$1,200	$1,200	$1,200
+Northern Christian School	BRIDGEWATER	$1,200	$1,200	$1,200	$1,200
+Channel Christian School	MARGATE	$1,200	$1,200	$1,200	$1,200
+St Paul's Catholic School	BRIDGEWATER	$1,100	$1,100	$1,100	$1,100

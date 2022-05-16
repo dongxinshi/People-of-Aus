@@ -5,6 +5,9 @@
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.2.0/dist/leaflet.css">
 <script src="https://unpkg.com/leaflet@1.2.0/dist/leaflet-src.js"></script>
 
+<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.11.2/css/all.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
@@ -957,100 +960,89 @@ label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-
                                     <button class="btn btn-secondary btn-block" id="searchButton" onclick="onSearchResultsClick()">Search Results</button>
                                 </div>
                             </div>
-                        </div>
-
-                        <div class="mt-3">
-                        
-                            <a data-toggle="collapse-list" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" class="advanced"><b>
-								More Search Options</b><i class="fa fa-angle-down"></i>
-                            </a>
-                            
-                            <div class="collapse-list" id="collapseExample">
-                                <div class="card card-body">
-                                    <div class="row">
-                                        <div class="col-md-3">
-                                            <label class="control-label">School Sector</label>
-                                            <div id = "sector">
-                                                <div class="form-check">
-                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckGovernment" checked onclick="updateSectorChecks()">
-                                                    <label class="form-check-label" for="flexCheckChecked">
-                                                        Government
-                                                    </label>
-                                                </div>
-                                                <div class="form-check">
-                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckIndependent" checked onclick="updateSectorChecks()">
-                                                    <label class="form-check-label" for="flexCheckChecked">
-                                                        Independent
-                                                    </label>
-                                                </div>
-                                                <div class="form-check">
-                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckCatholic" checked onclick="updateSectorChecks()">
-                                                    <label class="form-check-label" for="flexCheckChecked">
-                                                        Catholic
-                                                    </label>
-                                                </div>
+                            <br>
+                            <div class="row">
+                                    <div class="col-md-3">
+                                        <label class="control-label">School Sector</label>
+                                        <div id = "sector">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value="" id="flexCheckGovernment" checked onclick="updateSectorChecks('flexCheckGovernment')">
+                                                <label class="form-check-label" for="flexCheckChecked">
+                                                    Government
+                                                </label>
                                             </div>
-                                        </div>
-                                        <div class="col-md-3">
-                                            <div id="type">
-                                                <label id= "ting" class="control-label">School Type</label>
-                                                <div class="form-check">
-                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckPrimary" checked onclick="updateTypeChecks()">
-                                                    <label class="form-check-label" for="flexCheckChecked">
-                                                        Primary
-                                                    </label>
-                                                </div>
-                                                <div class="form-check">
-                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckSecondary" checked onclick="updateTypeChecks()">
-                                                    <label class="form-check-label" for="flexCheckChecked">
-                                                        Secondary
-                                                    </label>
-                                                </div>
-                                                <div class="form-check">
-                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckCombined" checked onclick="updateTypeChecks()">
-                                                    <label class="form-check-label" for="flexCheckChecked">
-                                                        Combined
-                                                    </label>
-                                                </div>
-                                                <div class="form-check">
-                                                    <input class="form-check-input" type="checkbox" value="" id="flexCheckSpecial" checked onclick="updateTypeChecks()">
-                                                    <label class="form-check-label" for="flexCheckChecked">
-                                                        Special
-                                                    </label>
-                                                </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value="" id="flexCheckIndependent" checked onclick="updateSectorChecks('flexCheckIndependent')">
+                                                <label class="form-check-label" for="flexCheckChecked">
+                                                    Independent
+                                                </label>
                                             </div>
-                                        </div>
-                                        
-                                        <div class="col-md-3">
-                                            <label for="education" class="control-label">School Education Quality</label>
-                                            <div class="selector">
-                                                <div class="price-slider">
-                                                    <div id="education-slider" class="ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content">
-                                                        <div class="ui-education-slider ui-corner-all"></div>
-                                                        <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default" style = "left:100%"></span><span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default" ></span>
-                                                    </div>
-                                                    <span id="education-value" data-max="50"  class="slider-price">Top 100% of schools</span>
-                                                </div> 
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value="" id="flexCheckCatholic" checked onclick="updateSectorChecks('flexCheckCatholic')">
+                                                <label class="form-check-label" for="flexCheckChecked">
+                                                    Catholic
+                                                </label>
                                             </div>
-                                        </div>
-
-                                        <div class="col-md-3">
-                                            <label for="radius" class="control-label">School Distance</label>
-                                            <div class="selector">
-                                                <div class="price-slider">
-                                                    <div id="distance-slider" class="ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content">
-                                                        <div class="ui-distance-slider ui-corner-all"></div>
-                                                        <div class="inputWrap hidden"><input class="inputNumber" type="text" value="5"></div>
-                                                        <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span><span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span>
-                                                    </div>
-                                                    <span id="distance-value" data-max="50" class="slider-price">Up to 10km away</span>
-                                                </div> 
-                                            </div>
-                                            
                                         </div>
                                     </div>
+                                    <div class="col-md-3">
+                                        <div id="type">
+                                            <label id= "ting" class="control-label">School Type</label>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value="" id="flexCheckPrimary" checked onclick="updateTypeChecks()">
+                                                <label class="form-check-label" for="flexCheckChecked">
+                                                    Primary
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value="" id="flexCheckSecondary" checked onclick="updateTypeChecks()">
+                                                <label class="form-check-label" for="flexCheckChecked">
+                                                    Secondary
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value="" id="flexCheckCombined" checked onclick="updateTypeChecks()">
+                                                <label class="form-check-label" for="flexCheckChecked">
+                                                    Combined
+                                                </label>
+                                            </div>
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" value="" id="flexCheckSpecial" checked onclick="updateTypeChecks()">
+                                                <label class="form-check-label" for="flexCheckChecked">
+                                                    Special
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="col-md-3">
+                                        <label for="education" class="control-label">School Education Quality</label>
+                                        <div class="selector">
+                                            <div class="price-slider">
+                                                <div id="education-slider" class="ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content">
+                                                    <div class="ui-education-slider ui-corner-all"></div>
+                                                    <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default" style = "left:100%"></span><span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default" ></span>
+                                                </div>
+                                                <span id="education-value" data-max="50"  class="slider-price">Top 100% of schools</span>
+                                            </div> 
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-3">
+                                        <label for="radius" class="control-label">School Distance</label>
+                                        <div class="selector">
+                                            <div class="price-slider">
+                                                <div id="distance-slider" class="ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content">
+                                                    <div class="ui-distance-slider ui-corner-all"></div>
+                                                    <div class="inputWrap hidden"><input class="inputNumber" type="text" value="5"></div>
+                                                    <span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span><span tabindex="0" class="ui-slider-handle ui-corner-all ui-state-default"></span>
+                                                </div>
+                                                <span id="distance-value" data-max="50" class="slider-price">Up to 10km away</span>
+                                            </div> 
+                                        </div>
+                                        
+                                    </div>
                                 </div>
-                            </div>
                         </div>
                         <br>
                         <div id="searchResults"></div>
@@ -1103,23 +1095,28 @@ label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-
     var sectorList = ["Government","Independent","Catholic"];
     var typeList = ["Primary","Secondary","Combined","Special"];
 
-    function updateSectorChecks(){    
+    function updateSectorChecks(id){    
+        console.log(document.getElementById(id).checked)
+
+        
         sectorList = []
-        sectorCheck = document.getElementById('sector').children
+        sectorCheck = ["Government","Independent","Catholic"]
+
         for (i = 0; i < sectorCheck.length; i++) {
-            if (document.getElementById("flexCheck" + sectorCheck[i].innerText).checked) {
-                typeList.push(sectorCheck[i].innerText)
+
+            if (document.getElementById("flexCheck" + sectorCheck[i]).checked) {
+                sectorList.push(sectorCheck[i])
             }
         }
 
     }
 
-    function updateTypeChecks(){    
+    function updateTypeChecks(id){    
         typeList = []
-        typeCheck = document.getElementById('type').children
+        typeCheck = ["Primary","Secondary","Combined","Special"]
         for (i = 1; i < typeCheck.length; i++) {
-            if (document.getElementById("flexCheck" + typeCheck[i].innerText).checked) {
-                typeList.push(typeCheck[i].innerText)
+            if (document.getElementById("flexCheck" + typeCheck[i]).checked) {
+                typeList.push(typeCheck[i])
             }
         }
 
@@ -1276,6 +1273,7 @@ label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-
 
     return json;
     }
+
 
     // search functionality based on 
     function searchFunction() {
@@ -1510,6 +1508,20 @@ label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-
         document.body.scrollTop = document.documentElement.scrollTop = 0;
     }
 
+
+    costMap = {
+        Government: "500",
+        Catholic: "1375",
+        Independent: "22473"
+    }
+
+    function separator(num) {
+        var str = num.toString().split(".");
+        str[0] = str[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        return str.join(".");
+    }
+
+
     function onSearchResultsClick() {
         arr = {};
 
@@ -1549,7 +1561,8 @@ label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-
 					document.getElementById("searchResults").innerHTML = "<div class='well'>" + "<br>" + "<b>No Results Found... </b>" + "</div>"
 				}
 				else{
-				
+
+                
                 
                 var elementCounter = 0;
 				
@@ -1567,14 +1580,21 @@ label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-
                     maxPageNo = Math.ceil(schoolData.length)
 
 					for (i = pageNo*10; i < schoolData.length; i++) {
+
+                        if(schoolData[i].school_cost == null){
+                            var cost = costMap[schoolData[i].school_sector]
+                        }
+                        else{
+                            var cost = schoolData[i].school_cost
+                        }
                         elementCounter += 1
 
 						document.getElementById('searchResults').innerHTML += "<div class='well' id='result'><p style = 'font-size:18px' >" + " <b> " + schoolData[i].school_name + " </b>" + 
 							"<br></p> <b>Location: </b>" + schoolData[i].suburb + ", " + schoolData[i].state + ", " + schoolData[i].postcode + "<br><b>School Type: </b>" + schoolData[i].school_type + "<br><b>School Sector: </b>" 
 							+ schoolData[i].school_sector + "<br><b>Year Level Range: </b>" + schoolData[i].school_range 
-							+ "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div>" + "<br><b>This school ranks in the top " + (100-schoolData[i].education_percentile) + "% of schools in Australia<" + "<br><b>Local Area From " + country + ": </b>" + schoolData[i].country.toFixed(2) + "%"
-							+ "<br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "<br><b> School URL: </b> <a href = " + schoolData[i].school_url 
-							+ " target ='_blank'>" + schoolData[i].school_url + "</p></details></div>"
+							+ "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div>" + "<br><b>This school ranks in the top " + (100-schoolData[i].education_percentile) + "% of schools in Australia" + "<br><b>Local Area From " + country + ": </b>" + schoolData[i].country.toFixed(2) + "%"
+                            + "<br><b>Annual School Fees: </b>$" + separator(Math.round(cost))+ "<br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "<br><b> School URL: </b> <a href = " + schoolData[i].school_url 
+							+ " target ='_blank'>" + schoolData[i].school_url + "</p></details></a>" + "<details ><summary onclick='schoolMap(" + i + ")'>  Show School Location</summary><p>" + "<div id='map" + schoolData[i].acara_sml_id + "' style='width: 600px; height: 400px;'></div></details>" + "</div>"
 
                         if (elementCounter == 10){
                             break;
@@ -1587,14 +1607,22 @@ label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-
                     maxPageNo = Math.ceil(schoolData.length)
 
                     for (i = pageNo*10; i < schoolData.length; i++) {
+
+                        if(schoolData[i].school_cost == null){
+                            var cost = costMap[schoolData[i].school_sector]
+                        }
+                        else{
+                            var cost = schoolData[i].school_cost
+                        }
+
                         elementCounter += 1
 
                         document.getElementById('searchResults').innerHTML += "<div class='well' id='result'><p style = 'font-size:18px' >" + " <b> " + schoolData[i].school_name + " </b>" + 
 							"<br></p> <b>Location: </b>" + schoolData[i].suburb + ", " + schoolData[i].state + ", " + schoolData[i].postcode + "<br><b>School Type: </b>" + schoolData[i].school_type + "<br><b>School Sector: </b>" 
 							+ schoolData[i].school_sector + "<br><b>Year Level Range: </b>" + schoolData[i].school_range 
 							+ "<details ><summary onclick='showPlots(" + i + ")'> <b> More School Information </b></summary><p>" + "<div id='my_dataviz" + i + "'></div>" + "<br><b>This school ranks in the top " + (100-schoolData[i].education_percentile) + "% of schools in Australia</b>"
-							+ "<br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "<br><b> School URL: </b> <a href = " + schoolData[i].school_url 
-							+ " target ='_blank'>" + schoolData[i].school_url + "</p></details></div>"
+                            + "<br><b>Annual School Fees: </b>$" + separator(Math.round(cost))+ "<br><b>Total Teaching Staff: </b>" + schoolData[i].teaching_staff + "<br><b>Total Students: </b>" + schoolData[i].total_enrolments + "<br><b> School URL: </b> <a href = " + schoolData[i].school_url 
+							+ " target ='_blank'>" + schoolData[i].school_url + "</p></details></a>" + "<details ><summary onclick='schoolMap(" + i + ")'> <b> Show School Location</b></summary><p>" + "<div id='map" + schoolData[i].acara_sml_id + "' style='width: 600px; height: 400px;'></div></details>" + "</div>"
                         
                         if (elementCounter == 10){
                             break;
@@ -1662,6 +1690,8 @@ label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-
             var div = d3.select("body").append("div")
             .attr("class", "tooltip-donut")
             .style("opacity", 0);
+
+
         var path = svg.selectAll('path')
             .data(pie(totals))
             .enter()
@@ -1702,7 +1732,7 @@ label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-
                 div.transition()
                     .duration('50')
                     .style("opacity", 0);
-            });
+            })
 
 
         var legend = svg.selectAll('.legend')
@@ -1882,7 +1912,6 @@ label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-
 
     }
 
-
     function buildBarChart(i){
         
         allData = schoolData[i].bottom_percentile + schoolData[i].lower_middle_percentile + schoolData[i].upper_middle_percentile + schoolData[i].top_percentile
@@ -2029,17 +2058,226 @@ label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-
         schoolId = schoolData[i].acara_sml_id
         timeSeriesData = getSchoolTimeSeriesData(schoolId)
 
+
+
+
+
+
         timeSeriesData.then(function (result) {
 
-            timeSeriesData = result
-            console.log(result)
+                var data = result;
+                if(data.length>0){
+                    minYear = data[0].calendar_year
+                maxYear = data.slice(-1)[0].calendar_year
+                
+                var margin = {top: 60, right: 330, bottom: 30, left: 60},
+                    width = 800 - margin.left - margin.right,
+                    height = 310 - margin.top - margin.bottom;
+
+
+                var color = d3.scaleOrdinal()
+                    .range(["#b7b7b7", "#F7BF50"]);
+
+                // append the svg object to the body of the page
+                var svg = d3.select("#my_dataviz" + i)
+                .append("svg")
+                    .attr("width", width + margin.left + margin.right)
+                    .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                    .attr("transform",
+                        "translate(" + margin.left + "," + margin.top + ")");
+
+                var allGroup = ["icsea_percentile", "language_background_other_than_english_yes"]
+
+                
+                var dataReady = allGroup.map( function(grpName) { // .map allows to do something for each element of the list
+                return {
+                    name: grpName,
+                    values: data.map(function(d) {
+                    return {time: d.calendar_year, value: +d[grpName]};
+                    })
+                };
+                });
+                
+
+                var myColor = d3.scaleOrdinal()
+                .domain(allGroup)
+                .range(["#b7b7b7", "#F7BF50"]);
+
+                // Add X axis --> it is a date format
+                var x = d3.scaleLinear()
+                    .domain([minYear,maxYear])
+                    .range([ 0, width ]);
+                svg.append("g")
+                    .attr("transform", "translate(0," + height + ")")
+                    .call(d3.axisBottom(x).ticks(10).tickFormat(d3.format("d")));
+
+                // Add Y axis
+                var y = d3.scaleLinear()
+                    .domain([0,100])
+                    .range([ height, 0 ]);
+                svg.append("g")
+                    .call(d3.axisLeft(y));
+
+                    // Add Gridlines
+                svg.append("g")
+                    .attr("class", "grid")
+                    .call(d3.axisLeft(y)
+                            .tickSize(-width)
+                            .tickFormat("")
+                    );
+
+
+                // Add the lines
+                var line = d3.line()
+                .x(function(d) { return x(+d.time) })
+                .y(function(d) { return y(+d.value) })
+                svg.selectAll("myLines")
+                .data(dataReady)
+                .enter()
+                .append("path")
+                    .attr("class", function(d){ return d.name })
+                    .attr("d", function(d){ return line(d.values) } )
+                    .attr("stroke", function(d){ return myColor(d.name) })
+                    .style("stroke-width", 4)
+                    .style("fill", "none")
+
+                var donutTip = d3.select("body").append("div")
+                .attr("class", "donut-tip")
+                .style("opacity", 0);
+
+                var div = d3.select("body").append("div")
+                .attr("class", "tooltip-donut")
+                .style("opacity", 0);
+
+                // Add the points
+                svg
+                .selectAll("myDots")
+                .data(dataReady)
+                .enter()
+                    .append('g')
+                    .style("fill", function(d){ return myColor(d.name) })
+                    .attr("class", function(d){ return d.name })
+                // Second we need to enter in the 'values' part of this group
+                .selectAll("myPoints")
+                .data(function(d){ return d.values })
+                .enter()
+                .append("circle")
+                    .attr("cx", function(d) { return x(d.time) } )
+                    .attr("cy", function(d) { return y(d.value) } )
+                    .attr("r", 5)
+                    
+                .on('mouseover', function (d, i) {
+                    d3.select(this).transition()
+                        .duration('50')
+                        .attr('opacity', '.7')
+                        .attr("r", 8);
+                    div.transition()
+                        .duration(50)
+                        .style("opacity", 1);
+                    let num = (d.value.toString());
+                    div.html(num)
+                        .style("left", (d3.event.pageX + 10) + "px")
+                        .style("top", (d3.event.pageY - 15) + "px");
+                })
+                .on('mousemove', function (d, i) {
+                    d3.select(this).transition()
+                        .duration('50')
+                        .attr('opacity', '.7')
+                        .attr("r", 8);
+                    div.transition()
+                        .duration(50)
+                        .style("opacity", 1);
+                    let num = (d.value.toString());
+                    div.html(num)
+                        .style("left", (d3.event.pageX + 10) + "px")
+                        .style("top", (d3.event.pageY - 15) + "px");
+                })
+                .on('mouseout', function (d, i) {
+                    d3.select(this).transition()
+                        .duration('50')
+                        .attr('opacity', '1')
+                        .attr("r", 5);
+                    div.transition()
+                        .duration('50')
+                        .style("opacity", 0);
+                })
+
+                var legend = svg.selectAll('.legend')
+                    .data(color.domain())
+                    .enter()
+                    .append('g')
+                    .attr('class', 'circle-legend')
+                    .attr('transform', function (d, i) {
+                        var height = legendRectSize + legendSpacing;
+                        var offset = height * color.domain().length / 2;
+                        var horz = -2 * legendRectSize - 13;
+                        var vert = i * height - offset;
+                        return 'translate(' + horz + ',' + vert + ')';
+                    });
+
+                svg.append("circle").attr("cx",450).attr("cy",20).attr("r", 6).style("fill", "#b7b7b7")
+                svg.append("circle").attr("cx",450).attr("cy",50).attr("r", 6).style("fill", "#F7BF50")
+                svg.append("text").attr("x", 470).attr("y", 20).text("Australian School Educational Ranking").style("font-size", "15px").attr("alignment-baseline","middle").style("font-size", "12px")
+                svg.append("text").attr("x", 470).attr("y", 50).text("Students With A Non-English").style("font-size", "15px").attr("alignment-baseline","middle").style("font-size", "12px")
+				svg.append("text").attr("x", 470).attr("y", 70).text("Speaking Background (%)").style("font-size", "15px").attr("alignment-baseline","middle").style("font-size", "12px")
+
+                legend.append('text')
+                    .attr('x', 10)
+                    .attr('y', 20)
+                    .style("font-size", "12px")
+                    .text(function (d) {
+                        return d;
+                    });
+
+
+                svg.append("text")
+                    .attr("x", 200)             
+                    .attr("y", -20)
+                    .attr("text-anchor", "middle")  
+                    .style("font-size", "16px") 
+                    .text("School Demographic Changes Over Time");
+                }
+                
+                
         })
+    }
+
+    var schoolMarker = L.AwesomeMarkers.icon({
+        iconColor: 'darkred',
+        prefix: 'fa',
+        markerColor: 'red'
+    });
+
+
+    function schoolMap(i){
 
         
         
-       
-    
+
+        lat = schoolData[i].latitude
+        lon = schoolData[i].longitude
+
+        window['map'+schoolData[i].acara_sml_id] = L.map(window['map'+schoolData[i].acara_sml_id],{ zoomControl: false }).setView([lat, lon], 12);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+        minZoom: 13,
+        maxZoom: 13
+    }).addTo(window['map'+schoolData[i].acara_sml_id]);
+
+        marker = L.marker([lat, lon], {
+            icon: schoolMarker
+            }).addTo(window['map'+schoolData[i].acara_sml_id]);
+
+
+        var popup = marker.bindPopup(schoolData[i].school_name);
+
+        popup.openPopup();
+
+        window['map'+schoolData[i].acara_sml_id].dragging.disable();
     }
+
 
     function showPlots(i){
 
@@ -2080,8 +2318,9 @@ label.col-sm-2.control-label {font-family: var( --e-global-typography-text-font-
                     schoolData = result
                     document.getElementById('my_dataviz' + i).innerHTML = ""
                     buildSexDonut(i)
-                    buildBarChart(i)
+
                     buildEthnicDonut(i)
+
                     buildTimeSeries(i)
                 })
                 

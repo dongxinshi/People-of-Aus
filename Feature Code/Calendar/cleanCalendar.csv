@@ -1,0 +1,214 @@
+,TYPE,Date,Holiday Name,Information,More Information,Jurisdiction
+0,vevent,20220101,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+1,vevent,20220103,New Year's Day (additional day),"As 1 January 2022 falls on a Saturday in 2022, the following Monday is observed as an additional public holiday.",https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+2,vevent,20220126,Australia Day,Always celebrated on 26 January,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+3,vevent,20220314,Canberra Day,Held on the second Monday of March each year in Canberra to celebrate the naming ceremony of Australia's capital which took place on 12 March 1913.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+4,vevent,20220415,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+5,vevent,20220416,Easter Saturday,Easter Saturday is between Good Friday and Easter Sunday in Australia.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+6,vevent,20220417,Easter Sunday,Public Holiday as part of Easter.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+7,vevent,20220418,Easter Monday,Public Holiday as part of Easter.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+8,vevent,20220425,Anzac Day,Celebrated on the 25 April each year.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+9,vevent,20220530,Reconciliation Day,Takes place on the first Monday on or after 27 May each year the anniversary of the 1967 referendum,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+10,vevent,20220613,Queen's Birthday,Celebrated on second Monday in June except in Western Australia and Queensland.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+11,vevent,20221003,Labour Day,Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+12,vevent,20221225,Christmas Day ,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+13,vevent,20221226,Boxing Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+14,vevent,20221227,Christmas (additional day),"As 25 December (Christmas Day) falls on a Sunday in 2022, there is an additional public holiday on the Tuesday.",https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+15,vevent,20220101,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-in-nsw/,New South Wales
+16,vevent,20220103,New Year's Day (additional day),New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-in-nsw/,New South Wales
+17,vevent,20220126,Australia Day,Always celebrated on 26 January,https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-in-nsw/,New South Wales
+18,vevent,20220415,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-in-nsw/,New South Wales
+19,vevent,20220416,Easter Saturday - the Saturday following Good Friday,Easter Saturday is between Good Friday and Easter Sunday in Australia.,https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-in-nsw/,New South Wales
+20,vevent,20220417,Easter Sunday,Public Holiday as part of Easter.,https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-in-nsw/,New South Wales
+21,vevent,20220418,Easter Monday,Public Holiday as part of Easter.,https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-in-nsw/,New South Wales
+22,vevent,20220425,Anzac Day,Celebrated on the 25 April each year.,https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-in-nsw/,New South Wales
+23,vevent,20220613,Queen's Birthday,Celebrated on second Monday in June except in Western Australia and Queensland.,https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-in-nsw/,New South Wales
+24,vevent,20220801,Bank Holiday,"Applies to banks and certain financial institutions, per the Retail Trading Act 2008",https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-in-nsw/,New South Wales
+25,vevent,20221003,Labour Day,"Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-in-nsw/,New South Wales
+26,vevent,20221225,Christmas Day ,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-in-nsw/,New South Wales
+27,vevent,20221226,Boxing Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-in-nsw/,New South Wales
+28,vevent,20221227,Christmas (additional day),As 25 December (Christmas Day) falls on a Sunday in 2022 there is an additional public holiday on the Tuesday.,https://www.industrialrelations.nsw.gov.au/public-holidays/public-holidays-in-nsw/,New South Wales
+29,vevent,20220103,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://nt.gov.au/nt-public-holidays,Northern Territory
+30,vevent,20220126,Australia Day,Always celebrated on 26 January,https://nt.gov.au/nt-public-holidays,Northern Territory
+31,vevent,20220415,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://nt.gov.au/nt-public-holidays,Northern Territory
+32,vevent,20220416,Easter Saturday,Easter Saturday is between Good Friday and Easter Sunday in Australia.,https://nt.gov.au/nt-public-holidays,Northern Territory
+33,vevent,20220418,Easter Monday,Public Holiday as part of Easter.,https://nt.gov.au/nt-public-holidays,Northern Territory
+34,vevent,20220425,Anzac Day,Celebrated on the 25 April each year.,https://nt.gov.au/nt-public-holidays,Northern Territory
+35,vevent,20220502,May Day,"Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",https://nt.gov.au/nt-public-holidays,Northern Territory
+36,vevent,20220613,Queen's Birthday,Celebrated on second Monday in June except in Western Australia and Queensland.,https://nt.gov.au/nt-public-holidays,Northern Territory
+37,vevent,20220801,Picnic Day,"Observed on the first Monday of August each year and is clebrated with a horse race, railway picnic and other social outings",https://nt.gov.au/nt-public-holidays,Northern Territory
+38,vevent,20221224,Christmas Eve 7pm - midnight,Part-day public holiday from 7pm-12 midnight,https://nt.gov.au/nt-public-holidays,Northern Territory
+39,vevent,20221225,Christmas Day ,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://nt.gov.au/nt-public-holidays,Northern Territory
+40,vevent,20221226,Boxing Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://nt.gov.au/nt-public-holidays,Northern Territory
+41,vevent,20221227,Christmas (additional day),"As 25 December (Christmas Day) falls on a Sunday in 2022, there is an additional public holiday on the Tuesday.",https://nt.gov.au/nt-public-holidays,Northern Territory
+42,vevent,20221231,New Year's Eve 7pm - midnight,Part-day public holiday from 7pm-12 midnight,https://nt.gov.au/nt-public-holidays,Northern Territory
+43,vevent,20220101,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+44,vevent,20220103,New Year's Day (additional day),"As 1 January 2022 falls on a Saturday in 2022, the following Monday is observed as an additional public holiday.",https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+45,vevent,20220126,Australia Day,Always celebrated on 26 January,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+46,vevent,20220415,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+47,vevent,20220416,The day after Good Friday,Easter Saturday is between Good Friday and Easter Sunday in Australia.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+48,vevent,20220417,Easter Sunday,Public Holiday as part of Easter.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+49,vevent,20220418,Easter Monday,Public Holiday as part of Easter.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+50,vevent,20220425,Anzac Day,Celebrated on the 25 April each year.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+51,vevent,20220502,Labour Day,"Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+52,vevent,20221003,Queen's Birthday,Celebrated on second Monday in June except in Western Australia and Queensland.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+53,vevent,20221224,Christmas Eve 6pm - Midnight,Part day public holiday from 6pm to midnight,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+54,vevent,20221225,Christmas Day ,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+55,vevent,20221226,Boxing Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+56,vevent,20221227,Christmas (additional day),"As 25 December (Christmas Day) falls on a Sunday in 2022, there is an additional public holiday on the Tuesday.",https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+57,vevent,20220103,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+58,vevent,20220126,Australia Day,Always celebrated on 26 January,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+59,vevent,20220314,Adelaide Cup Day,The Holidays Act 1910 provides for the third Monday in May to be a public holiday. ch through the issuing of a special Proclamation by the Governor.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+60,vevent,20220415,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+61,vevent,20220416,Easter Saturday,Easter Saturday is between Good Friday and Easter Sunday in Australia.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+62,vevent,20220418,Easter Monday,Public Holiday as part of Easter.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+63,vevent,20220425,Anzac Day,Celebrated on the 25 April each year.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+64,vevent,20220613,Queen's Birthday / Volunteer's Day,Celebrated on second Monday in June except in Western Australia and Queensland.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+65,vevent,20221003,Labour Day,"Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+66,vevent,20221224,Christmas Eve 7pm - midnight,Part-day public holiday from 7pm-12 midnight,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+67,vevent,20221225,Christmas Day ,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+68,vevent,20221226,Boxing Day / Proclamation Day,Proclamation/Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+69,vevent,20221227,Christmas (additional day),"As 25 December (Christmas Day) falls on a Sunday in 2022, there is an additional public holiday on the Tuesday.",https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+70,vevent,20221231,New Year's Eve 7pm  - midnight,Part-day public holiday from 7pm-12 midnight,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+71,vevent,20220103,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+72,vevent,20220126,Australia Day,Always celebrated on 26 January,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+73,vevent,20220314,Eight Hours Day,"Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+74,vevent,20220415,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+75,vevent,20220418,Easter Monday,Public Holiday as part of Easter.,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+76,vevent,20220419,Easter Tuesday,Public Holiday currently observed by certain awards/agreements and the State Public Service,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+77,vevent,20220425,Anzac Day,Celebrated on the 25 April each year.,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+78,vevent,20220613,Queen's Birthday,Celebrated on second Monday in June except in Western Australia and Queensland.,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+79,vevent,20221225,Christmas Day,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+80,vevent,20221226,Boxing Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+81,vevent,20221227,Christmas (additional day),"As 25 December (Christmas Day) falls on a Sunday in 2022, there is an additional public holiday on the Tuesday.",https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+82,vevent,20220101,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022,Victoria
+83,vevent,20220103,New Year's Day (additional day),"As 1 January 2022 falls on a Saturday in 2022, the following Monday is observed as an additional public holiday.",https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022,Victoria
+84,vevent,20220126,Australia Day,Always celebrated on 26 January,https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022,Victoria
+85,vevent,20220314,Labour Day,"Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022,Victoria
+86,vevent,20220415,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022,Victoria
+87,vevent,20220416,Saturday before Easter Sunday,Easter Saturday is between Good Friday and Easter Sunday in Australia.,https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022,Victoria
+88,vevent,20220417,Easter Sunday,Public Holiday as part of Easter.,https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022,Victoria
+89,vevent,20220418,Easter Monday,Public Holiday as part of Easter.,https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022,Victoria
+90,vevent,20220425,Anzac Day,Celebrated on the 25 April each year.,https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022,Victoria
+91,vevent,20220613,Queen's Birthday,Celebrated on second Monday in June except in Western Australia and Queensland.,https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022,Victoria
+92,vevent,20221101,Melbourne Cup,All of Victoria unless alternate local holiday has been arranged by non-metro council.,https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022,Victoria
+93,vevent,20221225,Christmas Day,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022,Victoria
+94,vevent,20221226,Boxing Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022,Victoria
+95,vevent,20221227,Christmas (additional day),"As 25 December (Christmas Day) falls on a Sunday in 2022, there is an additional public holiday on the Tuesday.",https://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays-2022,Victoria
+96,vevent,20220101,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+97,vevent,20220103,New Year's Day (additional day),"As 1 January 2022 falls on a Saturday in 2022, the following Monday is observed as an additional public holiday.",https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+98,vevent,20220126,Australia Day,Always celebrated on 26 January,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+99,vevent,20220307,Labour Day,"Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+100,vevent,20220415,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+101,vevent,20220418,Easter Monday,Public Holiday as part of Easter.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+102,vevent,20220425,Anzac Day,Celebrated on the 25 April each year.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+103,vevent,20220606,Western Australia Day,Held on the first Monday in June each year and is a state holiday only.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+104,vevent,20220926,Queen's Birthday,Celebrated on second Monday in June except in Western Australia and Queensland.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+105,vevent,20221225,Christmas Day ,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+106,vevent,20221226,Boxing Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+107,vevent,20221227,Christmas (additional day),"As 25 December (Christmas Day) falls on a Saturday in 2022, there is an additional public holiday on the Monday.",https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+108,vevent,20230101,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+109,vevent,20230102,New Year's Day (observed),"As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+110,vevent,20230126,Australia Day,Always celebrated on 26 January,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+111,vevent,20230313,Canberra Day,Held on the second Monday of March each year in Canberra to celebrate the naming ceremony of Australia's capital which took place on 12 March 1913.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+112,vevent,20230407,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+113,vevent,20230408,Easter Saturday,Easter Saturday is between Good Friday and Easter Sunday in Australia.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+114,vevent,20230409,Easter Sunday,Public Holiday as part of Easter.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+115,vevent,20230410,Easter Monday,Public Holiday as part of Easter.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+116,vevent,20230425,Anzac Day,Celebrated on the 25 April each year.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+117,vevent,20230529,Reconciliation Day,Takes place on the first Monday on or after 27 May each year the anniversary of the 1967 referendum,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+118,vevent,20230612,Queen's Birthday,Celebrated on second Monday in June except in Western Australia and Queensland.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+119,vevent,20231002,Labour Day,Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+120,vevent,20231225,Christmas Day ,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+121,vevent,20231226,Boxing Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://www.cmtedd.act.gov.au/communication/holidays,Australian Capital Territory
+122,vevent,20230101,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://www.nsw.gov.au/living-in-nsw/school-holidays,New South Wales
+123,vevent,20230102,New Year's Day (observed),"As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",https://www.nsw.gov.au/living-in-nsw/school-holidays,New South Wales
+124,vevent,20230126,Australia Day,Always celebrated on 26 January,https://www.nsw.gov.au/living-in-nsw/school-holidays,New South Wales
+125,vevent,20230407,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://www.nsw.gov.au/living-in-nsw/school-holidays,New South Wales
+126,vevent,20230408,Easter Saturday,Easter Saturday is between Good Friday and Easter Sunday in Australia.,https://www.nsw.gov.au/living-in-nsw/school-holidays,New South Wales
+127,vevent,20230409,Easter Sunday,Public Holiday as part of Easter.,https://www.nsw.gov.au/living-in-nsw/school-holidays,New South Wales
+128,vevent,20230410,Easter Monday,Public Holiday as part of Easter.,https://www.nsw.gov.au/living-in-nsw/school-holidays,New South Wales
+129,vevent,20230425,Anzac Day,Celebrated on the 25 April each year.,https://www.nsw.gov.au/living-in-nsw/school-holidays,New South Wales
+130,vevent,20230612,Queen's Birthday,Celebrated on second Monday in June except in Western Australia and Queensland.,https://www.nsw.gov.au/living-in-nsw/school-holidays,New South Wales
+131,vevent,20230807,Bank Holiday,"Applies to banks and certain financial institutions, per the Retail Trading Act 2008",https://www.nsw.gov.au/living-in-nsw/school-holidays,New South Wales
+132,vevent,20231002,Labour Day,Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.,https://www.nsw.gov.au/living-in-nsw/school-holidays,New South Wales
+133,vevent,20231225,Christmas Day ,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://www.nsw.gov.au/living-in-nsw/school-holidays,New South Wales
+134,vevent,20231226,Boxing Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://www.nsw.gov.au/living-in-nsw/school-holidays,New South Wales
+135,vevent,20230101,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://nt.gov.au/nt-public-holidays,Northern Territory
+136,vevent,20230102,New Year's Day (observed),"As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",https://nt.gov.au/nt-public-holidays,Northern Territory
+137,vevent,20230126,Australia Day,Always celebrated on 26 January,https://nt.gov.au/nt-public-holidays,Northern Territory
+138,vevent,20230407,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://nt.gov.au/nt-public-holidays,Northern Territory
+139,vevent,20230408,Easter Saturday,Easter Saturday is between Good Friday and Easter Sunday in Australia.,https://nt.gov.au/nt-public-holidays,Northern Territory
+140,vevent,20230409,Easter Sunday,Public Holiday as part of Easter.,https://nt.gov.au/nt-public-holidays,Northern Territory
+141,vevent,20230410,Easter Monday,Public Holiday as part of Easter.,https://nt.gov.au/nt-public-holidays,Northern Territory
+142,vevent,20230425,Anzac Day,Celebrated on the 25 April each year.,https://nt.gov.au/nt-public-holidays,Northern Territory
+143,vevent,20230501,May Day,"Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",https://nt.gov.au/nt-public-holidays,Northern Territory
+144,vevent,20230612,Queen's Birthday,Celebrated on second Monday in June except in Western Australia and Queensland.,https://nt.gov.au/nt-public-holidays,Northern Territory
+145,vevent,20230807,Picnic Day,"Observed on the first Monday of August each year and is clebrated with a horse race, railway picnic and other social outings",https://nt.gov.au/nt-public-holidays,Northern Territory
+146,vevent,20231225,Christmas Day ,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://nt.gov.au/nt-public-holidays,Northern Territory
+147,vevent,20231226,Boxing Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://nt.gov.au/nt-public-holidays,Northern Territory
+148,vevent,20230101,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+149,vevent,20230102,New Year's Day (observed),"As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+150,vevent,20230126,Australia Day,Always celebrated on 26 January,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+151,vevent,20230407,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+152,vevent,20230408,Easter Saturday,Easter Saturday is between Good Friday and Easter Sunday in Australia.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+153,vevent,20230409,Easter Sunday,Public Holiday as part of Easter.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+154,vevent,20230410,Easter Monday,Public Holiday as part of Easter.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+155,vevent,20230425,Anzac Day,Celebrated on the 25 April each year.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+156,vevent,20230501,Labour Day,Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+157,vevent,20230816,Royal Queensland Show (Brisbane only),"The Royal National Agricultural (RNA) Show Day (Brisbane only) is held on the Wednesday during the RNA Show period. The RNA Show commences on the first Friday in August, unless the first Friday is prior to 5 August, then it commences on the second Friday of August.",https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+158,vevent,20231002,Queen's Birthday,Celebrated on second Monday in June except in Western Australia and Queensland.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+159,vevent,20231225,Christmas Day ,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+160,vevent,20231226,Boxing Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://www.qld.gov.au/recreation/travel/holidays/public,Queensland
+161,vevent,20230101,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+162,vevent,20230102,New Year's Day (observed),"As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+163,vevent,20230126,Australia Day,Always celebrated on 26 January,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+164,vevent,20230313,Adelaide Cup Day,"The Holidays Act 1910 provides for the third Monday in May to be a public holiday, through the issuing of a special Proclamation by the Governor.",https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+165,vevent,20230407,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+166,vevent,20230408,Easter Saturday,Easter Saturday is between Good Friday and Easter Sunday in Australia.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+167,vevent,20230409,Easter Sunday,Public Holiday as part of Easter.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+168,vevent,20230410,Easter Monday,Public Holiday as part of Easter.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+169,vevent,20230425,Anzac Day,Celebrated on the 25 April each year.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+170,vevent,20230610,Queen's Birthday / Volunteer's Day,Celebrated on second Monday in June except in Western Australia and Queensland.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+171,vevent,20231007,Labour Day,Always on a Monday creating a long weekend. It celebrates the eight-hour working day a victory for workers in the mid-late 19th century.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+172,vevent,20231225,Christmas Day ,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+173,vevent,20231226,Boxing Day / Proclamation Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://www.safework.sa.gov.au/resources/public-holidays,South Australia
+174,vevent,20230101,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+175,vevent,20230102,New Year's Day (observed),"As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+176,vevent,20230126,Australia Day,Always celebrated on 26 January,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+177,vevent,20230314,Eight Hours Day,"Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+178,vevent,20230407,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+179,vevent,20230408,Easter Saturday,Easter Saturday is between Good Friday and Easter Sunday in Australia.,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+180,vevent,20230409,Easter Sunday,Public Holiday as part of Easter.,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+181,vevent,20230410,Easter Monday,Public Holiday as part of Easter.,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+182,vevent,20230411,Easter Tuesday,Public Holiday currently observed by certain awards/agreements and the State Public Service,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+183,vevent,20230425,Anzac Day,Celebrated on the 25 April each year.,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+184,vevent,20230610,Queen's Birthday,Celebrated on second Monday in June except in Western Australia and Queensland.,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+185,vevent,20231225,Christmas Day ,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+186,vevent,20231226,Boxing Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://worksafe.tas.gov.au/topics/laws-and-compliance/public-holidays,Tasmania
+187,vevent,20230101,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://business.vic.gov.au/business-information/public-holidays,Victoria
+188,vevent,20230102,New Year's Day (observed),"As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",https://business.vic.gov.au/business-information/public-holidays,Victoria
+189,vevent,20230126,Australia Day,Always celebrated on 26 January,https://business.vic.gov.au/business-information/public-holidays,Victoria
+190,vevent,20230313,Labour Day,"Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",https://business.vic.gov.au/business-information/public-holidays,Victoria
+191,vevent,20230407,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://business.vic.gov.au/business-information/public-holidays,Victoria
+192,vevent,20230408,Easter Saturday,Easter Saturday is between Good Friday and Easter Sunday in Australia.,https://business.vic.gov.au/business-information/public-holidays,Victoria
+193,vevent,20230409,Easter Sunday,Public Holiday as part of Easter.,https://business.vic.gov.au/business-information/public-holidays,Victoria
+194,vevent,20230410,Easter Monday,Public Holiday as part of Easter.,https://business.vic.gov.au/business-information/public-holidays,Victoria
+195,vevent,20230425,Anzac Day,Celebrated on the 25 April each year.,https://business.vic.gov.au/business-information/public-holidays,Victoria
+196,vevent,20230612,Queen's Birthday,Celebrated on second Monday in June except in Western Australia and Queensland.,https://business.vic.gov.au/business-information/public-holidays,Victoria
+197,vevent,20231107,Melbourne Cup,All of Victoria unless alternate local holiday has been arranged by non-metro council.,https://business.vic.gov.au/business-information/public-holidays,Victoria
+198,vevent,20231225,Christmas Day ,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://business.vic.gov.au/business-information/public-holidays,Victoria
+199,vevent,20231226,Boxing Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://business.vic.gov.au/business-information/public-holidays,Victoria
+200,vevent,20230101,New Year's Day,New Year's Day is the first day of the calendar year and is celebrated each January 1st,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+201,vevent,20230102,New Year's Day (observed),"As 1 January 2023 falls on a Saturday in 2023, the following Monday is observed as an additional public holiday.",https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+202,vevent,20230126,Australia Day,Always celebrated on 26 January,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+203,vevent,20230306,Labour Day,"Always on a Monday, creating a long weekend. It celebrates the eight-hour working day, a victory for workers in the mid-late 19th century.",https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+204,vevent,20230407,Good Friday,Easter is celebrated with Good Friday and Easter Monday creating a 4 day long weekend.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+205,vevent,20230408,Easter Saturday,Easter Saturday is between Good Friday and Easter Sunday in Australia.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+206,vevent,20230409,Easter Sunday,Public Holiday as part of Easter.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+207,vevent,20230410,Easter Monday,Public Holiday as part of Easter.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+208,vevent,20230425,Anzac Day,Celebrated on the 25 April each year.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+209,vevent,20230605,Western Australia Day,Held on the first Monday in June each year and is a state holiday only.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+210,vevent,20230925,Queen's Birthday,Celebrated on second Monday in June except in Western Australia and Queensland.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+211,vevent,20231225,Christmas Day ,Christmas Day is an annual holiday which celebrates the birth of Jesus Christ over 2000 years ago.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
+212,vevent,20231226,Boxing Day,Boxing Day occurs the day after Christmas. Sydney-to-Hobart yacht race and Boxing Day Test Match (Cricket) start on this day.,https://www.commerce.wa.gov.au/labour-relations/public-holidays-western-australia,Western Australia
